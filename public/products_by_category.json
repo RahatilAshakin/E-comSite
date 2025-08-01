@@ -1,0 +1,1098 @@
+{
+  "New Arrivals": [
+    {
+      "id": 1,
+      "category": "New Arrivals",
+      "name": "Stylish Blouse",
+      "price": 919,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Sophia Lane",
+      "stock": "In Stock"
+    },
+    {
+      "id": 2,
+      "category": "New Arrivals",
+      "name": "Classic Jacket",
+      "price": 172,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Chloe Hart",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 3,
+      "category": "New Arrivals",
+      "name": "Trendy Skirt",
+      "price": 228,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Ava Monroe",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 4,
+      "category": "New Arrivals",
+      "name": "Chic Gown",
+      "price": 737,
+      "image": "https://i.ibb.co/Rkyxy3c5/4.jpg",
+      "designer": "Chloe Hart",
+      "stock": "In Stock"
+    },
+    {
+      "id": 5,
+      "category": "New Arrivals",
+      "name": "Classic Blouse",
+      "price": 594,
+      "image": "https://i.ibb.co/zT70z8Bc/5.jpg",
+      "designer": "Noah Stone",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 6,
+      "category": "New Arrivals",
+      "name": "Elegant Skirt",
+      "price": 584,
+      "image": "https://i.ibb.co/G33tWvzn/6.jpg",
+      "designer": "Noah Stone",
+      "stock": "In Stock"
+    },
+    {
+      "id": 7,
+      "category": "New Arrivals",
+      "name": "Classic Blouse",
+      "price": 939,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Olivia Wells",
+      "stock": "In Stock"
+    },
+    {
+      "id": 8,
+      "category": "New Arrivals",
+      "name": "Classic Jeans",
+      "price": 315,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Ava Monroe",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 9,
+      "category": "New Arrivals",
+      "name": "Modern Skirt",
+      "price": 452,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Lucas Grey",
+      "stock": "In Stock"
+    },
+    {
+      "id": 10,
+      "category": "New Arrivals",
+      "name": "Elegant Sweater",
+      "price": 161,
+      "image": "https://i.ibb.co/Rkyxy3c5/4.jpg",
+      "designer": "Elijah Ford",
+      "stock": "In Stock"
+    },
+    {
+      "id": 11,
+      "category": "New Arrivals",
+      "name": "Modern Jeans",
+      "price": 669,
+      "image": "https://i.ibb.co/zT70z8Bc/5.jpg",
+      "designer": "Ava Monroe",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 12,
+      "category": "New Arrivals",
+      "name": "Stylish Sweater",
+      "price": 890,
+      "image": "https://i.ibb.co/G33tWvzn/6.jpg",
+      "designer": "Chloe Hart",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 13,
+      "category": "New Arrivals",
+      "name": "Modern Gown",
+      "price": 934,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Mason Blake",
+      "stock": "In Stock"
+    },
+    {
+      "id": 14,
+      "category": "New Arrivals",
+      "name": "Vintage Blouse",
+      "price": 174,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Olivia Wells",
+      "stock": "In Stock"
+    },
+    {
+      "id": 15,
+      "category": "New Arrivals",
+      "name": "Stylish Top",
+      "price": 842,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Lucas Grey",
+      "stock": "Out of Stock"
+    }
+  ],
+  "Women": [
+    {
+      "id": 1,
+      "category": "Women",
+      "name": "Trendy Dress",
+      "price": 327,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Liam Reed",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 2,
+      "category": "Women",
+      "name": "Cozy Skirt",
+      "price": 151,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Lucas Grey",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 3,
+      "category": "Women",
+      "name": "Vintage Top",
+      "price": 324,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Emma Grace",
+      "stock": "In Stock"
+    },
+    {
+      "id": 4,
+      "category": "Women",
+      "name": "Vintage Jacket",
+      "price": 244,
+      "image": "https://i.ibb.co/Rkyxy3c5/4.jpg",
+      "designer": "Chloe Hart",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 5,
+      "category": "Women",
+      "name": "Stylish Skirt",
+      "price": 585,
+      "image": "https://i.ibb.co/zT70z8Bc/5.jpg",
+      "designer": "Mason Blake",
+      "stock": "In Stock"
+    },
+    {
+      "id": 6,
+      "category": "Women",
+      "name": "Vintage Top",
+      "price": 702,
+      "image": "https://i.ibb.co/G33tWvzn/6.jpg",
+      "designer": "Liam Reed",
+      "stock": "In Stock"
+    },
+    {
+      "id": 7,
+      "category": "Women",
+      "name": "Cozy Jacket",
+      "price": 361,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Lucas Grey",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 8,
+      "category": "Women",
+      "name": "Modern Jacket",
+      "price": 531,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Lucas Grey",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 9,
+      "category": "Women",
+      "name": "Cozy Sweater",
+      "price": 860,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Emma Grace",
+      "stock": "In Stock"
+    },
+    {
+      "id": 10,
+      "category": "Women",
+      "name": "Cozy Gown",
+      "price": 167,
+      "image": "https://i.ibb.co/Rkyxy3c5/4.jpg",
+      "designer": "Liam Reed",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 11,
+      "category": "Women",
+      "name": "Chic Dress",
+      "price": 575,
+      "image": "https://i.ibb.co/zT70z8Bc/5.jpg",
+      "designer": "Lucas Grey",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 12,
+      "category": "Women",
+      "name": "Vintage Skirt",
+      "price": 358,
+      "image": "https://i.ibb.co/G33tWvzn/6.jpg",
+      "designer": "Olivia Wells",
+      "stock": "In Stock"
+    },
+    {
+      "id": 13,
+      "category": "Women",
+      "name": "Chic Jacket",
+      "price": 808,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Mason Blake",
+      "stock": "In Stock"
+    },
+    {
+      "id": 14,
+      "category": "Women",
+      "name": "Vintage Skirt",
+      "price": 501,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Noah Stone",
+      "stock": "In Stock"
+    },
+    {
+      "id": 15,
+      "category": "Women",
+      "name": "Stylish Dress",
+      "price": 812,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Emma Grace",
+      "stock": "Out of Stock"
+    }
+  ],
+  "Kids": [
+    {
+      "id": 1,
+      "category": "Kids",
+      "name": "Classic Top",
+      "price": 836,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Olivia Wells",
+      "stock": "In Stock"
+    },
+    {
+      "id": 2,
+      "category": "Kids",
+      "name": "Stylish Jacket",
+      "price": 131,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Elijah Ford",
+      "stock": "In Stock"
+    },
+    {
+      "id": 3,
+      "category": "Kids",
+      "name": "Elegant Jeans",
+      "price": 939,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Emma Grace",
+      "stock": "In Stock"
+    },
+    {
+      "id": 4,
+      "category": "Kids",
+      "name": "Elegant Blouse",
+      "price": 677,
+      "image": "https://i.ibb.co/Rkyxy3c5/4.jpg",
+      "designer": "Noah Stone",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 5,
+      "category": "Kids",
+      "name": "Stylish Gown",
+      "price": 997,
+      "image": "https://i.ibb.co/zT70z8Bc/5.jpg",
+      "designer": "Noah Stone",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 6,
+      "category": "Kids",
+      "name": "Vintage Jacket",
+      "price": 691,
+      "image": "https://i.ibb.co/G33tWvzn/6.jpg",
+      "designer": "Mason Blake",
+      "stock": "In Stock"
+    },
+    {
+      "id": 7,
+      "category": "Kids",
+      "name": "Stylish Gown",
+      "price": 678,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Emma Grace",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 8,
+      "category": "Kids",
+      "name": "Cozy Jacket",
+      "price": 445,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Lucas Grey",
+      "stock": "In Stock"
+    },
+    {
+      "id": 9,
+      "category": "Kids",
+      "name": "Stylish Skirt",
+      "price": 428,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Ava Monroe",
+      "stock": "In Stock"
+    },
+    {
+      "id": 10,
+      "category": "Kids",
+      "name": "Elegant Sweater",
+      "price": 826,
+      "image": "https://i.ibb.co/Rkyxy3c5/4.jpg",
+      "designer": "Ava Monroe",
+      "stock": "In Stock"
+    },
+    {
+      "id": 11,
+      "category": "Kids",
+      "name": "Vintage Blouse",
+      "price": 839,
+      "image": "https://i.ibb.co/zT70z8Bc/5.jpg",
+      "designer": "Emma Grace",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 12,
+      "category": "Kids",
+      "name": "Stylish Top",
+      "price": 490,
+      "image": "https://i.ibb.co/G33tWvzn/6.jpg",
+      "designer": "Mason Blake",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 13,
+      "category": "Kids",
+      "name": "Vintage Gown",
+      "price": 978,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Lucas Grey",
+      "stock": "In Stock"
+    },
+    {
+      "id": 14,
+      "category": "Kids",
+      "name": "Vintage Jeans",
+      "price": 283,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Emma Grace",
+      "stock": "In Stock"
+    },
+    {
+      "id": 15,
+      "category": "Kids",
+      "name": "Stylish Sweater",
+      "price": 408,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Chloe Hart",
+      "stock": "Out of Stock"
+    }
+  ],
+  "Dresses": [
+    {
+      "id": 1,
+      "category": "Dresses",
+      "name": "Cozy Sweater",
+      "price": 218,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Ava Monroe",
+      "stock": "In Stock"
+    },
+    {
+      "id": 2,
+      "category": "Dresses",
+      "name": "Chic Blouse",
+      "price": 602,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Olivia Wells",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 3,
+      "category": "Dresses",
+      "name": "Modern Skirt",
+      "price": 782,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Emma Grace",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 4,
+      "category": "Dresses",
+      "name": "Elegant Skirt",
+      "price": 559,
+      "image": "https://i.ibb.co/Rkyxy3c5/4.jpg",
+      "designer": "Elijah Ford",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 5,
+      "category": "Dresses",
+      "name": "Vintage Jeans",
+      "price": 371,
+      "image": "https://i.ibb.co/zT70z8Bc/5.jpg",
+      "designer": "Lucas Grey",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 6,
+      "category": "Dresses",
+      "name": "Classic Jeans",
+      "price": 575,
+      "image": "https://i.ibb.co/G33tWvzn/6.jpg",
+      "designer": "Sophia Lane",
+      "stock": "In Stock"
+    },
+    {
+      "id": 7,
+      "category": "Dresses",
+      "name": "Chic Dress",
+      "price": 643,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Noah Stone",
+      "stock": "In Stock"
+    },
+    {
+      "id": 8,
+      "category": "Dresses",
+      "name": "Modern Dress",
+      "price": 430,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Elijah Ford",
+      "stock": "In Stock"
+    },
+    {
+      "id": 9,
+      "category": "Dresses",
+      "name": "Modern Sweater",
+      "price": 993,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Emma Grace",
+      "stock": "In Stock"
+    },
+    {
+      "id": 10,
+      "category": "Dresses",
+      "name": "Trendy Sweater",
+      "price": 836,
+      "image": "https://i.ibb.co/Rkyxy3c5/4.jpg",
+      "designer": "Emma Grace",
+      "stock": "In Stock"
+    },
+    {
+      "id": 11,
+      "category": "Dresses",
+      "name": "Stylish Sweater",
+      "price": 122,
+      "image": "https://i.ibb.co/zT70z8Bc/5.jpg",
+      "designer": "Sophia Lane",
+      "stock": "In Stock"
+    },
+    {
+      "id": 12,
+      "category": "Dresses",
+      "name": "Trendy Blouse",
+      "price": 177,
+      "image": "https://i.ibb.co/G33tWvzn/6.jpg",
+      "designer": "Noah Stone",
+      "stock": "In Stock"
+    },
+    {
+      "id": 13,
+      "category": "Dresses",
+      "name": "Trendy Dress",
+      "price": 454,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Lucas Grey",
+      "stock": "In Stock"
+    },
+    {
+      "id": 14,
+      "category": "Dresses",
+      "name": "Chic Top",
+      "price": 314,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Emma Grace",
+      "stock": "In Stock"
+    },
+    {
+      "id": 15,
+      "category": "Dresses",
+      "name": "Modern Dress",
+      "price": 225,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Olivia Wells",
+      "stock": "Out of Stock"
+    }
+  ],
+  "Tops": [
+    {
+      "id": 1,
+      "category": "Tops",
+      "name": "Stylish Top",
+      "price": 367,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Emma Grace",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 2,
+      "category": "Tops",
+      "name": "Modern Jeans",
+      "price": 676,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Olivia Wells",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 3,
+      "category": "Tops",
+      "name": "Vintage Blouse",
+      "price": 158,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Elijah Ford",
+      "stock": "In Stock"
+    },
+    {
+      "id": 4,
+      "category": "Tops",
+      "name": "Stylish Dress",
+      "price": 894,
+      "image": "https://i.ibb.co/Rkyxy3c5/4.jpg",
+      "designer": "Olivia Wells",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 5,
+      "category": "Tops",
+      "name": "Trendy Blouse",
+      "price": 138,
+      "image": "https://i.ibb.co/zT70z8Bc/5.jpg",
+      "designer": "Sophia Lane",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 6,
+      "category": "Tops",
+      "name": "Vintage Jacket",
+      "price": 185,
+      "image": "https://i.ibb.co/G33tWvzn/6.jpg",
+      "designer": "Emma Grace",
+      "stock": "In Stock"
+    },
+    {
+      "id": 7,
+      "category": "Tops",
+      "name": "Modern Top",
+      "price": 835,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Liam Reed",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 8,
+      "category": "Tops",
+      "name": "Elegant Dress",
+      "price": 555,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Emma Grace",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 9,
+      "category": "Tops",
+      "name": "Vintage Top",
+      "price": 736,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Chloe Hart",
+      "stock": "In Stock"
+    },
+    {
+      "id": 10,
+      "category": "Tops",
+      "name": "Chic Blouse",
+      "price": 166,
+      "image": "https://i.ibb.co/Rkyxy3c5/4.jpg",
+      "designer": "Emma Grace",
+      "stock": "In Stock"
+    },
+    {
+      "id": 11,
+      "category": "Tops",
+      "name": "Cozy Top",
+      "price": 447,
+      "image": "https://i.ibb.co/zT70z8Bc/5.jpg",
+      "designer": "Liam Reed",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 12,
+      "category": "Tops",
+      "name": "Chic Skirt",
+      "price": 943,
+      "image": "https://i.ibb.co/G33tWvzn/6.jpg",
+      "designer": "Sophia Lane",
+      "stock": "In Stock"
+    },
+    {
+      "id": 13,
+      "category": "Tops",
+      "name": "Modern Gown",
+      "price": 792,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Olivia Wells",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 14,
+      "category": "Tops",
+      "name": "Cozy Blouse",
+      "price": 309,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Lucas Grey",
+      "stock": "In Stock"
+    },
+    {
+      "id": 15,
+      "category": "Tops",
+      "name": "Cozy Dress",
+      "price": 352,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Noah Stone",
+      "stock": "In Stock"
+    }
+  ],
+  "Bottoms": [
+    {
+      "id": 1,
+      "category": "Bottoms",
+      "name": "Trendy Gown",
+      "price": 623,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Mason Blake",
+      "stock": "In Stock"
+    },
+    {
+      "id": 2,
+      "category": "Bottoms",
+      "name": "Modern Top",
+      "price": 621,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Mason Blake",
+      "stock": "In Stock"
+    },
+    {
+      "id": 3,
+      "category": "Bottoms",
+      "name": "Elegant Sweater",
+      "price": 754,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Emma Grace",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 4,
+      "category": "Bottoms",
+      "name": "Modern Sweater",
+      "price": 275,
+      "image": "https://i.ibb.co/Rkyxy3c5/4.jpg",
+      "designer": "Mason Blake",
+      "stock": "In Stock"
+    },
+    {
+      "id": 5,
+      "category": "Bottoms",
+      "name": "Vintage Sweater",
+      "price": 358,
+      "image": "https://i.ibb.co/zT70z8Bc/5.jpg",
+      "designer": "Ava Monroe",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 6,
+      "category": "Bottoms",
+      "name": "Vintage Sweater",
+      "price": 298,
+      "image": "https://i.ibb.co/G33tWvzn/6.jpg",
+      "designer": "Chloe Hart",
+      "stock": "In Stock"
+    },
+    {
+      "id": 7,
+      "category": "Bottoms",
+      "name": "Classic Jacket",
+      "price": 332,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Mason Blake",
+      "stock": "In Stock"
+    },
+    {
+      "id": 8,
+      "category": "Bottoms",
+      "name": "Modern Top",
+      "price": 516,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Chloe Hart",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 9,
+      "category": "Bottoms",
+      "name": "Chic Gown",
+      "price": 559,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Olivia Wells",
+      "stock": "In Stock"
+    },
+    {
+      "id": 10,
+      "category": "Bottoms",
+      "name": "Trendy Top",
+      "price": 468,
+      "image": "https://i.ibb.co/Rkyxy3c5/4.jpg",
+      "designer": "Noah Stone",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 11,
+      "category": "Bottoms",
+      "name": "Vintage Jeans",
+      "price": 649,
+      "image": "https://i.ibb.co/zT70z8Bc/5.jpg",
+      "designer": "Elijah Ford",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 12,
+      "category": "Bottoms",
+      "name": "Modern Gown",
+      "price": 495,
+      "image": "https://i.ibb.co/G33tWvzn/6.jpg",
+      "designer": "Olivia Wells",
+      "stock": "In Stock"
+    },
+    {
+      "id": 13,
+      "category": "Bottoms",
+      "name": "Elegant Sweater",
+      "price": 500,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Mason Blake",
+      "stock": "In Stock"
+    },
+    {
+      "id": 14,
+      "category": "Bottoms",
+      "name": "Chic Top",
+      "price": 852,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Elijah Ford",
+      "stock": "In Stock"
+    },
+    {
+      "id": 15,
+      "category": "Bottoms",
+      "name": "Classic Top",
+      "price": 944,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Mason Blake",
+      "stock": "Out of Stock"
+    }
+  ],
+  "Accessories": [
+    {
+      "id": 1,
+      "category": "Accessories",
+      "name": "Stylish Gown",
+      "price": 474,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Emma Grace",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 2,
+      "category": "Accessories",
+      "name": "Vintage Skirt",
+      "price": 950,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Elijah Ford",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 3,
+      "category": "Accessories",
+      "name": "Stylish Dress",
+      "price": 577,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Ava Monroe",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 4,
+      "category": "Accessories",
+      "name": "Elegant Top",
+      "price": 799,
+      "image": "https://i.ibb.co/Rkyxy3c5/4.jpg",
+      "designer": "Noah Stone",
+      "stock": "In Stock"
+    },
+    {
+      "id": 5,
+      "category": "Accessories",
+      "name": "Stylish Blouse",
+      "price": 191,
+      "image": "https://i.ibb.co/zT70z8Bc/5.jpg",
+      "designer": "Chloe Hart",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 6,
+      "category": "Accessories",
+      "name": "Modern Sweater",
+      "price": 829,
+      "image": "https://i.ibb.co/G33tWvzn/6.jpg",
+      "designer": "Lucas Grey",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 7,
+      "category": "Accessories",
+      "name": "Stylish Gown",
+      "price": 504,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Ava Monroe",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 8,
+      "category": "Accessories",
+      "name": "Cozy Sweater",
+      "price": 761,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Olivia Wells",
+      "stock": "In Stock"
+    },
+    {
+      "id": 9,
+      "category": "Accessories",
+      "name": "Modern Jacket",
+      "price": 867,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Elijah Ford",
+      "stock": "In Stock"
+    },
+    {
+      "id": 10,
+      "category": "Accessories",
+      "name": "Elegant Dress",
+      "price": 754,
+      "image": "https://i.ibb.co/Rkyxy3c5/4.jpg",
+      "designer": "Chloe Hart",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 11,
+      "category": "Accessories",
+      "name": "Trendy Jeans",
+      "price": 456,
+      "image": "https://i.ibb.co/zT70z8Bc/5.jpg",
+      "designer": "Liam Reed",
+      "stock": "In Stock"
+    },
+    {
+      "id": 12,
+      "category": "Accessories",
+      "name": "Classic Skirt",
+      "price": 348,
+      "image": "https://i.ibb.co/G33tWvzn/6.jpg",
+      "designer": "Lucas Grey",
+      "stock": "In Stock"
+    },
+    {
+      "id": 13,
+      "category": "Accessories",
+      "name": "Elegant Dress",
+      "price": 819,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Elijah Ford",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 14,
+      "category": "Accessories",
+      "name": "Vintage Sweater",
+      "price": 606,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Elijah Ford",
+      "stock": "In Stock"
+    },
+    {
+      "id": 15,
+      "category": "Accessories",
+      "name": "Elegant Top",
+      "price": 964,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Emma Grace",
+      "stock": "Out of Stock"
+    }
+  ],
+  "Sale": [
+    {
+      "id": 1,
+      "category": "Sale",
+      "name": "Classic Blouse",
+      "price": 867,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Elijah Ford",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 2,
+      "category": "Sale",
+      "name": "Vintage Skirt",
+      "price": 199,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Ava Monroe",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 3,
+      "category": "Sale",
+      "name": "Chic Sweater",
+      "price": 216,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Lucas Grey",
+      "stock": "In Stock"
+    },
+    {
+      "id": 4,
+      "category": "Sale",
+      "name": "Vintage Gown",
+      "price": 550,
+      "image": "https://i.ibb.co/Rkyxy3c5/4.jpg",
+      "designer": "Ava Monroe",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 5,
+      "category": "Sale",
+      "name": "Cozy Top",
+      "price": 345,
+      "image": "https://i.ibb.co/zT70z8Bc/5.jpg",
+      "designer": "Noah Stone",
+      "stock": "In Stock"
+    },
+    {
+      "id": 6,
+      "category": "Sale",
+      "name": "Trendy Blouse",
+      "price": 623,
+      "image": "https://i.ibb.co/G33tWvzn/6.jpg",
+      "designer": "Elijah Ford",
+      "stock": "In Stock"
+    },
+    {
+      "id": 7,
+      "category": "Sale",
+      "name": "Chic Jeans",
+      "price": 454,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Ava Monroe",
+      "stock": "In Stock"
+    },
+    {
+      "id": 8,
+      "category": "Sale",
+      "name": "Trendy Jeans",
+      "price": 507,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Ava Monroe",
+      "stock": "In Stock"
+    },
+    {
+      "id": 9,
+      "category": "Sale",
+      "name": "Cozy Top",
+      "price": 365,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Chloe Hart",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 10,
+      "category": "Sale",
+      "name": "Trendy Jeans",
+      "price": 167,
+      "image": "https://i.ibb.co/Rkyxy3c5/4.jpg",
+      "designer": "Ava Monroe",
+      "stock": "In Stock"
+    },
+    {
+      "id": 11,
+      "category": "Sale",
+      "name": "Trendy Gown",
+      "price": 629,
+      "image": "https://i.ibb.co/zT70z8Bc/5.jpg",
+      "designer": "Elijah Ford",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": 12,
+      "category": "Sale",
+      "name": "Classic Dress",
+      "price": 842,
+      "image": "https://i.ibb.co/G33tWvzn/6.jpg",
+      "designer": "Olivia Wells",
+      "stock": "In Stock"
+    },
+    {
+      "id": 13,
+      "category": "Sale",
+      "name": "Vintage Skirt",
+      "price": 763,
+      "image": "https://i.ibb.co/GQb0js9r/1.jpg",
+      "designer": "Ava Monroe",
+      "stock": "In Stock"
+    },
+    {
+      "id": 14,
+      "category": "Sale",
+      "name": "Elegant Gown",
+      "price": 510,
+      "image": "https://i.ibb.co/60fsHbKR/2.jpg",
+      "designer": "Olivia Wells",
+      "stock": "In Stock"
+    },
+    {
+      "id": 15,
+      "category": "Sale",
+      "name": "Modern Dress",
+      "price": 351,
+      "image": "https://i.ibb.co/7dLpfV36/3.jpg",
+      "designer": "Olivia Wells",
+      "stock": "In Stock"
+    }
+  ]
+}

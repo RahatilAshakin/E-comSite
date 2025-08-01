@@ -1,0 +1,4029 @@
+[
+  {
+    "id": 1,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Ekota Express 705",
+    "train_name_down": "Ekota Express 706",
+    "From_up": "Dhaka",
+    "To_up": "Panchagarh",
+    "departure_time_Dhaka": "10:10",
+    "arrival_time_Panchagarh": "20:00",
+    "From_down": "Panchagarh",
+    "To_down": "Dhaka",
+    "departure_time_Panchagarh": "22:00",
+    "arrival_time_Dhaka": "07:00",
+    "route_up": "Dhaka → Panchagarh",
+    "route_down": "Panchagarh → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "360 BDT",
+      "Snigdha": "675 BDT",
+      "AC": "1035 BDT"
+    },
+    "duration_up": "9h 50m",
+    "duration_down": "9h 0m",
+    "off_day": "Monday",
+    "stops_up": [
+      "Biman Bandar",
+      "Tangail",
+      "Ishwardi",
+      "Santahar",
+      "Parbatipur",
+      "Thakurgaon",
+      "Panchagarh"
+    ],
+    "stops_down": [
+      "Panchagarh",
+      "Thakurgaon",
+      "Parbatipur",
+      "Santahar",
+      "Ishwardi",
+      "Tangail",
+      "Biman Bandar"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Panchagarh": "+880-561-62044"
+    },
+    "zone": "West Zone",
+    "division": "Dinajpur Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 4,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "General": 4,
+      "total_coach": 18
+    },
+    "passenger_capacity": 1200,
+    "onboard_facilities": ["Wi-Fi", "Catering", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/ekota-express",
+    "historical_info": "Started operations in the 1990s, connecting northern districts to the capital."
+  },
+  {
+    "id": 2,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Kurigram Express 797",
+    "train_name_down": "Kurigram Express 798",
+    "From_up": "Dhaka",
+    "To_up": "Kurigram",
+    "departure_time_Dhaka": "20:45",
+    "arrival_time_Kurigram": "06:15",
+    "From_down": "Kurigram",
+    "To_down": "Dhaka",
+    "departure_time_Kurigram": "07:00",
+    "arrival_time_Dhaka": "17:30",
+    "route_up": "Dhaka → Kurigram",
+    "route_down": "Kurigram → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "360 BDT",
+      "Snigdha": "675 BDT",
+      "AC": "1035 BDT"
+    },
+    "duration_up": "9h 30m",
+    "duration_down": "10h 30m",
+    "off_day": "Tuesday",
+    "stops_up": [
+      "Biman Bandar",
+      "Tangail",
+      "Ishwardi",
+      "Parbatipur",
+      "Rangpur",
+      "Kurigram"
+    ],
+    "stops_down": [
+      "Kurigram",
+      "Rangpur",
+      "Parbatipur",
+      "Ishwardi",
+      "Tangail",
+      "Biman Bandar"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Kurigram": "+880-XXX-XXXXXXX"
+    },
+    "zone": "West Zone",
+    "division": "Rangpur Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 2,
+      "Shovon": 7,
+      "General": 4,
+      "total_coach": 16
+    },
+    "passenger_capacity": 1100,
+    "onboard_facilities": ["Wi-Fi", "Catering", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/kurigram-express",
+    "historical_info": "Kurigram Express connects Dhaka to the far north district of Kurigram."
+  },
+  {
+    "id": 3,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Silk City Express 753",
+    "train_name_down": "Silk City Express 754",
+    "From_up": "Dhaka",
+    "To_up": "Rajshahi",
+    "departure_time_Dhaka": "14:45",
+    "arrival_time_Rajshahi": "21:30",
+    "From_down": "Rajshahi",
+    "To_down": "Dhaka",
+    "departure_time_Rajshahi": "07:00",
+    "arrival_time_Dhaka": "13:00",
+    "route_up": "Dhaka → Rajshahi",
+    "route_down": "Rajshahi → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "345 BDT",
+      "Snigdha": "656 BDT",
+      "AC": "980 BDT"
+    },
+    "duration_up": "6h 45m",
+    "duration_down": "6h 0m",
+    "off_day": "Sunday",
+    "stops_up": [
+      "Biman Bandar",
+      "Tangail",
+      "BB East",
+      "Ullapara",
+      "Ishwardi",
+      "Abdulpur",
+      "Rajshahi"
+    ],
+    "stops_down": [
+      "Rajshahi",
+      "Abdulpur",
+      "Ishwardi",
+      "Ullapara",
+      "BB East",
+      "Tangail",
+      "Biman Bandar"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Rajshahi": "+880-XXX-XXXXXXX"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "General": 4,
+      "total_coach": 16
+    },
+    "passenger_capacity": 1050,
+    "onboard_facilities": ["Catering", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/silk-city-express",
+    "historical_info": "One of the oldest and most reliable intercity trains on the Dhaka–Rajshahi route."
+  },
+
+  {
+    "id": 4,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Lalmoni Express 751",
+    "train_name_down": "Lalmoni Express 752",
+    "From_up": "Dhaka",
+    "To_up": "Lalmonirhat",
+    "departure_time_Dhaka": "21:45",
+    "arrival_time_Lalmonirhat": "07:20",
+    "From_down": "Lalmonirhat",
+    "To_down": "Dhaka",
+    "departure_time_Lalmonirhat": "10:40",
+    "arrival_time_Dhaka": "20:55",
+    "route_up": "Dhaka → Lalmonirhat",
+    "route_down": "Lalmonirhat → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "360 BDT",
+      "Snigdha": "675 BDT",
+      "AC": "1035 BDT"
+    },
+    "duration_up": "9h 35m",
+    "duration_down": "10h 15m",
+    "off_day": "Friday",
+    "stops_up": [
+      "Biman Bandar",
+      "Tangail",
+      "Ishwardi",
+      "Santahar",
+      "Rangpur",
+      "Lalmonirhat"
+    ],
+    "stops_down": [
+      "Lalmonirhat",
+      "Rangpur",
+      "Santahar",
+      "Ishwardi",
+      "Tangail",
+      "Biman Bandar"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Lalmonirhat": "+880-XXX-XXXXXXX"
+    },
+    "zone": "West Zone",
+    "division": "Rangpur Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "General": 2,
+      "total_coach": 14
+    },
+    "passenger_capacity": 1100,
+    "onboard_facilities": ["Wi-Fi", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/lalmoni-express",
+    "historical_info": "Lalmoni Express connects Dhaka with the northern district of Lalmonirhat."
+  },
+
+  {
+    "id": 5,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Padma Express 759",
+    "train_name_down": "Padma Express 760",
+    "From_up": "Dhaka",
+    "To_up": "Rajshahi",
+    "departure_time_Dhaka": "23:00",
+    "arrival_time_Rajshahi": "04:30",
+    "From_down": "Rajshahi",
+    "To_down": "Dhaka",
+    "departure_time_Rajshahi": "16:00",
+    "arrival_time_Dhaka": "21:30",
+    "route_up": "Dhaka → Rajshahi",
+    "route_down": "Rajshahi → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "345 BDT",
+      "Snigdha": "656 BDT",
+      "AC": "980 BDT"
+    },
+    "duration_up": "5h 30m",
+    "duration_down": "5h 30m",
+    "off_day": "Tuesday",
+    "stops_up": [
+      "Biman Bandar",
+      "Tangail",
+      "BB East",
+      "Ullapara",
+      "Ishwardi",
+      "Rajshahi"
+    ],
+    "stops_down": [
+      "Rajshahi",
+      "Ishwardi",
+      "Ullapara",
+      "BB East",
+      "Tangail",
+      "Biman Bandar"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Rajshahi": "+880-XXX-XXXXXXX"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 2,
+      "Shovon": 9,
+      "General": 2,
+      "total_coach": 16
+    },
+    "passenger_capacity": 1200,
+    "onboard_facilities": ["Wi-Fi", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/padma-express",
+    "historical_info": "Padma Express is a popular night service connecting Rajshahi with Dhaka."
+  },
+  {
+    "id": 6,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Silk City Express 753",
+    "train_name_down": "Silk City Express 754",
+    "From_up": "Dhaka",
+    "To_up": "Rajshahi",
+    "departure_time_Dhaka": "14:45",
+    "arrival_time_Rajshahi": "21:30",
+    "From_down": "Rajshahi",
+    "To_down": "Dhaka",
+    "departure_time_Rajshahi": "07:40",
+    "arrival_time_Dhaka": "13:30",
+    "route_up": "Dhaka → Rajshahi",
+    "route_down": "Rajshahi → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "345 BDT",
+      "Snigdha": "656 BDT",
+      "AC": "980 BDT"
+    },
+    "duration_up": "6h 45m",
+    "duration_down": "5h 50m",
+    "off_day": "Sunday",
+    "stops_up": [
+      "Biman Bandar",
+      "Joydevpur",
+      "Tangail",
+      "Ishwardi",
+      "Rajshahi"
+    ],
+    "stops_down": [
+      "Rajshahi",
+      "Ishwardi",
+      "Tangail",
+      "Joydevpur",
+      "Biman Bandar"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Rajshahi": "+880-XXX-XXXXXXX"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "General": 2,
+      "total_coach": 15
+    },
+    "passenger_capacity": 1150,
+    "onboard_facilities": ["Wi-Fi", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/silk-city-express",
+    "historical_info": "A major intercity service connecting Rajshahi and Dhaka by day."
+  },
+  {
+    "id": 7,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Drutojan Express 757",
+    "train_name_down": "Drutojan Express 758",
+    "From_up": "Dhaka",
+    "To_up": "Panchagarh",
+    "departure_time_Dhaka": "20:00",
+    "arrival_time_Panchagarh": "06:10",
+    "From_down": "Panchagarh",
+    "To_down": "Dhaka",
+    "departure_time_Panchagarh": "20:00",
+    "arrival_time_Dhaka": "06:10",
+    "route_up": "Dhaka → Panchagarh",
+    "route_down": "Panchagarh → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "430 BDT",
+      "Snigdha": "800 BDT",
+      "AC": "1200 BDT"
+    },
+    "duration_up": "10h 10m",
+    "duration_down": "10h 10m",
+    "off_day": "None",
+    "stops_up": [
+      "Biman Bandar",
+      "Joydevpur",
+      "Santahar",
+      "Parbatipur",
+      "Thakurgaon",
+      "Panchagarh"
+    ],
+    "stops_down": [
+      "Panchagarh",
+      "Thakurgaon",
+      "Parbatipur",
+      "Santahar",
+      "Joydevpur",
+      "Biman Bandar"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Panchagarh": "+880-XXX-XXXXXXX"
+    },
+    "zone": "West Zone",
+    "division": "Rangpur Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 3,
+      "Shovon": 10,
+      "General": 2,
+      "total_coach": 18
+    },
+    "passenger_capacity": 1300,
+    "onboard_facilities": ["Restrooms", "Catering", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/drutojan-express",
+    "historical_info": "A popular overnight train serving northern districts like Thakurgaon and Panchagarh."
+  },
+  {
+    "id": 8,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Ekota Express 705",
+    "train_name_down": "Ekota Express 706",
+    "From_up": "Dhaka",
+    "To_up": "Panchagarh",
+    "departure_time_Dhaka": "10:10",
+    "arrival_time_Panchagarh": "20:10",
+    "From_down": "Panchagarh",
+    "To_down": "Dhaka",
+    "departure_time_Panchagarh": "22:45",
+    "arrival_time_Dhaka": "08:10",
+    "route_up": "Dhaka → Panchagarh",
+    "route_down": "Panchagarh → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "430 BDT",
+      "Snigdha": "800 BDT",
+      "AC": "1200 BDT"
+    },
+    "duration_up": "10h 0m",
+    "duration_down": "9h 25m",
+    "off_day": "Tuesday",
+    "stops_up": ["Tangail", "Santahar", "Dinajpur", "Thakurgaon", "Panchagarh"],
+    "stops_down": [
+      "Panchagarh",
+      "Thakurgaon",
+      "Dinajpur",
+      "Santahar",
+      "Tangail"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Panchagarh": "+880-XXX-XXXXXXX"
+    },
+    "zone": "West Zone",
+    "division": "Rangpur Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 3,
+      "Shovon": 10,
+      "General": 2,
+      "total_coach": 18
+    },
+    "passenger_capacity": 1350,
+    "onboard_facilities": ["Wi-Fi", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/ekota-express",
+    "historical_info": "One of the oldest and busiest trains in the north-western region."
+  },
+
+  {
+    "id": 9,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Rangpur Express 771",
+    "train_name_down": "Rangpur Express 772",
+    "From_up": "Dhaka",
+    "To_up": "Rangpur",
+    "departure_time_Dhaka": "09:10",
+    "arrival_time_Rangpur": "19:05",
+    "From_down": "Rangpur",
+    "To_down": "Dhaka",
+    "departure_time_Rangpur": "20:00",
+    "arrival_time_Dhaka": "06:10",
+    "route_up": "Dhaka → Rangpur",
+    "route_down": "Rangpur → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "400 BDT",
+      "Snigdha": "750 BDT",
+      "AC": "1150 BDT"
+    },
+    "duration_up": "9h 55m",
+    "duration_down": "10h 10m",
+    "off_day": "Sunday",
+    "stops_up": ["Biman Bandar", "Tangail", "Santahar", "Bogura", "Rangpur"],
+    "stops_down": ["Rangpur", "Bogura", "Santahar", "Tangail", "Biman Bandar"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Rangpur": "+880-XXX-XXXXXXX"
+    },
+    "zone": "West Zone",
+    "division": "Rangpur Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 2,
+      "Shovon": 9,
+      "General": 2,
+      "total_coach": 16
+    },
+    "passenger_capacity": 1200,
+    "onboard_facilities": ["Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/rangpur-express",
+    "historical_info": "Provides daily long-haul service to Rangpur."
+  },
+  {
+    "id": 10,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Parabat Express 709",
+    "train_name_down": "Parabat Express 710",
+    "From_up": "Dhaka",
+    "To_up": "Sylhet",
+    "departure_time_Dhaka": "06:20",
+    "arrival_time_Sylhet": "13:00",
+    "From_down": "Sylhet",
+    "To_down": "Dhaka",
+    "departure_time_Sylhet": "15:45",
+    "arrival_time_Dhaka": "22:40",
+    "route_up": "Dhaka → Sylhet",
+    "route_down": "Sylhet → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "345 BDT",
+      "Snigdha": "600 BDT",
+      "AC": "950 BDT"
+    },
+    "duration_up": "6h 40m",
+    "duration_down": "6h 55m",
+    "off_day": "Tuesday",
+    "stops_up": [
+      "Biman Bandar",
+      "Bhairab",
+      "Shaistaganj",
+      "Maijgaon",
+      "Sylhet"
+    ],
+    "stops_down": [
+      "Sylhet",
+      "Maijgaon",
+      "Shaistaganj",
+      "Bhairab",
+      "Biman Bandar"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Sylhet": "+880-XXX-XXXXXXX"
+    },
+    "zone": "East Zone",
+    "division": "Sylhet Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "General": 2,
+      "total_coach": 14
+    },
+    "passenger_capacity": 1000,
+    "onboard_facilities": ["Restrooms", "Wi-Fi", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/parabat-express",
+    "historical_info": "Popular among tourists traveling to Sylhet."
+  },
+  {
+    "id": 11,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Jayantika Express 717",
+    "train_name_down": "Jayantika Express 718",
+    "From_up": "Dhaka",
+    "To_up": "Sylhet",
+    "departure_time_Dhaka": "12:00",
+    "arrival_time_Sylhet": "20:00",
+    "From_down": "Sylhet",
+    "To_down": "Dhaka",
+    "departure_time_Sylhet": "11:15",
+    "arrival_time_Dhaka": "19:00",
+    "route_up": "Dhaka → Sylhet",
+    "route_down": "Sylhet → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "345 BDT",
+      "Snigdha": "600 BDT",
+      "AC": "950 BDT"
+    },
+    "duration_up": "8h 0m",
+    "duration_down": "7h 45m",
+    "off_day": "Thursday",
+    "stops_up": [
+      "Biman Bandar",
+      "Narsingdi",
+      "Shaistaganj",
+      "Maijgaon",
+      "Sylhet"
+    ],
+    "stops_down": [
+      "Sylhet",
+      "Maijgaon",
+      "Shaistaganj",
+      "Narsingdi",
+      "Biman Bandar"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Sylhet": "+880-XXX-XXXXXXX"
+    },
+    "zone": "East Zone",
+    "division": "Sylhet Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "General": 2,
+      "total_coach": 14
+    },
+    "passenger_capacity": 1000,
+    "onboard_facilities": ["Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/jayantika-express",
+    "historical_info": "A regular intercity option between Sylhet and Dhaka."
+  },
+  {
+    "id": 12,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Upakul Express 712",
+    "train_name_down": "Upakul Express 711",
+    "From_up": "Dhaka",
+    "To_up": "Noakhali",
+    "departure_time_Dhaka": "15:20",
+    "arrival_time_Noakhali": "21:20",
+    "From_down": "Noakhali",
+    "To_down": "Dhaka",
+    "departure_time_Noakhali": "06:00",
+    "arrival_time_Dhaka": "12:00",
+    "route_up": "Dhaka → Noakhali",
+    "route_down": "Noakhali → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "250 BDT",
+      "Snigdha": "450 BDT",
+      "AC": "750 BDT"
+    },
+    "duration_up": "6h 00m",
+    "duration_down": "6h 00m",
+    "off_day": "Tuesday",
+    "stops_up": ["Dhaka", "Comilla", "Laksam", "Noakhali"],
+    "stops_down": ["Noakhali", "Laksam", "Comilla", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Noakhali": "+880-328-63222"
+    },
+    "zone": "East Zone",
+    "division": "Chittagong Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 6,
+      "General": 4,
+      "total_coach": 14
+    },
+    "passenger_capacity": 900,
+    "onboard_facilities": ["Wi‑Fi", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/upakul-express",
+    "historical_info": "Introduced to improve connectivity from Dhaka to the coastal town of Noakhali."
+  },
+  {
+    "id": 13,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Tista Express 707",
+    "train_name_down": "Tista Express 708",
+    "From_up": "Dhaka",
+    "To_up": "Dewanganj",
+    "departure_time_Dhaka": "07:20",
+    "arrival_time_Dewanganj": "12:55",
+    "From_down": "Dewanganj",
+    "To_down": "Dhaka",
+    "departure_time_Dewanganj": "15:00",
+    "arrival_time_Dhaka": "20:45",
+    "route_up": "Dhaka → Dewanganj",
+    "route_down": "Dewanganj → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "AC"],
+    "ticket_details": {
+      "Shovon": "200 BDT",
+      "AC": "500 BDT"
+    },
+    "duration_up": "5h 35m",
+    "duration_down": "5h 45m",
+    "off_day": "Friday",
+    "stops_up": ["Dhaka", "Siddhirganj", "Narayanganj", "Dewanganj"],
+    "stops_down": ["Dewanganj", "Narayanganj", "Siddhirganj", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Dewanganj": "+880-347-51230"
+    },
+    "zone": "East Zone",
+    "division": "Narayanganj Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 1,
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 9
+    },
+    "passenger_capacity": 700,
+    "onboard_facilities": ["Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/tista-express",
+    "historical_info": "Named after the Tista River, serving suburban commuters."
+  },
+  {
+    "id": 14,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Drutajan Express 757",
+    "train_name_down": "Drutajan Express 758",
+    "From_up": "Dhaka",
+    "To_up": "Dinajpur",
+    "departure_time_Dhaka": "19:40",
+    "arrival_time_Dinajpur": "05:30",
+    "From_down": "Dinajpur",
+    "To_down": "Dhaka",
+    "departure_time_Dinajpur": "07:40",
+    "arrival_time_Dhaka": "17:55",
+    "route_up": "Dhaka → Dinajpur",
+    "route_down": "Dinajpur → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "400 BDT",
+      "Snigdha": "800 BDT",
+      "AC": "1200 BDT"
+    },
+    "duration_up": "9h 50m",
+    "duration_down": "10h 15m",
+    "off_day": "Wednesday",
+    "stops_up": ["Dhaka", "Joydebpur", "Santahar", "Dinajpur"],
+    "stops_down": ["Dinajpur", "Santahar", "Joydebpur", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Dinajpur": "+880-523-51234"
+    },
+    "zone": "West Zone",
+    "division": "Rangpur Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "General": 4,
+      "total_coach": 17
+    },
+    "passenger_capacity": 1250,
+    "onboard_facilities": ["Catering", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/drutajan-express",
+    "historical_info": "A swift overnight service to the northern region."
+  },
+  {
+    "id": 15,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Dolonchapa Express 767",
+    "train_name_down": "Dolonchapa Express 768",
+    "From_up": "Santahar",
+    "To_up": "Dinajpur",
+    "departure_time_Santahar": "13:30",
+    "arrival_time_Dinajpur": "20:30",
+    "From_down": "Dinajpur",
+    "To_down": "Santahar",
+    "departure_time_Dinajpur": "05:40",
+    "arrival_time_Santahar": "12:20",
+    "route_up": "Santahar → Dinajpur",
+    "route_down": "Dinajpur → Santahar",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha"],
+    "ticket_details": {
+      "Shovon": "300 BDT",
+      "Snigdha": "550 BDT"
+    },
+    "duration_up": "7h 00m",
+    "duration_down": "7h 40m",
+    "off_day": "Sunday",
+    "stops_up": ["Santahar", "Parbatipur", "Dinajpur"],
+    "stops_down": ["Dinajpur", "Parbatipur", "Santahar"],
+    "station_contact": {
+      "Santahar": "+880-522-21502",
+      "Dinajpur": "+880-523-51234"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Snigdha": 2,
+      "Shovon": 8,
+      "General": 3,
+      "total_coach": 13
+    },
+    "passenger_capacity": 950,
+    "onboard_facilities": ["Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/dolonchapa-express",
+    "historical_info": "Named after the Dolly Chapa flower, serving the Santahar–Dinajpur route."
+  },
+  {
+    "id": 16,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Banalata Express 793",
+    "train_name_down": "Banalata Express 794",
+    "From_up": "Dhaka",
+    "To_up": "Rajshahi",
+    "departure_time_Dhaka": "22:10",
+    "arrival_time_Rajshahi": "04:50",
+    "From_down": "Rajshahi",
+    "To_down": "Dhaka",
+    "departure_time_Rajshahi": "10:00",
+    "arrival_time_Dhaka": "15:40",
+    "route_up": "Dhaka → Rajshahi",
+    "route_down": "Rajshahi → Dhaka",
+    "train_type": "Mail/Express",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "345 BDT",
+      "Snigdha": "656 BDT",
+      "AC": "980 BDT"
+    },
+    "duration_up": "6h 40m",
+    "duration_down": "5h 40m",
+    "off_day": "Friday",
+    "stops_up": ["Dhaka", "Tangail", "Ishwardi", "Rajshahi"],
+    "stops_down": ["Rajshahi", "Ishwardi", "Tangail", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Rajshahi": "+880-XXX-XXXXXXX"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 10,
+      "General": 2,
+      "total_coach": 16
+    },
+    "passenger_capacity": 1100,
+    "onboard_facilities": ["Wi‑Fi", "Catering", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/banalata-express",
+    "historical_info": "A non‑stop service linking Dhaka and Rajshahi."
+  },
+  {
+    "id": 17,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Udayan Express 723",
+    "train_name_down": "Udayan Express 724",
+    "From_up": "Chattogram",
+    "To_up": "Sylhet",
+    "departure_time_Chattogram": "21:45",
+    "arrival_time_Sylhet": "07:25",
+    "From_down": "Sylhet",
+    "To_down": "Chattogram",
+    "departure_time_Sylhet": "21:20",
+    "arrival_time_Chattogram": "06:50",
+    "route_up": "Chattogram → Sylhet",
+    "route_down": "Sylhet → Chattogram",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "500 BDT",
+      "Snigdha": "900 BDT",
+      "AC": "1400 BDT"
+    },
+    "duration_up": "9h 40m",
+    "duration_down": "9h 30m",
+    "off_day": "Thursday",
+    "stops_up": ["Chattogram", "Feni", "Akhaura", "Sylhet"],
+    "stops_down": ["Sylhet", "Akhaura", "Feni", "Chattogram"],
+    "station_contact": {
+      "Chattogram": "+880-31-2854000",
+      "Sylhet": "+880-XXX-XXXXXXX"
+    },
+    "zone": "East Zone",
+    "division": "Sylhet Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 3,
+      "Shovon": 10,
+      "General": 4,
+      "total_coach": 20
+    },
+    "passenger_capacity": 1400,
+    "onboard_facilities": ["Catering", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/udayan-express",
+    "historical_info": "Known for connecting two major tourist hubs overnight."
+  },
+  {
+    "id": 18,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Agnibina Express 735",
+    "train_name_down": "Agnibina Express 736",
+    "From_up": "Dhaka",
+    "To_up": "Tarakandi",
+    "departure_time_Dhaka": "09:40",
+    "arrival_time_Tarakandi": "15:30",
+    "From_down": "Tarakandi",
+    "To_down": "Dhaka",
+    "departure_time_Tarakandi": "16:30",
+    "arrival_time_Dhaka": "22:55",
+    "route_up": "Dhaka → Tarakandi",
+    "route_down": "Tarakandi → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "300 BDT",
+      "Snigdha": "600 BDT",
+      "AC": "1000 BDT"
+    },
+    "duration_up": "5h 50m",
+    "duration_down": "6h 25m",
+    "off_day": "Wednesday",
+    "stops_up": ["Dhaka", "Joydebpur", "Shamsernagar", "Tarakandi"],
+    "stops_down": ["Tarakandi", "Shamsernagar", "Joydebpur", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Tarakandi": "+880-383-62012"
+    },
+    "zone": "East Zone",
+    "division": "Mymensingh Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "General": 2,
+      "total_coach": 14
+    },
+    "passenger_capacity": 1000,
+    "onboard_facilities": ["Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/agnibina-express",
+    "historical_info": "Named for its swift service, linking Dhaka with northeastern towns."
+  },
+  {
+    "id": 19,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Kalani Express 773",
+    "train_name_down": "Kalani Express 774",
+    "From_up": "Dhaka",
+    "To_up": "Sylhet",
+    "departure_time_Dhaka": "16:00",
+    "arrival_time_Sylhet": "22:45",
+    "From_down": "Sylhet",
+    "To_down": "Dhaka",
+    "departure_time_Sylhet": "06:40",
+    "arrival_time_Dhaka": "13:40",
+    "route_up": "Dhaka → Sylhet",
+    "route_down": "Sylhet → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "345 BDT",
+      "Snigdha": "600 BDT",
+      "AC": "950 BDT"
+    },
+    "duration_up": "6h 45m",
+    "duration_down": "6h 20m",
+    "off_day": "Thursday",
+    "stops_up": ["Dhaka", "Narsingdi", "Bhairab", "Sylhet"],
+    "stops_down": ["Sylhet", "Bhairab", "Narsingdi", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Sylhet": "+880-XXX-XXXXXXX"
+    },
+    "zone": "East Zone",
+    "division": "Sylhet Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "General": 2,
+      "total_coach": 14
+    },
+    "passenger_capacity": 1000,
+    "onboard_facilities": ["Wi‑Fi", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/kalani-express",
+    "historical_info": "Introduced to cater rising tourist traffic to Sylhet."
+  },
+  {
+    "id": 20,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Karnaphuli Express 3",
+    "train_name_down": "Karnaphuli Express 4",
+    "From_up": "Chattogram",
+    "To_up": "Dhaka",
+    "departure_time_Chattogram": "10:30",
+    "arrival_time_Dhaka": "21:30",
+    "From_down": "Dhaka",
+    "To_down": "Chattogram",
+    "departure_time_Dhaka": "08:25",
+    "arrival_time_Chattogram": "19:25",
+    "route_up": "Chattogram → Dhaka",
+    "route_down": "Dhaka → Chattogram",
+    "train_type": "Mail/Express",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "320 BDT",
+      "Snigdha": "600 BDT",
+      "AC": "950 BDT"
+    },
+    "duration_up": "11h 00m",
+    "duration_down": "11h 00m",
+    "off_day": "None",
+    "stops_up": ["Chattogram", "Comilla", "B.B. East", "Dhaka"],
+    "stops_down": ["Dhaka", "B.B. East", "Comilla", "Chattogram"],
+    "station_contact": {
+      "Chattogram": "+880-31-2854000",
+      "Dhaka": "+880-2-9331900"
+    },
+    "zone": "East Zone",
+    "division": "Chittagong Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "General": 4,
+      "total_coach": 17
+    },
+    "passenger_capacity": 1300,
+    "onboard_facilities": ["Catering", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/karnaphuli-express",
+    "historical_info": "One of the oldest mail express services between Chattogram and Dhaka."
+  },
+  {
+    "id": 21,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Dhaka Mail 1",
+    "train_name_down": "Dhaka Mail 2",
+    "From_up": "Chattogram",
+    "To_up": "Dhaka",
+    "departure_time_Chattogram": "22:30",
+    "arrival_time_Dhaka": "08:00",
+    "From_down": "Dhaka",
+    "To_down": "Chattogram",
+    "departure_time_Dhaka": "22:30",
+    "arrival_time_Chattogram": "08:10",
+    "route_up": "Chattogram → Dhaka",
+    "route_down": "Dhaka → Chattogram",
+    "train_type": "Mail/Express",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "300 BDT",
+      "Snigdha": "580 BDT",
+      "AC": "950 BDT"
+    },
+    "duration_up": "9h 30m",
+    "duration_down": "9h 40m",
+    "off_day": "None",
+    "stops_up": ["Chattogram", "Comilla", "B.B. East", "Dhaka"],
+    "stops_down": ["Dhaka", "B.B. East", "Comilla", "Chattogram"],
+    "station_contact": {
+      "Chattogram": "+880-31-2854000",
+      "Dhaka": "+880-2-9331900"
+    },
+    "zone": "East Zone",
+    "division": "Chittagong Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "General": 5,
+      "total_coach": 17
+    },
+    "passenger_capacity": 1280,
+    "onboard_facilities": ["Catering", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/dhaka-mail",
+    "historical_info": "The oldest mail train service linking the port city with the capital."
+  },
+  {
+    "id": 22,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Chattala Express 801",
+    "train_name_down": "Chattala Express 802",
+    "From_up": "Dhaka",
+    "To_up": "Chattogram",
+    "departure_time_Dhaka": "13:00",
+    "arrival_time_Chattogram": "21:00",
+    "From_down": "Chattogram",
+    "To_down": "Dhaka",
+    "departure_time_Chattogram": "08:30",
+    "arrival_time_Dhaka": "16:50",
+    "route_up": "Dhaka → Chattogram",
+    "route_down": "Chattogram → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha"],
+    "ticket_details": {
+      "Shovon": "265 BDT",
+      "Snigdha": "500 BDT"
+    },
+    "duration_up": "8h 00m",
+    "duration_down": "8h 20m",
+    "off_day": "Tuesday",
+    "stops_up": ["Narayanganj", "Narsingdi", "Feni", "Comilla", "Chattogram"],
+    "stops_down": ["Chattogram", "Comilla", "Feni", "Narsingdi", "Narayanganj"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Chattogram": "+880-31-2854000"
+    },
+    "zone": "East Zone",
+    "division": "Chittagong Division",
+    "speed_category": "Medium",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Snigdha": 2,
+      "Shovon": 6,
+      "General": 4,
+      "total_coach": 12
+    },
+    "passenger_capacity": 900,
+    "onboard_facilities": ["Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/chattala-express",
+    "historical_info": "Long-running daytime express connecting Dhaka and Chattogram."
+  },
+  {
+    "id": 23,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Mohangonj Express 789",
+    "train_name_down": "Mohangonj Express 790",
+    "From_up": "Dhaka",
+    "To_up": "Mohangonj",
+    "departure_time_Dhaka": "14:20",
+    "arrival_time_Mohangonj": "20:30",
+    "From_down": "Mohangonj",
+    "To_down": "Dhaka",
+    "departure_time_Mohangonj": "23:45",
+    "arrival_time_Dhaka": "06:15",
+    "route_up": "Dhaka → Mohangonj",
+    "route_down": "Mohangonj → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "220 BDT",
+      "Snigdha": "420 BDT",
+      "AC": "680 BDT"
+    },
+    "duration_up": "6h 10m",
+    "duration_down": "6h 30m",
+    "off_day": "Monday",
+    "stops_up": ["Dhaka", "Gafargaon", "Netrokona", "Mohangonj"],
+    "stops_down": ["Mohangonj", "Netrokona", "Gafargaon", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Mohangonj": "+880-XXX-XXXXXXX"
+    },
+    "zone": "East Zone",
+    "division": "Mymensingh Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 12
+    },
+    "passenger_capacity": 850,
+    "onboard_facilities": ["Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/mohangonj-express",
+    "historical_info": "Serves northern areas with increasing demand for rural access."
+  },
+  {
+    "id": 24,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Bijoy Express 785",
+    "train_name_down": "Bijoy Express 786",
+    "From_up": "Chattogram",
+    "To_up": "Mymensingh",
+    "departure_time_Chattogram": "07:20",
+    "arrival_time_Mymensingh": "16:50",
+    "From_down": "Mymensingh",
+    "To_down": "Chattogram",
+    "departure_time_Mymensingh": "22:30",
+    "arrival_time_Chattogram": "07:30",
+    "route_up": "Chattogram → Mymensingh",
+    "route_down": "Mymensingh → Chattogram",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha"],
+    "ticket_details": {
+      "Shovon": "300 BDT",
+      "Snigdha": "550 BDT"
+    },
+    "duration_up": "9h 30m",
+    "duration_down": "9h 00m",
+    "off_day": "Wednesday",
+    "stops_up": ["Chattogram", "Akhaura", "Bhairab", "Mymensingh"],
+    "stops_down": ["Mymensingh", "Bhairab", "Akhaura", "Chattogram"],
+    "station_contact": {
+      "Chattogram": "+880-31-2854000",
+      "Mymensingh": "+880-91-62044"
+    },
+    "zone": "East Zone",
+    "division": "Mymensingh Division",
+    "speed_category": "Medium",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Snigdha": 3,
+      "Shovon": 6,
+      "General": 3,
+      "total_coach": 12
+    },
+    "passenger_capacity": 880,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/bijoy-express",
+    "historical_info": "Provides vital connectivity for central-northeast regions."
+  },
+  {
+    "id": 25,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Kishoreganj Express 781",
+    "train_name_down": "Kishoreganj Express 782",
+    "From_up": "Dhaka",
+    "To_up": "Kishoreganj",
+    "departure_time_Dhaka": "10:45",
+    "arrival_time_Kishoreganj": "14:15",
+    "From_down": "Kishoreganj",
+    "To_down": "Dhaka",
+    "departure_time_Kishoreganj": "16:00",
+    "arrival_time_Dhaka": "19:20",
+    "route_up": "Dhaka → Kishoreganj",
+    "route_down": "Kishoreganj → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha"],
+    "ticket_details": {
+      "Shovon": "180 BDT",
+      "Snigdha": "340 BDT"
+    },
+    "duration_up": "3h 30m",
+    "duration_down": "3h 20m",
+    "off_day": "Friday",
+    "stops_up": ["Dhaka", "Bhairab", "Bajitpur", "Kishoreganj"],
+    "stops_down": ["Kishoreganj", "Bajitpur", "Bhairab", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Kishoreganj": "+880-941-63010"
+    },
+    "zone": "East Zone",
+    "division": "Dhaka Division",
+    "speed_category": "Medium",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Snigdha": 1,
+      "Shovon": 5,
+      "General": 2,
+      "total_coach": 8
+    },
+    "passenger_capacity": 600,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/kishoreganj-express",
+    "historical_info": "Popular commuter train to Kishoreganj town."
+  },
+  {
+    "id": 26,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Sonar Bangla Express 787",
+    "train_name_down": "Sonar Bangla Express 788",
+    "From_up": "Dhaka",
+    "To_up": "Chattogram",
+    "departure_time_Dhaka": "07:00",
+    "arrival_time_Chattogram": "12:15",
+    "From_down": "Chattogram",
+    "To_down": "Dhaka",
+    "departure_time_Chattogram": "17:00",
+    "arrival_time_Dhaka": "22:10",
+    "route_up": "Dhaka → Chattogram",
+    "route_down": "Chattogram → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Snigdha", "AC"],
+    "ticket_details": {
+      "Snigdha": "700 BDT",
+      "AC": "1000 BDT"
+    },
+    "duration_up": "5h 15m",
+    "duration_down": "5h 10m",
+    "off_day": "Wednesday",
+    "stops_up": ["Biman Bandar", "Chattogram"],
+    "stops_down": ["Chattogram", "Biman Bandar", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Chattogram": "+880-31-2854000"
+    },
+    "zone": "East Zone",
+    "division": "Chittagong Division",
+    "speed_category": "Fastest",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 7,
+      "total_coach": 10
+    },
+    "passenger_capacity": 800,
+    "onboard_facilities": [
+      "Wi-Fi",
+      "Catering",
+      "Restrooms",
+      "Charging Ports",
+      "Modern Interior"
+    ],
+    "train_status_api": "https://api.railway.gov.bd/train-status/sonar-bangla-express",
+    "historical_info": "Introduced in 2016 as a luxury service with minimal stops between Dhaka and Chattogram."
+  },
+  {
+    "id": 27,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Ishwardi Express 771",
+    "train_name_down": "Ishwardi Express 772",
+    "From_up": "Rajshahi",
+    "To_up": "Ishwardi",
+    "departure_time_Rajshahi": "06:30",
+    "arrival_time_Ishwardi": "08:00",
+    "From_down": "Ishwardi",
+    "To_down": "Rajshahi",
+    "departure_time_Ishwardi": "18:00",
+    "arrival_time_Rajshahi": "19:30",
+    "route_up": "Rajshahi → Ishwardi",
+    "route_down": "Ishwardi → Rajshahi",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon"],
+    "ticket_details": {
+      "Shovon": "80 BDT"
+    },
+    "duration_up": "1h 30m",
+    "duration_down": "1h 30m",
+    "off_day": "Sunday",
+    "stops_up": ["Rajshahi", "Charghat", "Bagha", "Ishwardi"],
+    "stops_down": ["Ishwardi", "Bagha", "Charghat", "Rajshahi"],
+    "station_contact": {
+      "Rajshahi": "+880-721-774480",
+      "Ishwardi": "+880-731-63511"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Medium",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 8
+    },
+    "passenger_capacity": 600,
+    "onboard_facilities": ["Restrooms", "Drinking Water"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/ishwardi-express",
+    "historical_info": "Connects major cities within Rajshahi Division to support local commuters."
+  },
+  {
+    "id": 28,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Kurigram Express 797",
+    "train_name_down": "Kurigram Express 798",
+    "From_up": "Dhaka",
+    "To_up": "Kurigram",
+    "departure_time_Dhaka": "20:45",
+    "arrival_time_Kurigram": "06:15",
+    "From_down": "Kurigram",
+    "To_down": "Dhaka",
+    "departure_time_Kurigram": "07:00",
+    "arrival_time_Dhaka": "17:25",
+    "route_up": "Dhaka → Kurigram",
+    "route_down": "Kurigram → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "420 BDT",
+      "Snigdha": "800 BDT",
+      "AC": "1200 BDT"
+    },
+    "duration_up": "9h 30m",
+    "duration_down": "10h 25m",
+    "off_day": "Wednesday",
+    "stops_up": [
+      "Biman Bandar",
+      "Bogra",
+      "Gaibandha",
+      "Lalmonirhat",
+      "Rangpur",
+      "Kurigram"
+    ],
+    "stops_down": [
+      "Kurigram",
+      "Rangpur",
+      "Lalmonirhat",
+      "Gaibandha",
+      "Bogra",
+      "Biman Bandar",
+      "Dhaka"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Kurigram": "+880-581-62115"
+    },
+    "zone": "West Zone",
+    "division": "Rangpur Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 3,
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 14
+    },
+    "passenger_capacity": 1100,
+    "onboard_facilities": [
+      "Wi-Fi",
+      "Restrooms",
+      "Charging Ports",
+      "Dining Car"
+    ],
+    "train_status_api": "https://api.railway.gov.bd/train-status/kurigram-express",
+    "historical_info": "Launched in 2019 to enhance direct communication between Rangpur region and the capital."
+  },
+  {
+    "id": 29,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Panchagarh Express 793",
+    "train_name_down": "Panchagarh Express 794",
+    "From_up": "Dhaka",
+    "To_up": "Panchagarh",
+    "departure_time_Dhaka": "22:30",
+    "arrival_time_Panchagarh": "08:50",
+    "From_down": "Panchagarh",
+    "To_down": "Dhaka",
+    "departure_time_Panchagarh": "12:30",
+    "arrival_time_Dhaka": "21:55",
+    "route_up": "Dhaka → Panchagarh",
+    "route_down": "Panchagarh → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "500 BDT",
+      "Snigdha": "900 BDT",
+      "AC": "1350 BDT"
+    },
+    "duration_up": "10h 20m",
+    "duration_down": "9h 25m",
+    "off_day": "Monday",
+    "stops_up": [
+      "Biman Bandar",
+      "Parbatipur",
+      "Dinajpur",
+      "Thakurgaon",
+      "Panchagarh"
+    ],
+    "stops_down": [
+      "Panchagarh",
+      "Thakurgaon",
+      "Dinajpur",
+      "Parbatipur",
+      "Biman Bandar",
+      "Dhaka"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Panchagarh": "+880-561-62050"
+    },
+    "zone": "West Zone",
+    "division": "Rangpur Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 3,
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 13
+    },
+    "passenger_capacity": 1000,
+    "onboard_facilities": ["Wi-Fi", "Restrooms", "Charging Ports", "Catering"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/panchagarh-express",
+    "historical_info": "Provides direct, non-stop intercity service from Dhaka to Panchagarh, the northernmost district."
+  },
+  {
+    "id": 30,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Mitali Express 13132",
+    "train_name_down": "Mitali Express 13131",
+    "From_up": "New Jalpaiguri",
+    "To_up": "Dhaka Cantonment",
+    "departure_time_New Jalpaiguri": "11:45",
+    "arrival_time_Dhaka Cantonment": "22:30",
+    "From_down": "Dhaka Cantonment",
+    "To_down": "New Jalpaiguri",
+    "departure_time_Dhaka Cantonment": "21:50",
+    "arrival_time_New Jalpaiguri": "10:35",
+    "route_up": "New Jalpaiguri → Dhaka Cantonment",
+    "route_down": "Dhaka Cantonment → New Jalpaiguri",
+    "train_type": "International",
+    "ticket_classes": ["AC", "Snigdha", "Shovon"],
+    "ticket_details": {
+      "AC": "1500 INR",
+      "Snigdha": "900 INR",
+      "Shovon": "600 INR"
+    },
+    "duration_up": "10h 45m",
+    "duration_down": "12h 45m",
+    "off_day": "Friday",
+    "stops_up": [
+      "New Jalpaiguri",
+      "Kishanganj",
+      "Newalgaon",
+      "Dhaka Cantonment"
+    ],
+    "stops_down": [
+      "Dhaka Cantonment",
+      "Newalgaon",
+      "Kishanganj",
+      "New Jalpaiguri"
+    ],
+    "station_contact": {
+      "New Jalpaiguri": "+91-354-2458245",
+      "Dhaka Cantonment": "+880-2-222420314"
+    },
+    "zone": "International Corridor",
+    "division": "Cross‑border Service",
+    "speed_category": "Fastest",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway & Indian Railways",
+    "coach_composition": {
+      "AC": 4,
+      "Snigdha": 2,
+      "Shovon": 4,
+      "total_coach": 10
+    },
+    "passenger_capacity": 800,
+    "onboard_facilities": ["Catering", "Restrooms", "Charging Ports", "Wi‑Fi"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/mitali-express",
+    "historical_info": "Launched in 2023 as the newest India‑Bangladesh link, named after the border‑spanning friendship mascot."
+  },
+
+  {
+    "id": 31,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Meghna Express 775",
+    "train_name_down": "Meghna Express 776",
+    "From_up": "Dhaka",
+    "To_up": "Chattogram",
+    "departure_time_Dhaka": "08:00",
+    "arrival_time_Chattogram": "14:45",
+    "From_down": "Chattogram",
+    "To_down": "Dhaka",
+    "departure_time_Chattogram": "16:30",
+    "arrival_time_Dhaka": "23:15",
+    "route_up": "Dhaka → Chattogram",
+    "route_down": "Chattogram → Dhaka",
+    "train_type": "Mail/Express",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "350 BDT",
+      "Snigdha": "650 BDT",
+      "AC": "980 BDT"
+    },
+    "duration_up": "6h 45m",
+    "duration_down": "6h 45m",
+    "off_day": "Thursday",
+    "stops_up": ["Biman Bandar", "Narayanganj", "Comilla", "Chattogram"],
+    "stops_down": [
+      "Chattogram",
+      "Comilla",
+      "Narayanganj",
+      "Biman Bandar",
+      "Dhaka"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Chattogram": "+880-31-2854000"
+    },
+    "zone": "East Zone",
+    "division": "Chittagong Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "General": 4,
+      "total_coach": 16
+    },
+    "passenger_capacity": 1150,
+    "onboard_facilities": ["Wi‑Fi", "Catering", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/meghna-express",
+    "historical_info": "Introduced in 2010 as a fast daylight service linking the two major cities."
+  },
+
+  {
+    "id": 32,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Mohanagar Provati 704",
+    "train_name_down": "Mohanagar Godhuli 703",
+    "From_up": "Dhaka",
+    "To_up": "Chattogram",
+    "departure_time_Dhaka": "07:45",
+    "arrival_time_Chattogram": "15:00",
+    "From_down": "Chattogram",
+    "To_down": "Dhaka",
+    "departure_time_Chattogram": "16:40",
+    "arrival_time_Dhaka": "23:15",
+    "route_up": "Dhaka → Chattogram",
+    "route_down": "Chattogram → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "285 BDT",
+      "Snigdha": "530 BDT",
+      "AC": "850 BDT"
+    },
+    "duration_up": "7h 15m",
+    "duration_down": "6h 35m",
+    "off_day": "None",
+    "stops_up": [
+      "Biman Bandar",
+      "Narsingdi",
+      "Brahmanbaria",
+      "Comilla",
+      "Feni",
+      "Chattogram"
+    ],
+    "stops_down": [
+      "Chattogram",
+      "Feni",
+      "Comilla",
+      "Brahmanbaria",
+      "Narsingdi",
+      "Biman Bandar",
+      "Dhaka"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Chattogram": "+880-31-2854000"
+    },
+    "zone": "East Zone",
+    "division": "Chittagong Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 3,
+      "Shovon": 8,
+      "General": 3,
+      "total_coach": 16
+    },
+    "passenger_capacity": 1200,
+    "onboard_facilities": ["Wi‑Fi", "Restrooms", "Charging Ports", "Catering"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/mohanagar",
+    "historical_info": "Mohanagar Provati and Godhuli form the oldest premium pair on the Dhaka–Chattogram route."
+  },
+  {
+    "id": 33,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Turna Express 742",
+    "train_name_down": "Turna Express 741",
+    "From_up": "Dhaka",
+    "To_up": "Chattogram",
+    "departure_time_Dhaka": "23:30",
+    "arrival_time_Chattogram": "07:10",
+    "From_down": "Chattogram",
+    "To_down": "Dhaka",
+    "departure_time_Chattogram": "23:00",
+    "arrival_time_Dhaka": "06:45",
+    "route_up": "Dhaka → Chattogram",
+    "route_down": "Chattogram → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "285 BDT",
+      "Snigdha": "520 BDT",
+      "AC": "800 BDT"
+    },
+    "duration_up": "7h 40m",
+    "duration_down": "7h 45m",
+    "off_day": "None",
+    "stops_up": [
+      "Biman Bandar",
+      "Bhairab Bazar",
+      "Brahmanbaria",
+      "Comilla",
+      "Feni",
+      "Chattogram"
+    ],
+    "stops_down": [
+      "Chattogram",
+      "Feni",
+      "Comilla",
+      "Brahmanbaria",
+      "Bhairab Bazar",
+      "Biman Bandar",
+      "Dhaka"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Chattogram": "+880-31-2854000"
+    },
+    "zone": "East Zone",
+    "division": "Chittagong Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 3,
+      "Shovon": 8,
+      "General": 2,
+      "total_coach": 16
+    },
+    "passenger_capacity": 1200,
+    "onboard_facilities": [
+      "Wi-Fi",
+      "Restrooms",
+      "Charging Ports",
+      "Sleeping Berths"
+    ],
+    "train_status_api": "https://api.railway.gov.bd/train-status/turna-express",
+    "historical_info": "Turna Express was inaugurated in 1998 as a premium overnight Intercity train between Dhaka and Chattogram. It remains one of the most used services on this route, offering overnight convenience with modern amenities."
+  },
+  {
+    "id": 34,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Bijoy Express 785",
+    "train_name_down": "Bijoy Express 786",
+    "From_up": "Chattogram",
+    "To_up": "Mymensingh",
+    "departure_time_Chattogram": "07:20",
+    "arrival_time_Mymensingh": "16:50",
+    "From_down": "Mymensingh",
+    "To_down": "Chattogram",
+    "departure_time_Mymensingh": "22:30",
+    "arrival_time_Chattogram": "07:30",
+    "route_up": "Chattogram → Mymensingh",
+    "route_down": "Mymensingh → Chattogram",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha"],
+    "ticket_details": {
+      "Shovon": "300 BDT",
+      "Snigdha": "550 BDT"
+    },
+    "duration_up": "9h 30m",
+    "duration_down": "9h 00m",
+    "off_day": "Wednesday",
+    "stops_up": [
+      "Chattogram",
+      "Feni",
+      "Akhaura",
+      "Brahmanbaria",
+      "Kishoreganj",
+      "Gouripur",
+      "Mymensingh"
+    ],
+    "stops_down": [
+      "Mymensingh",
+      "Gouripur",
+      "Kishoreganj",
+      "Brahmanbaria",
+      "Akhaura",
+      "Feni",
+      "Chattogram"
+    ],
+    "station_contact": {
+      "Chattogram": "+880-31-2854000",
+      "Mymensingh": "+880-91-62044"
+    },
+    "zone": "East Zone",
+    "division": "Mymensingh Division",
+    "speed_category": "Medium",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Snigdha": 3,
+      "Shovon": 6,
+      "General": 3,
+      "total_coach": 12
+    },
+    "passenger_capacity": 880,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/bijoy-express",
+    "historical_info": "Bijoy Express was launched in 2004 to connect the eastern port city of Chattogram with the educational and administrative hub of Mymensingh. It is widely used by students and long-distance commuters."
+  },
+  {
+    "id": 35,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Jamuna Express 745",
+    "train_name_down": "Jamuna Express 746",
+    "From_up": "Dhaka",
+    "To_up": "Jamalpur",
+    "departure_time_Dhaka": "16:40",
+    "arrival_time_Jamalpur": "22:30",
+    "From_down": "Jamalpur",
+    "To_down": "Dhaka",
+    "departure_time_Jamalpur": "06:20",
+    "arrival_time_Dhaka": "11:45",
+    "route_up": "Dhaka → Jamalpur",
+    "route_down": "Jamalpur → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "220 BDT",
+      "Snigdha": "420 BDT",
+      "AC": "700 BDT"
+    },
+    "duration_up": "5h 50m",
+    "duration_down": "5h 25m",
+    "off_day": "Saturday",
+    "stops_up": ["Dhaka", "Biman Bandar", "Joydebpur", "Tangail", "Jamalpur"],
+    "stops_down": ["Jamalpur", "Tangail", "Joydebpur", "Biman Bandar", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Jamalpur": "+880-981-63355"
+    },
+    "zone": "East Zone",
+    "division": "Mymensingh Division",
+    "speed_category": "Medium",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 1,
+      "Snigdha": 2,
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 11
+    },
+    "passenger_capacity": 800,
+    "onboard_facilities": ["Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/jamuna-express",
+    "historical_info": "Jamuna Express began operations in 1999, serving daily commuters and travelers between Dhaka and the northern districts across the Jamuna Bridge corridor."
+  },
+  {
+    "id": 36,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Lalmoni Express 751",
+    "train_name_down": "Lalmoni Express 752",
+    "From_up": "Dhaka",
+    "To_up": "Lalmonirhat",
+    "departure_time_Dhaka": "21:45",
+    "arrival_time_Lalmonirhat": "07:20",
+    "From_down": "Lalmonirhat",
+    "To_down": "Dhaka",
+    "departure_time_Lalmonirhat": "10:40",
+    "arrival_time_Dhaka": "20:20",
+    "route_up": "Dhaka → Lalmonirhat",
+    "route_down": "Lalmonirhat → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "460 BDT",
+      "Snigdha": "850 BDT",
+      "AC": "1250 BDT"
+    },
+    "duration_up": "9h 35m",
+    "duration_down": "9h 40m",
+    "off_day": "Friday",
+    "stops_up": ["Biman Bandar", "Bogra", "Gaibandha", "Kaunia", "Lalmonirhat"],
+    "stops_down": [
+      "Lalmonirhat",
+      "Kaunia",
+      "Gaibandha",
+      "Bogra",
+      "Biman Bandar",
+      "Dhaka"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Lalmonirhat": "+880-581-61401"
+    },
+    "zone": "West Zone",
+    "division": "Rangpur Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 3,
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 13
+    },
+    "passenger_capacity": 950,
+    "onboard_facilities": ["Wi‑Fi", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/lalmoni-express",
+    "historical_info": "Lalmoni Express began operation in 2004 to ensure direct overnight service from the northern Rangpur region to the capital Dhaka."
+  },
+  {
+    "id": 37,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Karnafuli Express 3",
+    "train_name_down": "Karnafuli Express 4",
+    "From_up": "Chattogram",
+    "To_up": "Dhaka",
+    "departure_time_Chattogram": "10:30",
+    "arrival_time_Dhaka": "21:30",
+    "From_down": "Dhaka",
+    "To_down": "Chattogram",
+    "departure_time_Dhaka": "08:25",
+    "arrival_time_Chattogram": "19:25",
+    "route_up": "Chattogram → Dhaka",
+    "route_down": "Dhaka → Chattogram",
+    "train_type": "Mail/Express",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "320 BDT",
+      "Snigdha": "600 BDT",
+      "AC": "950 BDT"
+    },
+    "duration_up": "11h 00m",
+    "duration_down": "11h 00m",
+    "off_day": "None",
+    "stops_up": ["Chattogram", "Comilla", "Brahmanbaria", "Dhaka"],
+    "stops_down": ["Dhaka", "Brahmanbaria", "Comilla", "Chattogram"],
+    "station_contact": {
+      "Chattogram": "+880-31-2854000",
+      "Dhaka": "+880-2-9331900"
+    },
+    "zone": "East Zone",
+    "division": "Chittagong Division",
+    "speed_category": "Medium",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "General": 3,
+      "total_coach": 15
+    },
+    "passenger_capacity": 1050,
+    "onboard_facilities": ["Restrooms", "Charging Ports", "Catering"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/karnafuli-express",
+    "historical_info": "Karnafuli Express is one of the oldest mail trains between Chattogram and Dhaka, serving rural commuters for decades."
+  },
+  {
+    "id": 38,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Silk City Express 753",
+    "train_name_down": "Silk City Express 754",
+    "From_up": "Dhaka",
+    "To_up": "Rajshahi",
+    "departure_time_Dhaka": "14:45",
+    "arrival_time_Rajshahi": "21:30",
+    "From_down": "Rajshahi",
+    "To_down": "Dhaka",
+    "departure_time_Rajshahi": "07:40",
+    "arrival_time_Dhaka": "13:30",
+    "route_up": "Dhaka → Rajshahi",
+    "route_down": "Rajshahi → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "345 BDT",
+      "Snigdha": "640 BDT",
+      "AC": "950 BDT"
+    },
+    "duration_up": "6h 45m",
+    "duration_down": "5h 50m",
+    "off_day": "Sunday",
+    "stops_up": [
+      "Dhaka",
+      "Joydebpur",
+      "Tangail",
+      "B.B. East",
+      "Ishwardi",
+      "Rajshahi"
+    ],
+    "stops_down": [
+      "Rajshahi",
+      "Ishwardi",
+      "B.B. East",
+      "Tangail",
+      "Joydebpur",
+      "Dhaka"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Rajshahi": "+880-721-774480"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 3,
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 13
+    },
+    "passenger_capacity": 950,
+    "onboard_facilities": ["Restrooms", "Charging Ports", "Catering"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/silk-city-express",
+    "historical_info": "Silk City Express began operations in the early 2000s to connect Dhaka with Rajshahi, famous for silk and mangoes."
+  },
+  {
+    "id": 39,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Padma Express 759",
+    "train_name_down": "Padma Express 760",
+    "From_up": "Dhaka",
+    "To_up": "Rajshahi",
+    "departure_time_Dhaka": "23:10",
+    "arrival_time_Rajshahi": "04:40",
+    "From_down": "Rajshahi",
+    "To_down": "Dhaka",
+    "departure_time_Rajshahi": "16:00",
+    "arrival_time_Dhaka": "21:40",
+    "route_up": "Dhaka → Rajshahi",
+    "route_down": "Rajshahi → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "345 BDT",
+      "Snigdha": "640 BDT",
+      "AC": "950 BDT"
+    },
+    "duration_up": "5h 30m",
+    "duration_down": "5h 40m",
+    "off_day": "Tuesday",
+    "stops_up": ["Dhaka", "Biman Bandar", "Tangail", "Ishwardi", "Rajshahi"],
+    "stops_down": ["Rajshahi", "Ishwardi", "Tangail", "Biman Bandar", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Rajshahi": "+880-721-774480"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 3,
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 13
+    },
+    "passenger_capacity": 950,
+    "onboard_facilities": [
+      "Restrooms",
+      "Charging Ports",
+      "Catering",
+      "Sleeping Berths"
+    ],
+    "train_status_api": "https://api.railway.gov.bd/train-status/padma-express",
+    "historical_info": "Padma Express launched in 2005 as an overnight alternative to Silk City Express on the Dhaka–Rajshahi route."
+  },
+  {
+    "id": 40,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Sundarban Express 726",
+    "train_name_down": "Sundarban Express 725",
+    "From_up": "Dhaka",
+    "To_up": "Khulna",
+    "departure_time_Dhaka": "06:20",
+    "arrival_time_Khulna": "16:20",
+    "From_down": "Khulna",
+    "To_down": "Dhaka",
+    "departure_time_Khulna": "22:15",
+    "arrival_time_Dhaka": "08:20",
+    "route_up": "Dhaka → Khulna",
+    "route_down": "Khulna → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "420 BDT",
+      "Snigdha": "800 BDT",
+      "AC": "1200 BDT"
+    },
+    "duration_up": "10h 00m",
+    "duration_down": "10h 05m",
+    "off_day": "Tuesday",
+    "stops_up": ["Dhaka", "Jessore", "Khulna"],
+    "stops_down": ["Khulna", "Jessore", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Khulna": "+880-41-720171"
+    },
+    "zone": "West Zone",
+    "division": "Khulna Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 3,
+      "Shovon": 8,
+      "General": 2,
+      "total_coach": 16
+    },
+    "passenger_capacity": 1150,
+    "onboard_facilities": [
+      "Wi-Fi",
+      "Restrooms",
+      "Charging Ports",
+      "Dining Car"
+    ],
+    "train_status_api": "https://api.railway.gov.bd/train-status/sundarban-express",
+    "historical_info": "Sundarban Express began operations in the late 1990s, serving one of the longest Intercity routes between Dhaka and Khulna."
+  },
+  {
+    "id": 41,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Chitra Express 764",
+    "train_name_down": "Chitra Express 763",
+    "From_up": "Dhaka",
+    "To_up": "Khulna",
+    "departure_time_Dhaka": "19:00",
+    "arrival_time_Khulna": "04:20",
+    "From_down": "Khulna",
+    "To_down": "Dhaka",
+    "departure_time_Khulna": "09:00",
+    "arrival_time_Dhaka": "18:20",
+    "route_up": "Dhaka → Khulna",
+    "route_down": "Khulna → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "420 BDT",
+      "Snigdha": "800 BDT",
+      "AC": "1200 BDT"
+    },
+    "duration_up": "9h 20m",
+    "duration_down": "9h 20m",
+    "off_day": "Monday",
+    "stops_up": ["Dhaka", "Jessore", "Khulna"],
+    "stops_down": ["Khulna", "Jessore", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Khulna": "+880-41-720171"
+    },
+    "zone": "West Zone",
+    "division": "Khulna Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 3,
+      "Shovon": 8,
+      "General": 2,
+      "total_coach": 16
+    },
+    "passenger_capacity": 1150,
+    "onboard_facilities": [
+      "Wi-Fi",
+      "Restrooms",
+      "Charging Ports",
+      "Dining Car"
+    ],
+    "train_status_api": "https://api.railway.gov.bd/train-status/chitra-express",
+    "historical_info": "Chitra Express launched alongside Sundarban Express in the late 1990s, offering overnight service on the Dhaka–Khulna route."
+  },
+  {
+    "id": 42,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Sagordari Express 762",
+    "train_name_down": "Sagordari Express 761",
+    "From_up": "Khulna",
+    "To_up": "Rajshahi",
+    "departure_time_Khulna": "06:40",
+    "arrival_time_Rajshahi": "13:10",
+    "From_down": "Rajshahi",
+    "To_down": "Khulna",
+    "departure_time_Rajshahi": "16:00",
+    "arrival_time_Khulna": "22:00",
+    "route_up": "Khulna → Rajshahi",
+    "route_down": "Rajshahi → Khulna",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "290 BDT",
+      "Snigdha": "550 BDT",
+      "AC": "800 BDT"
+    },
+    "duration_up": "6h 30m",
+    "duration_down": "6h 00m",
+    "off_day": "Monday",
+    "stops_up": [
+      "Khulna",
+      "Jessore",
+      "Kotchandpur",
+      "Chuadanga",
+      "Ishwardi",
+      "Rajshahi"
+    ],
+    "stops_down": [
+      "Rajshahi",
+      "Ishwardi",
+      "Chuadanga",
+      "Kotchandpur",
+      "Jessore",
+      "Khulna"
+    ],
+    "station_contact": {
+      "Khulna": "+880-41-720171",
+      "Rajshahi": "+880-721-774480"
+    },
+    "zone": "West Zone",
+    "division": "Khulna Division",
+    "speed_category": "Medium",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 12
+    },
+    "passenger_capacity": 850,
+    "onboard_facilities": ["Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/sagordari-express",
+    "historical_info": "Sagordari Express has been serving the Khulna–Rajshahi route since the early 2000s, named after the famous poem 'Sagordari' by Michael Madhusudan Dutt."
+  },
+  {
+    "id": 43,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Dhumketu Express 769",
+    "train_name_down": "Dhumketu Express 770",
+    "From_up": "Dhaka",
+    "To_up": "Rajshahi",
+    "departure_time_Dhaka": "06:00",
+    "arrival_time_Rajshahi": "11:40",
+    "From_down": "Rajshahi",
+    "To_down": "Dhaka",
+    "departure_time_Rajshahi": "23:20",
+    "arrival_time_Dhaka": "04:45",
+    "route_up": "Dhaka → Rajshahi",
+    "route_down": "Rajshahi → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "345 BDT",
+      "Snigdha": "640 BDT",
+      "AC": "950 BDT"
+    },
+    "duration_up": "5h 40m",
+    "duration_down": "5h 25m",
+    "off_day": "Saturday",
+    "stops_up": [
+      "Dhaka",
+      "Biman Bandar",
+      "Joydebpur",
+      "Tangail",
+      "Ishwardi",
+      "Rajshahi"
+    ],
+    "stops_down": [
+      "Rajshahi",
+      "Ishwardi",
+      "Tangail",
+      "Joydebpur",
+      "Biman Bandar",
+      "Dhaka"
+    ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Rajshahi": "+880-721-774480"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 3,
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 13
+    },
+    "passenger_capacity": 950,
+    "onboard_facilities": ["Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/dhumketu-express",
+    "historical_info": "Dhumketu Express was launched in 2005 to offer early morning and overnight service between Dhaka and Rajshahi."
+  },
+  {
+    "id": 44,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Tungipara Express 783",
+    "train_name_down": "Tungipara Express 784",
+    "From_up": "Rajshahi",
+    "To_up": "Gopalganj",
+    "departure_time_Rajshahi": "16:00",
+    "arrival_time_Gopalganj": "23:00",
+    "From_down": "Gopalganj",
+    "To_down": "Rajshahi",
+    "departure_time_Gopalganj": "06:50",
+    "arrival_time_Rajshahi": "13:50",
+    "route_up": "Rajshahi → Gopalganj",
+    "route_down": "Gopalganj → Rajshahi",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha"],
+    "ticket_details": {
+      "Shovon": "260 BDT",
+      "Snigdha": "480 BDT"
+    },
+    "duration_up": "7h 00m",
+    "duration_down": "7h 00m",
+    "off_day": "Wednesday",
+    "stops_up": [
+      "Rajshahi",
+      "Ishwardi",
+      "Boral Bridge",
+      "Kushtia",
+      "Gopalganj"
+    ],
+    "stops_down": [
+      "Gopalganj",
+      "Kushtia",
+      "Boral Bridge",
+      "Ishwardi",
+      "Rajshahi"
+    ],
+    "station_contact": {
+      "Rajshahi": "+880-721-774480",
+      "Gopalganj": "+880-4681-62015"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Medium",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Snigdha": 2,
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 10
+    },
+    "passenger_capacity": 750,
+    "onboard_facilities": ["Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/tungipara-express",
+    "historical_info": "Tungipara Express was inaugurated in 2020 to honor the birthplace of Bangabandhu Sheikh Mujibur Rahman and improve connectivity to Gopalganj."
+  },
+  {
+    "id": 45,
+    "images": [
+      "https://i.ibb.co/Lzhf535J/tr2.jpg",
+      "https://i.ibb.co/Zz468Z2C/trrrr.jpg"
+    ],
+    "train_name_up": "Sundarban Express 726",
+    "train_name_down": "Sundarban Express 725",
+    "From_up": "Dhaka",
+    "To_up": "Khulna",
+    "departure_time_Dhaka": "06:20",
+    "arrival_time_Khulna": "16:20",
+    "From_down": "Khulna",
+    "To_down": "Dhaka",
+    "departure_time_Khulna": "22:15",
+    "arrival_time_Dhaka": "08:20",
+    "route_up": "Dhaka → Khulna",
+    "route_down": "Khulna → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "420 BDT",
+      "Snigdha": "800 BDT",
+      "AC": "1200 BDT"
+    },
+    "duration_up": "10h 00m",
+    "duration_down": "10h 05m",
+    "off_day": "Tuesday",
+    "stops_up": ["Dhaka", "Jessore", "Khulna"],
+    "stops_down": ["Khulna", "Jessore", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Khulna": "+880-41-720171"
+    },
+    "zone": "West Zone",
+    "division": "Khulna Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 3,
+      "Shovon": 8,
+      "General": 2,
+      "total_coach": 16
+    },
+    "passenger_capacity": 1150,
+    "onboard_facilities": [
+      "Wi-Fi",
+      "Restrooms",
+      "Charging Ports",
+      "Dining Car"
+    ],
+    "train_status_api": "https://api.railway.gov.bd/train-status/sundarban-express",
+    "historical_info": "Sundarban Express began operations in the late 1990s, serving one of the longest Intercity routes between Dhaka and Khulna."
+  },
+  {
+    "id": 46,
+    "train_name_up": "Samatat Express 45",
+    "train_name_down": "Samatat Express 46",
+    "From_up": "Noakhali",
+    "To_up": "Laksam",
+    "departure_time_Noakhali": "08:00",
+    "arrival_time_Laksam": "09:45",
+    "From_down": "Laksam",
+    "To_down": "Noakhali",
+    "departure_time_Laksam": "18:00",
+    "arrival_time_Noakhali": "20:00",
+    "route_up": "Noakhali → Laksam",
+    "route_down": "Laksam → Noakhali",
+    "train_type": "Mail/Express",
+    "ticket_classes": ["Shovon", "Snigdha"],
+    "ticket_details": {
+      "Shovon": "50 BDT",
+      "Snigdha": "100 BDT"
+    },
+    "duration_up": "1h 45m",
+    "duration_down": "2h 00m",
+    "off_day": "Wednesday",
+    "stops_up": ["Noakhali", "Laksam"],
+    "stops_down": ["Laksam", "Noakhali"],
+    "station_contact": {
+      "Noakhali": "+880-328-63222",
+      "Laksam": "+880-345-61234"
+    },
+    "zone": "East Zone",
+    "division": "Noakhali Division",
+    "speed_category": "Local",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 8
+    },
+    "passenger_capacity": 500,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/samatat-express",
+    "historical_info": "Provides daily connectivity between Noakhali and Laksam since 1985."
+  },
+  {
+    "id": 47,
+    "train_name_up": "Vawal Express 55",
+    "train_name_down": "Vawal Express 56",
+    "From_up": "Dhaka",
+    "To_up": "Dewanganj",
+    "departure_time_Dhaka": "21:00",
+    "arrival_time_Dewanganj": "05:40",
+    "From_down": "Dewanganj",
+    "To_down": "Dhaka",
+    "departure_time_Dewanganj": "01:00",
+    "arrival_time_Dhaka": "11:40",
+    "route_up": "Dhaka → Dewanganj",
+    "route_down": "Dewanganj → Dhaka",
+    "train_type": "Mail/Express",
+    "ticket_classes": ["Shovon", "Snigdha"],
+    "ticket_details": {
+      "Shovon": "300 BDT",
+      "Snigdha": "600 BDT"
+    },
+    "duration_up": "8h 40m",
+    "duration_down": "10h 40m",
+    "off_day": "Thursday",
+    "stops_up": ["Dhaka", "Narayanganj", "Dewanganj"],
+    "stops_down": ["Dewanganj", "Narayanganj", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Dewanganj": "+880-347-51230"
+    },
+    "zone": "East Zone",
+    "division": "Narayanganj Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 8,
+      "Snigdha": 2,
+      "total_coach": 10
+    },
+    "passenger_capacity": 900,
+    "onboard_facilities": ["Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/vawal-express",
+    "historical_info": "Named after the Vawal region, running overnight since 1990."
+  },
+  {
+    "id": 48,
+    "train_name_up": "Ramsagor Express 59",
+    "train_name_down": "Ramsagor Express 60",
+    "From_up": "Bonarpara",
+    "To_up": "Dinajpur",
+    "departure_time_Bonarpara": "06:30",
+    "arrival_time_Dinajpur": "14:00",
+    "From_down": "Dinajpur",
+    "To_down": "Bonarpara",
+    "departure_time_Dinajpur": "14:40",
+    "arrival_time_Bonarpara": "21:00",
+    "route_up": "Bonarpara → Dinajpur",
+    "route_down": "Dinajpur → Bonarpara",
+    "train_type": "Mail/Express",
+    "ticket_classes": ["Shovon", "Snigdha"],
+    "ticket_details": {
+      "Shovon": "350 BDT",
+      "Snigdha": "700 BDT"
+    },
+    "duration_up": "7h 30m",
+    "duration_down": "6h 20m",
+    "off_day": "Sunday",
+    "stops_up": ["Bonarpara", "Parbatipur", "Dinajpur"],
+    "stops_down": ["Dinajpur", "Parbatipur", "Bonarpara"],
+    "station_contact": {
+      "Bonarpara": "+880-523-21501",
+      "Dinajpur": "+880-523-51234"
+    },
+    "zone": "West Zone",
+    "division": "Dinajpur Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 7,
+      "Snigdha": 3,
+      "total_coach": 10
+    },
+    "passenger_capacity": 800,
+    "onboard_facilities": ["Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/ramsagor-express",
+    "historical_info": "Runs daily between Bonarpara and Dinajpur since 1975."
+  },
+  {
+    "id": 49,
+    "train_name_up": "Dewanganj Commuter 47",
+    "train_name_down": "Dewanganj Commuter 48",
+    "From_up": "Dhaka",
+    "To_up": "Dewanganj",
+    "departure_time_Dhaka": "05:40",
+    "arrival_time_Dewanganj": "11:45",
+    "From_down": "Dewanganj",
+    "To_down": "Dhaka",
+    "departure_time_Dewanganj": "13:00",
+    "arrival_time_Dhaka": "19:00",
+    "route_up": "Dhaka → Dewanganj",
+    "route_down": "Dewanganj → Dhaka",
+    "train_type": "Commuter",
+    "ticket_classes": ["Shovon"],
+    "ticket_details": {
+      "Shovon": "90 BDT"
+    },
+    "duration_up": "6h 05m",
+    "duration_down": "6h 00m",
+    "off_day": "Saturday",
+    "stops_up": ["Dhaka", "Narayanganj", "Dewanganj"],
+    "stops_down": ["Dewanganj", "Narayanganj", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Dewanganj": "+880-347-51230"
+    },
+    "zone": "East Zone",
+    "division": "Narayanganj Division",
+    "speed_category": "Local",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 8
+    },
+    "passenger_capacity": 600,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/dewanganj-commuter",
+    "historical_info": "Serves suburban commuters between Dhaka and Dewanganj."
+  },
+  {
+    "id": 50,
+    "train_name_up": "Balaka Commuter 49",
+    "train_name_down": "Balaka Commuter 50",
+    "From_up": "Dhaka",
+    "To_up": "Mymensingh",
+    "departure_time_Dhaka": "10:40",
+    "arrival_time_Mymensingh": "14:50",
+    "From_down": "Mymensingh",
+    "To_down": "Dhaka",
+    "departure_time_Mymensingh": "15:15",
+    "arrival_time_Dhaka": "19:25",
+    "route_up": "Dhaka → Mymensingh",
+    "route_down": "Mymensingh → Dhaka",
+    "train_type": "Commuter",
+    "ticket_classes": ["Shovon"],
+    "ticket_details": {
+      "Shovon": "100 BDT"
+    },
+    "duration_up": "4h 10m",
+    "duration_down": "4h 10m",
+    "off_day": "Friday",
+    "stops_up": ["Dhaka", "Joydebpur", "Mymensingh"],
+    "stops_down": ["Mymensingh", "Joydebpur", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Mymensingh": "+880-091-667890"
+    },
+    "zone": "East Zone",
+    "division": "Mymensingh Division",
+    "speed_category": "Local",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 8
+    },
+    "passenger_capacity": 600,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/balaka-commuter",
+    "historical_info": "Frequent commuter service linking Dhaka with Mymensingh."
+  },
+
+  {
+    "id": 51,
+    "train_name_up": "Karnafuli Express 703",
+    "train_name_down": "Karnafuli Express 704",
+    "From_up": "Chittagong",
+    "To_up": "Dhaka",
+    "departure_time_Chittagong": "15:30",
+    "arrival_time_Dhaka": "23:00",
+    "From_down": "Dhaka",
+    "To_down": "Chittagong",
+    "departure_time_Dhaka": "07:30",
+    "arrival_time_Chittagong": "15:00",
+    "route_up": "Chittagong → Dhaka",
+    "route_down": "Dhaka → Chittagong",
+    "train_type": "Mail/Express",
+    "ticket_classes": ["Shovon", "Snigdha"],
+    "ticket_details": {
+      "Shovon": "140 BDT",
+      "Snigdha": "280 BDT"
+    },
+    "duration_up": "7h 30m",
+    "duration_down": "7h 30m",
+    "off_day": "Monday",
+    "stops_up": ["Comilla", "Feni", "Laksam", "Brahmanbaria"],
+    "stops_down": ["Brahmanbaria", "Laksam", "Feni", "Comilla"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Chittagong": "+880-31-2854000"
+    },
+    "zone": "East Zone",
+    "division": "Chittagong Division",
+    "speed_category": "Regular",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 7,
+      "Snigdha": 3,
+      "General": 2,
+      "total_coach": 12
+    },
+    "passenger_capacity": 900,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/karnafuli-express",
+    "historical_info": "One of the oldest mail trains connecting Chittagong to Dhaka."
+  },
+  {
+    "id": 52,
+    "train_name_up": "Lalmoni Express 751",
+    "train_name_down": "Lalmoni Express 752",
+    "From_up": "Lalmonirhat",
+    "To_up": "Dhaka",
+    "departure_time_Lalmonirhat": "10:40",
+    "arrival_time_Dhaka": "20:55",
+    "From_down": "Dhaka",
+    "To_down": "Lalmonirhat",
+    "departure_time_Dhaka": "22:10",
+    "arrival_time_Lalmonirhat": "08:00",
+    "route_up": "Lalmonirhat → Dhaka",
+    "route_down": "Dhaka → Lalmonirhat",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "400 BDT",
+      "Snigdha": "700 BDT",
+      "AC": "1100 BDT"
+    },
+    "duration_up": "10h 15m",
+    "duration_down": "9h 50m",
+    "off_day": "Friday",
+    "stops_up": ["Gaibandha", "Bogra", "Natore", "Tangail"],
+    "stops_down": ["Tangail", "Natore", "Bogra", "Gaibandha"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Lalmonirhat": "+880-521-62001"
+    },
+    "zone": "West Zone",
+    "division": "Rangpur Division",
+    "speed_category": "Express",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "total_coach": 12
+    },
+    "passenger_capacity": 1100,
+    "onboard_facilities": ["Restrooms", "Wi-Fi", "Catering"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/lalmoni-express",
+    "historical_info": "Named after Lalmonirhat, connecting it directly with the capital."
+  },
+  {
+    "id": 53,
+    "train_name_up": "Tungipara Express 783",
+    "train_name_down": "Tungipara Express 784",
+    "From_up": "Gopalganj",
+    "To_up": "Rajshahi",
+    "departure_time_Gopalganj": "06:30",
+    "arrival_time_Rajshahi": "14:30",
+    "From_down": "Rajshahi",
+    "To_down": "Gopalganj",
+    "departure_time_Rajshahi": "15:15",
+    "arrival_time_Gopalganj": "23:10",
+    "route_up": "Gopalganj → Rajshahi",
+    "route_down": "Rajshahi → Gopalganj",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha"],
+    "ticket_details": {
+      "Shovon": "420 BDT",
+      "Snigdha": "850 BDT"
+    },
+    "duration_up": "8h 00m",
+    "duration_down": "7h 55m",
+    "off_day": "Monday",
+    "stops_up": ["Faridpur", "Ishwardi", "Pabna", "Bera"],
+    "stops_down": ["Bera", "Pabna", "Ishwardi", "Faridpur"],
+    "station_contact": {
+      "Gopalganj": "+880-861-61234",
+      "Rajshahi": "+880-721-774492"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Intercity",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 6,
+      "Snigdha": 3,
+      "General": 1,
+      "total_coach": 10
+    },
+    "passenger_capacity": 950,
+    "onboard_facilities": ["Restrooms", "Catering"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/tungipara-express",
+    "historical_info": "Introduced to connect the birthplace of Bangabandhu with Rajshahi."
+  },
+  {
+    "id": 54,
+    "train_name_up": "Kapotaksha Express 715",
+    "train_name_down": "Kapotaksha Express 716",
+    "From_up": "Khulna",
+    "To_up": "Rajshahi",
+    "departure_time_Khulna": "06:15",
+    "arrival_time_Rajshahi": "12:20",
+    "From_down": "Rajshahi",
+    "To_down": "Khulna",
+    "departure_time_Rajshahi": "14:15",
+    "arrival_time_Khulna": "20:20",
+    "route_up": "Khulna → Rajshahi",
+    "route_down": "Rajshahi → Khulna",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha"],
+    "ticket_details": {
+      "Shovon": "420 BDT",
+      "Snigdha": "800 BDT"
+    },
+    "duration_up": "6h 05m",
+    "duration_down": "6h 05m",
+    "off_day": "Tuesday",
+    "stops_up": ["Jessore", "Chuadanga", "Ishwardi", "Natore"],
+    "stops_down": ["Natore", "Ishwardi", "Chuadanga", "Jessore"],
+    "station_contact": {
+      "Khulna": "+880-41-720162",
+      "Rajshahi": "+880-721-774492"
+    },
+    "zone": "West Zone",
+    "division": "Khulna Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 7,
+      "Snigdha": 2,
+      "total_coach": 9
+    },
+    "passenger_capacity": 800,
+    "onboard_facilities": ["Restrooms", "Wi-Fi"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/kapotaksha-express",
+    "historical_info": "Named after the Kapotaksha River, serves key western districts."
+  },
+  {
+    "id": 55,
+    "train_name_up": "Sagardari Express 761",
+    "train_name_down": "Sagardari Express 762",
+    "From_up": "Khulna",
+    "To_up": "Rajshahi",
+    "departure_time_Khulna": "16:00",
+    "arrival_time_Rajshahi": "22:15",
+    "From_down": "Rajshahi",
+    "To_down": "Khulna",
+    "departure_time_Rajshahi": "06:30",
+    "arrival_time_Khulna": "12:30",
+    "route_up": "Khulna → Rajshahi",
+    "route_down": "Rajshahi → Khulna",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha"],
+    "ticket_details": {
+      "Shovon": "420 BDT",
+      "Snigdha": "800 BDT"
+    },
+    "duration_up": "6h 15m",
+    "duration_down": "6h 00m",
+    "off_day": "Monday",
+    "stops_up": ["Jessore", "Chuadanga", "Ishwardi", "Natore"],
+    "stops_down": ["Natore", "Ishwardi", "Chuadanga", "Jessore"],
+    "station_contact": {
+      "Khulna": "+880-41-720162",
+      "Rajshahi": "+880-721-774492"
+    },
+    "zone": "West Zone",
+    "division": "Khulna Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 7,
+      "Snigdha": 2,
+      "total_coach": 9
+    },
+    "passenger_capacity": 850,
+    "onboard_facilities": ["Restrooms", "Wi-Fi"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/sagardari-express",
+    "historical_info": "Named after poet Michael Madhusudan Dutt’s village, Sagardari."
+  },
+  {
+    "id": 56,
+    "train_name_up": "Rocket Express 801",
+    "train_name_down": "Rocket Express 802",
+    "From_up": "Bhairab Bazar",
+    "To_up": "Mymensingh",
+    "departure_time_Bhairab": "05:30",
+    "arrival_time_Mymensingh": "08:15",
+    "From_down": "Mymensingh",
+    "To_down": "Bhairab Bazar",
+    "departure_time_Mymensingh": "18:30",
+    "arrival_time_Bhairab": "21:15",
+    "route_up": "Bhairab → Mymensingh",
+    "route_down": "Mymensingh → Bhairab",
+    "train_type": "Commuter",
+    "ticket_classes": ["Shovon"],
+    "ticket_details": {
+      "Shovon": "50 BDT"
+    },
+    "duration_up": "2h 45m",
+    "duration_down": "2h 45m",
+    "off_day": "Sunday",
+    "stops_up": ["Bhairab", "Kishoreganj", "Gouripur", "Mymensingh"],
+    "stops_down": ["Mymensingh", "Gouripur", "Kishoreganj", "Bhairab"],
+    "station_contact": {
+      "Mymensingh": "+880-91-61341",
+      "Bhairab": "+880-942-61234"
+    },
+    "zone": "East Zone",
+    "division": "Mymensingh Division",
+    "speed_category": "Local",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 5,
+      "General": 3,
+      "total_coach": 8
+    },
+    "passenger_capacity": 500,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/rocket-express",
+    "historical_info": "Daily commuter between Bhairab and Mymensingh."
+  },
+  {
+    "id": 57,
+    "train_name_up": "Nilsagar Express 765",
+    "train_name_down": "Nilsagar Express 766",
+    "From_up": "Nilphamari",
+    "To_up": "Dhaka",
+    "departure_time_Nilphamari": "08:00",
+    "arrival_time_Dhaka": "18:10",
+    "From_down": "Dhaka",
+    "To_down": "Nilphamari",
+    "departure_time_Dhaka": "20:00",
+    "arrival_time_Nilphamari": "06:10",
+    "route_up": "Nilphamari → Dhaka",
+    "route_down": "Dhaka → Nilphamari",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "400 BDT",
+      "Snigdha": "750 BDT",
+      "AC": "1100 BDT"
+    },
+    "duration_up": "10h 10m",
+    "duration_down": "10h 10m",
+    "off_day": "Monday",
+    "stops_up": [
+      "Nilphamari",
+      "Saidpur",
+      "Parbatipur",
+      "Ishwardi",
+      "Joydebpur",
+      "Dhaka"
+    ],
+    "stops_down": [
+      "Dhaka",
+      "Joydebpur",
+      "Ishwardi",
+      "Parbatipur",
+      "Saidpur",
+      "Nilphamari"
+    ],
+    "station_contact": {
+      "Nilphamari": "+880-5825-56222",
+      "Dhaka": "+880-2-9331900"
+    },
+    "zone": "West Zone",
+    "division": "Rangpur Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "total_coach": 12
+    },
+    "passenger_capacity": 1100,
+    "onboard_facilities": ["Wi-Fi", "Restrooms", "Catering"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/nilsagar-express",
+    "historical_info": "Launched to serve the people of Nilphamari with a direct route to Dhaka."
+  },
+  {
+    "id": 58,
+    "train_name_up": "Surma Mail 09",
+    "train_name_down": "Surma Mail 10",
+    "From_up": "Sylhet",
+    "To_up": "Dhaka",
+    "departure_time_Sylhet": "22:00",
+    "arrival_time_Dhaka": "08:15",
+    "From_down": "Dhaka",
+    "To_down": "Sylhet",
+    "departure_time_Dhaka": "19:00",
+    "arrival_time_Sylhet": "05:15",
+    "route_up": "Sylhet → Dhaka",
+    "route_down": "Dhaka → Sylhet",
+    "train_type": "Mail/Express",
+    "ticket_classes": ["Shovon"],
+    "ticket_details": {
+      "Shovon": "320 BDT"
+    },
+    "duration_up": "10h 15m",
+    "duration_down": "10h 15m",
+    "off_day": "None",
+    "stops_up": ["Sylhet", "Srimangal", "Kulaura", "Bhairab Bazar", "Dhaka"],
+    "stops_down": ["Dhaka", "Bhairab Bazar", "Kulaura", "Srimangal", "Sylhet"],
+    "station_contact": {
+      "Sylhet": "+880-821-716123",
+      "Dhaka": "+880-2-9331900"
+    },
+    "zone": "East Zone",
+    "division": "Sylhet Division",
+    "speed_category": "Slow",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 10,
+      "total_coach": 10
+    },
+    "passenger_capacity": 1000,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/surma-mail",
+    "historical_info": "One of the oldest mail trains in the country connecting Sylhet to Dhaka."
+  },
+
+  {
+    "id": 57,
+    "train_name_up": "Nilsagar Express 765",
+    "train_name_down": "Nilsagar Express 766",
+    "From_up": "Nilphamari",
+    "To_up": "Dhaka",
+    "departure_time_Nilphamari": "08:00",
+    "arrival_time_Dhaka": "18:10",
+    "From_down": "Dhaka",
+    "To_down": "Nilphamari",
+    "departure_time_Dhaka": "20:00",
+    "arrival_time_Nilphamari": "06:10",
+    "route_up": "Nilphamari → Dhaka",
+    "route_down": "Dhaka → Nilphamari",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "400 BDT",
+      "Snigdha": "750 BDT",
+      "AC": "1100 BDT"
+    },
+    "duration_up": "10h 10m",
+    "duration_down": "10h 10m",
+    "off_day": "Monday",
+    "stops_up": [
+      "Nilphamari",
+      "Saidpur",
+      "Parbatipur",
+      "Ishwardi",
+      "Joydebpur",
+      "Dhaka"
+    ],
+    "stops_down": [
+      "Dhaka",
+      "Joydebpur",
+      "Ishwardi",
+      "Parbatipur",
+      "Saidpur",
+      "Nilphamari"
+    ],
+    "station_contact": {
+      "Nilphamari": "+880-5825-56222",
+      "Dhaka": "+880-2-9331900"
+    },
+    "zone": "West Zone",
+    "division": "Rangpur Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "total_coach": 12
+    },
+    "passenger_capacity": 1100,
+    "onboard_facilities": ["Wi-Fi", "Restrooms", "Catering"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/nilsagar-express",
+    "historical_info": "Launched to serve the people of Nilphamari with a direct route to Dhaka."
+  },
+  {
+    "id": 58,
+    "train_name_up": "Surma Mail 09",
+    "train_name_down": "Surma Mail 10",
+    "From_up": "Sylhet",
+    "To_up": "Dhaka",
+    "departure_time_Sylhet": "22:00",
+    "arrival_time_Dhaka": "08:15",
+    "From_down": "Dhaka",
+    "To_down": "Sylhet",
+    "departure_time_Dhaka": "19:00",
+    "arrival_time_Sylhet": "05:15",
+    "route_up": "Sylhet → Dhaka",
+    "route_down": "Dhaka → Sylhet",
+    "train_type": "Mail/Express",
+    "ticket_classes": ["Shovon"],
+    "ticket_details": {
+      "Shovon": "320 BDT"
+    },
+    "duration_up": "10h 15m",
+    "duration_down": "10h 15m",
+    "off_day": "None",
+    "stops_up": ["Sylhet", "Srimangal", "Kulaura", "Bhairab Bazar", "Dhaka"],
+    "stops_down": ["Dhaka", "Bhairab Bazar", "Kulaura", "Srimangal", "Sylhet"],
+    "station_contact": {
+      "Sylhet": "+880-821-716123",
+      "Dhaka": "+880-2-9331900"
+    },
+    "zone": "East Zone",
+    "division": "Sylhet Division",
+    "speed_category": "Slow",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 10,
+      "total_coach": 10
+    },
+    "passenger_capacity": 1000,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/surma-mail",
+    "historical_info": "One of the oldest mail trains in the country connecting Sylhet to Dhaka."
+  },
+
+  {
+    "id": 59,
+    "train_name_up": "Dolonchapa Express 767",
+    "train_name_down": "Dolonchapa Express 768",
+    "From_up": "Santahar",
+    "To_up": "Dinajpur",
+    "departure_time_Santahar": "13:40",
+    "arrival_time_Dinajpur": "18:40",
+    "From_down": "Dinajpur",
+    "To_down": "Santahar",
+    "departure_time_Dinajpur": "07:20",
+    "arrival_time_Santahar": "12:20",
+    "route_up": "Santahar → Dinajpur",
+    "route_down": "Dinajpur → Santahar",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha"],
+    "ticket_details": {
+      "Shovon": "180 BDT",
+      "Snigdha": "320 BDT"
+    },
+    "duration_up": "5h 00m",
+    "duration_down": "5h 00m",
+    "off_day": "Saturday",
+    "stops_up": ["Nawabganj", "Fulbari", "Birampur", "Parbatipur"],
+    "stops_down": ["Parbatipur", "Birampur", "Fulbari", "Nawabganj"],
+    "station_contact": {
+      "Santahar": "+880-741-61212",
+      "Dinajpur": "+880-531-51111"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Snigdha": 2,
+      "Shovon": 6,
+      "total_coach": 8
+    },
+    "passenger_capacity": 650,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/dolonchapa-express",
+    "historical_info": "This train helps local passengers travel between Rajshahi and Rangpur divisions."
+  },
+  {
+    "id": 60,
+    "train_name_up": "Mohua Commuter 43",
+    "train_name_down": "Mohua Commuter 44",
+    "From_up": "Dhaka",
+    "To_up": "Mymensingh",
+    "departure_time_Dhaka": "16:30",
+    "arrival_time_Mymensingh": "21:00",
+    "From_down": "Mymensingh",
+    "To_down": "Dhaka",
+    "departure_time_Mymensingh": "06:20",
+    "arrival_time_Dhaka": "11:00",
+    "route_up": "Dhaka → Mymensingh",
+    "route_down": "Mymensingh → Dhaka",
+    "train_type": "Commuter",
+    "ticket_classes": ["Shovon"],
+    "ticket_details": {
+      "Shovon": "100 BDT"
+    },
+    "duration_up": "4h 30m",
+    "duration_down": "4h 40m",
+    "off_day": "Friday",
+    "stops_up": ["Joydebpur", "Gafargaon", "Mymensingh"],
+    "stops_down": ["Mymensingh", "Gafargaon", "Joydebpur", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Mymensingh": "+880-91-61341"
+    },
+    "zone": "East Zone",
+    "division": "Mymensingh Division",
+    "speed_category": "Local",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 8
+    },
+    "passenger_capacity": 600,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/mohua-commuter",
+    "historical_info": "Popular among daily commuters traveling to Mymensingh from the capital."
+  },
+  {
+    "id": 61,
+    "train_name_up": "Narsingdi Commuter 91",
+    "train_name_down": "Narsingdi Commuter 92",
+    "From_up": "Dhaka",
+    "To_up": "Narsingdi",
+    "departure_time_Dhaka": "08:15",
+    "arrival_time_Narsingdi": "09:30",
+    "From_down": "Narsingdi",
+    "To_down": "Dhaka",
+    "departure_time_Narsingdi": "17:10",
+    "arrival_time_Dhaka": "18:25",
+    "route_up": "Dhaka → Narsingdi",
+    "route_down": "Narsingdi → Dhaka",
+    "train_type": "Commuter",
+    "ticket_classes": ["Shovon"],
+    "ticket_details": {
+      "Shovon": "30 BDT"
+    },
+    "duration_up": "1h 15m",
+    "duration_down": "1h 15m",
+    "off_day": "Sunday",
+    "stops_up": ["Khilgaon", "Demra", "Tongi", "Narsingdi"],
+    "stops_down": ["Narsingdi", "Tongi", "Demra", "Khilgaon"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Narsingdi": "+880-629-654321"
+    },
+    "zone": "East Zone",
+    "division": "Dhaka Division",
+    "speed_category": "Local",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 4,
+      "General": 2,
+      "total_coach": 6
+    },
+    "passenger_capacity": 400,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/narsingdi-commuter",
+    "historical_info": "Catered for short-distance commuters between Dhaka and Narsingdi."
+  },
+  {
+    "id": 62,
+    "train_name_up": "Ishwardi Commuter 93",
+    "train_name_down": "Ishwardi Commuter 94",
+    "From_up": "Rajshahi",
+    "To_up": "Ishwardi",
+    "departure_time_Rajshahi": "07:00",
+    "arrival_time_Ishwardi": "09:00",
+    "From_down": "Ishwardi",
+    "To_down": "Rajshahi",
+    "departure_time_Ishwardi": "17:30",
+    "arrival_time_Rajshahi": "19:30",
+    "route_up": "Rajshahi → Ishwardi",
+    "route_down": "Ishwardi → Rajshahi",
+    "train_type": "Commuter",
+    "ticket_classes": ["Shovon"],
+    "ticket_details": { "Shovon": "40 BDT" },
+    "duration_up": "2h 00m",
+    "duration_down": "2h 00m",
+    "off_day": "Friday",
+    "stops_up": ["Rajshahi", "Abdulpur", "Ishwardi"],
+    "stops_down": ["Ishwardi", "Abdulpur", "Rajshahi"],
+    "station_contact": {
+      "Rajshahi": "+880-721-775203",
+      "Ishwardi": "+880-731-63344"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Local",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 4,
+      "General": 2,
+      "total_coach": 6
+    },
+    "passenger_capacity": 400,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/ishwardi-commuter",
+    "historical_info": "Introduced to meet local travel demand between Rajshahi and Ishwardi."
+  },
+  {
+    "id": 63,
+    "train_name_up": "Khulna Commuter 95",
+    "train_name_down": "Khulna Commuter 96",
+    "From_up": "Jessore",
+    "To_up": "Khulna",
+    "departure_time_Jessore": "07:30",
+    "arrival_time_Khulna": "09:00",
+    "From_down": "Khulna",
+    "To_down": "Jessore",
+    "departure_time_Khulna": "17:00",
+    "arrival_time_Jessore": "18:30",
+    "route_up": "Jessore → Khulna",
+    "route_down": "Khulna → Jessore",
+    "train_type": "Commuter",
+    "ticket_classes": ["Shovon"],
+    "ticket_details": { "Shovon": "35 BDT" },
+    "duration_up": "1h 30m",
+    "duration_down": "1h 30m",
+    "off_day": "Saturday",
+    "stops_up": ["Jessore", "Daulatpur", "Khulna"],
+    "stops_down": ["Khulna", "Daulatpur", "Jessore"],
+    "station_contact": {
+      "Khulna": "+880-41-720162",
+      "Jessore": "+880-421-61444"
+    },
+    "zone": "West Zone",
+    "division": "Khulna Division",
+    "speed_category": "Local",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 4,
+      "General": 2,
+      "total_coach": 6
+    },
+    "passenger_capacity": 420,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/khulna-commuter",
+    "historical_info": "Designed to support short-distance commuters from Jessore to Khulna."
+  },
+  {
+    "id": 64,
+    "train_name_up": "Benapole Express 795",
+    "train_name_down": "Benapole Express 796",
+    "From_up": "Dhaka",
+    "To_up": "Benapole",
+    "departure_time_Dhaka": "23:15",
+    "arrival_time_Benapole": "08:20",
+    "From_down": "Benapole",
+    "To_down": "Dhaka",
+    "departure_time_Benapole": "12:45",
+    "arrival_time_Dhaka": "22:00",
+    "route_up": "Dhaka → Benapole",
+    "route_down": "Benapole → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "500 BDT",
+      "Snigdha": "950 BDT",
+      "AC": "1350 BDT"
+    },
+    "duration_up": "9h 05m",
+    "duration_down": "9h 15m",
+    "off_day": "Wednesday",
+    "stops_up": ["Dhaka", "Joydebpur", "Chuadanga", "Jessore", "Benapole"],
+    "stops_down": ["Benapole", "Jessore", "Chuadanga", "Joydebpur", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Benapole": "+880-421-70000"
+    },
+    "zone": "West Zone",
+    "division": "Khulna Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "total_coach": 12
+    },
+    "passenger_capacity": 1100,
+    "onboard_facilities": ["Wi-Fi", "Catering", "Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/benapole-express",
+    "historical_info": "Introduced to improve trade and travel access with India through Benapole."
+  },
+  {
+    "id": 65,
+    "train_name_up": "Tungipara Express 783",
+    "train_name_down": "Tungipara Express 784",
+    "From_up": "Gopalganj",
+    "To_up": "Rajshahi",
+    "departure_time_Gopalganj": "06:50",
+    "arrival_time_Rajshahi": "14:40",
+    "From_down": "Rajshahi",
+    "To_down": "Gopalganj",
+    "departure_time_Rajshahi": "15:20",
+    "arrival_time_Gopalganj": "23:10",
+    "route_up": "Gopalganj → Rajshahi",
+    "route_down": "Rajshahi → Gopalganj",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "420 BDT",
+      "Snigdha": "750 BDT",
+      "AC": "1100 BDT"
+    },
+    "duration_up": "7h 50m",
+    "duration_down": "7h 50m",
+    "off_day": "Monday",
+    "stops_up": ["Gopalganj", "Kotalipara", "Muksudpur", "Pabna", "Rajshahi"],
+    "stops_down": ["Rajshahi", "Pabna", "Muksudpur", "Kotalipara", "Gopalganj"],
+    "station_contact": {
+      "Gopalganj": "+880-1-708345234",
+      "Rajshahi": "+880-721-775203"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 2,
+      "Shovon": 8,
+      "total_coach": 12
+    },
+    "passenger_capacity": 1080,
+    "onboard_facilities": ["Wi-Fi", "Catering", "Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/tungipara-express",
+    "historical_info": "Named after Bangabandhu Sheikh Mujibur Rahman’s birthplace, launched in 2020."
+  },
+  {
+    "id": 66,
+    "train_name_up": "Sonar Bangla Express 787",
+    "train_name_down": "Sonar Bangla Express 788",
+    "From_up": "Dhaka",
+    "To_up": "Chittagong",
+    "departure_time_Dhaka": "07:00",
+    "arrival_time_Chittagong": "12:20",
+    "From_down": "Chittagong",
+    "To_down": "Dhaka",
+    "departure_time_Chittagong": "17:00",
+    "arrival_time_Dhaka": "22:10",
+    "route_up": "Dhaka → Chittagong",
+    "route_down": "Chittagong → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Snigdha", "AC"],
+    "ticket_details": {
+      "Snigdha": "600 BDT",
+      "AC": "1000 BDT"
+    },
+    "duration_up": "5h 20m",
+    "duration_down": "5h 10m",
+    "off_day": "Wednesday",
+    "stops_up": ["Brahmanbaria", "Comilla"],
+    "stops_down": ["Comilla", "Brahmanbaria"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Chittagong": "+880-31-2854000"
+    },
+    "zone": "East Zone",
+    "division": "Chittagong Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 4,
+      "Snigdha": 4,
+      "total_coach": 8
+    },
+    "passenger_capacity": 650,
+    "onboard_facilities": ["Wi-Fi", "Catering", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/sonar-bangla-express",
+    "historical_info": "Flagship nonstop train launched to compete with Subarna Express."
+  },
+  {
+    "id": 67,
+    "train_name_up": "Tista Express 707",
+    "train_name_down": "Tista Express 708",
+    "From_up": "Dhaka",
+    "To_up": "Dewanganj Bazar",
+    "departure_time_Dhaka": "07:30",
+    "arrival_time_Dewanganj": "13:00",
+    "From_down": "Dewanganj Bazar",
+    "To_down": "Dhaka",
+    "departure_time_Dewanganj": "15:00",
+    "arrival_time_Dhaka": "20:20",
+    "route_up": "Dhaka → Dewanganj Bazar",
+    "route_down": "Dewanganj Bazar → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha"],
+    "ticket_details": {
+      "Shovon": "150 BDT",
+      "Snigdha": "300 BDT"
+    },
+    "duration_up": "5h 30m",
+    "duration_down": "5h 20m",
+    "off_day": "Monday",
+    "stops_up": ["Biman Bandar", "Gafargaon", "Mymensingh", "Jamalpur"],
+    "stops_down": ["Jamalpur", "Mymensingh", "Gafargaon", "Biman Bandar"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Dewanganj Bazar": "+880-171-2345678"
+    },
+    "zone": "East Zone",
+    "division": "Mymensingh Division",
+    "speed_category": "Medium",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 6,
+      "Snigdha": 2,
+      "total_coach": 8
+    },
+    "passenger_capacity": 720,
+    "onboard_facilities": ["Restrooms", "Catering"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/teesta-express",
+    "historical_info": "Named after the Teesta River, popular for North Bengal travel."
+  },
+  {
+    "id": 68,
+    "train_name_up": "Shonar Bangla Local 271",
+    "train_name_down": "Shonar Bangla Local 272",
+    "From_up": "Kulaura",
+    "To_up": "Sylhet",
+    "departure_time_Kulaura": "08:00",
+    "arrival_time_Sylhet": "09:40",
+    "From_down": "Sylhet",
+    "To_down": "Kulaura",
+    "departure_time_Sylhet": "16:30",
+    "arrival_time_Kulaura": "18:10",
+    "route_up": "Kulaura → Sylhet",
+    "route_down": "Sylhet → Kulaura",
+    "train_type": "Local",
+    "ticket_classes": ["Shovon"],
+    "ticket_details": {
+      "Shovon": "35 BDT"
+    },
+    "duration_up": "1h 40m",
+    "duration_down": "1h 40m",
+    "off_day": "Friday",
+    "stops_up": ["Maijgaon", "Khadimnagar"],
+    "stops_down": ["Khadimnagar", "Maijgaon"],
+    "station_contact": {
+      "Sylhet": "+880-821-716234",
+      "Kulaura": "+880-171-9876543"
+    },
+    "zone": "East Zone",
+    "division": "Sylhet Division",
+    "speed_category": "Local",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 4,
+      "total_coach": 4
+    },
+    "passenger_capacity": 300,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/shonar-bangla-local",
+    "historical_info": "Supports short-range local travel in Sylhet region."
+  },
+  {
+    "id": 69,
+    "train_name_up": "Dhaka Commuter 91",
+    "train_name_down": "Dhaka Commuter 92",
+    "From_up": "Joydebpur",
+    "To_up": "Dhaka",
+    "departure_time_Joydebpur": "06:45",
+    "arrival_time_Dhaka": "07:30",
+    "From_down": "Dhaka",
+    "To_down": "Joydebpur",
+    "departure_time_Dhaka": "17:45",
+    "arrival_time_Joydebpur": "18:30",
+    "route_up": "Joydebpur → Dhaka",
+    "route_down": "Dhaka → Joydebpur",
+    "train_type": "Commuter",
+    "ticket_classes": ["Shovon"],
+    "ticket_details": {
+      "Shovon": "20 BDT"
+    },
+    "duration_up": "45m",
+    "duration_down": "45m",
+    "off_day": "Sunday",
+    "stops_up": ["Uttara", "Biman Bandar"],
+    "stops_down": ["Biman Bandar", "Uttara"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Joydebpur": "+880-171-3456789"
+    },
+    "zone": "East Zone",
+    "division": "Dhaka Division",
+    "speed_category": "Local",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 4,
+      "total_coach": 4
+    },
+    "passenger_capacity": 320,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/dhaka-commuter",
+    "historical_info": "Primarily serves daily commuters to Dhaka city."
+  },
+  {
+    "id": 70,
+    "train_name_up": "Noapara Local 361",
+    "train_name_down": "Noapara Local 362",
+    "From_up": "Khulna",
+    "To_up": "Noapara",
+    "departure_time_Khulna": "07:30",
+    "arrival_time_Noapara": "08:45",
+    "From_down": "Noapara",
+    "To_down": "Khulna",
+    "departure_time_Noapara": "17:00",
+    "arrival_time_Khulna": "18:15",
+    "route_up": "Khulna → Noapara",
+    "route_down": "Noapara → Khulna",
+    "train_type": "Local",
+    "ticket_classes": ["Shovon"],
+    "ticket_details": {
+      "Shovon": "25 BDT"
+    },
+    "duration_up": "1h 15m",
+    "duration_down": "1h 15m",
+    "off_day": "Thursday",
+    "stops_up": ["Daulatpur", "Fultola"],
+    "stops_down": ["Fultola", "Daulatpur"],
+    "station_contact": {
+      "Khulna": "+880-41-720162",
+      "Noapara": "+880-171-2233445"
+    },
+    "zone": "West Zone",
+    "division": "Khulna Division",
+    "speed_category": "Local",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 3,
+      "total_coach": 3
+    },
+    "passenger_capacity": 280,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/noapara-local",
+    "historical_info": "Short-haul service within Khulna district."
+  },
+  {
+    "id": 71,
+    "train_name_up": "Lalmoni Express 751",
+    "train_name_down": "Lalmoni Express 752",
+    "From_up": "Dhaka",
+    "To_up": "Lalmonirhat",
+    "departure_time_Dhaka": "21:45",
+    "arrival_time_Lalmonirhat": "07:20",
+    "From_down": "Lalmonirhat",
+    "To_down": "Dhaka",
+    "departure_time_Lalmonirhat": "10:40",
+    "arrival_time_Dhaka": "19:55",
+    "route_up": "Dhaka → Lalmonirhat",
+    "route_down": "Lalmonirhat → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "320 BDT",
+      "Snigdha": "600 BDT",
+      "AC": "950 BDT"
+    },
+    "duration_up": "9h 35m",
+    "duration_down": "9h 15m",
+    "off_day": "Friday",
+    "stops_up": ["Biman Bandar", "Bogra", "Gaibandha", "Rangpur", "Kurigram"],
+    "stops_down": ["Kurigram", "Rangpur", "Gaibandha", "Bogra", "Biman Bandar"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Lalmonirhat": "+880-172-3344556"
+    },
+    "zone": "West Zone",
+    "division": "Rangpur Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 3,
+      "Shovon": 6,
+      "total_coach": 12
+    },
+    "passenger_capacity": 960,
+    "onboard_facilities": ["Wi-Fi", "Restrooms", "Catering", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/lalmoni-express",
+    "historical_info": "Launched to connect capital with the northern region of Bangladesh."
+  },
+  {
+    "id": 72,
+    "train_name_up": "Padma Express 759",
+    "train_name_down": "Padma Express 760",
+    "From_up": "Dhaka",
+    "To_up": "Rajshahi",
+    "departure_time_Dhaka": "23:00",
+    "arrival_time_Rajshahi": "05:30",
+    "From_down": "Rajshahi",
+    "To_down": "Dhaka",
+    "departure_time_Rajshahi": "16:00",
+    "arrival_time_Dhaka": "22:35",
+    "route_up": "Dhaka → Rajshahi",
+    "route_down": "Rajshahi → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "340 BDT",
+      "Snigdha": "560 BDT",
+      "AC": "950 BDT"
+    },
+    "duration_up": "6h 30m",
+    "duration_down": "6h 35m",
+    "off_day": "Tuesday",
+    "stops_up": ["Biman Bandar", "Tangail", "Ishwardi", "Abdulpur"],
+    "stops_down": ["Abdulpur", "Ishwardi", "Tangail", "Biman Bandar"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Rajshahi": "+880-721-774455"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 2,
+      "Shovon": 7,
+      "total_coach": 12
+    },
+    "passenger_capacity": 980,
+    "onboard_facilities": ["Wi-Fi", "Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/padma-express",
+    "historical_info": "Operates overnight between Rajshahi and Dhaka."
+  },
+  {
+    "id": 73,
+    "train_name_up": "Dolonchapa Express 767",
+    "train_name_down": "Dolonchapa Express 768",
+    "From_up": "Santahar",
+    "To_up": "Dinajpur",
+    "departure_time_Santahar": "06:00",
+    "arrival_time_Dinajpur": "10:00",
+    "From_down": "Dinajpur",
+    "To_down": "Santahar",
+    "departure_time_Dinajpur": "14:30",
+    "arrival_time_Santahar": "18:45",
+    "route_up": "Santahar → Dinajpur",
+    "route_down": "Dinajpur → Santahar",
+    "train_type": "Mail/Express",
+    "ticket_classes": ["Shovon"],
+    "ticket_details": {
+      "Shovon": "100 BDT"
+    },
+    "duration_up": "4h 0m",
+    "duration_down": "4h 15m",
+    "off_day": "Sunday",
+    "stops_up": ["Akkelpur", "Joypurhat", "Birampur", "Phulbari"],
+    "stops_down": ["Phulbari", "Birampur", "Joypurhat", "Akkelpur"],
+    "station_contact": {
+      "Santahar": "+880-741-556677",
+      "Dinajpur": "+880-531-987654"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Medium",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 6,
+      "total_coach": 6
+    },
+    "passenger_capacity": 500,
+    "onboard_facilities": ["Restrooms"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/dolonchapa-express",
+    "historical_info": "Serves northern towns in Rajshahi region."
+  },
+  {
+    "id": 74,
+    "train_name_up": "Jamuna Express 745",
+    "train_name_down": "Jamuna Express 746",
+    "From_up": "Dhaka",
+    "To_up": "Tarakandi",
+    "departure_time_Dhaka": "16:45",
+    "arrival_time_Tarakandi": "23:20",
+    "From_down": "Tarakandi",
+    "To_down": "Dhaka",
+    "departure_time_Tarakandi": "02:30",
+    "arrival_time_Dhaka": "08:40",
+    "route_up": "Dhaka → Tarakandi",
+    "route_down": "Tarakandi → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha"],
+    "ticket_details": {
+      "Shovon": "150 BDT",
+      "Snigdha": "300 BDT"
+    },
+    "duration_up": "6h 35m",
+    "duration_down": "6h 10m",
+    "off_day": "Saturday",
+    "stops_up": ["Biman Bandar", "Mymensingh", "Jamalpur"],
+    "stops_down": ["Jamalpur", "Mymensingh", "Biman Bandar"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Tarakandi": "+880-171-8888888"
+    },
+    "zone": "East Zone",
+    "division": "Mymensingh Division",
+    "speed_category": "Medium",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "Shovon": 6,
+      "Snigdha": 2,
+      "total_coach": 8
+    },
+    "passenger_capacity": 720,
+    "onboard_facilities": ["Restrooms", "Charging Ports"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/jamuna-express",
+    "historical_info": "Named after the Jamuna River, key intercity train in the north."
+  },
+  {
+    "id": 75,
+    "train_name_up": "Panchagarh Express 793",
+    "train_name_down": "Panchagarh Express 794",
+    "From_up": "Dhaka",
+    "To_up": "Panchagarh",
+    "departure_time_Dhaka": "22:45",
+    "arrival_time_Panchagarh": "08:50",
+    "From_down": "Panchagarh",
+    "To_down": "Dhaka",
+    "departure_time_Panchagarh": "12:30",
+    "arrival_time_Dhaka": "21:55",
+    "route_up": "Dhaka → Panchagarh",
+    "route_down": "Panchagarh → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Snigdha", "AC"],
+    "ticket_details": {
+      "Snigdha": "700 BDT",
+      "AC": "1200 BDT"
+    },
+    "duration_up": "10h 5m",
+    "duration_down": "9h 25m",
+    "off_day": "Monday",
+    "stops_up": ["Biman Bandar", "Parbatipur", "Thakurgaon"],
+    "stops_down": ["Thakurgaon", "Parbatipur", "Biman Bandar"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Panchagarh": "+880-561-654321"
+    },
+    "zone": "West Zone",
+    "division": "Rangpur Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 4,
+      "Snigdha": 4,
+      "total_coach": 8
+    },
+    "passenger_capacity": 700,
+    "onboard_facilities": ["Wi-Fi", "Restrooms", "Catering"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/panchagarh-express",
+    "historical_info": "Longest route intercity from Dhaka to northernmost district."
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "id": 38,
+    "train_name_up": "Silk City Express 753",
+    "train_name_down": "Silk City Express 754",
+    "From_up": "Dhaka",
+    "To_up": "Rajshahi",
+    "departure_time_Dhaka": "14:45",
+    "arrival_time_Rajshahi": "21:30",
+    "From_down": "Rajshahi",
+    "To_down": "Dhaka",
+    "departure_time_Rajshahi": "07:40",
+    "arrival_time_Dhaka": "13:30",
+    "route_up": "Dhaka → Rajshahi",
+    "route_down": "Rajshahi → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "345 BDT",
+      "Snigdha": "640 BDT",
+      "AC": "950 BDT"
+    },
+    "duration_up": "6h 45m",
+    "duration_down": "5h 50m",
+    "off_day": "Sunday",
+    "stops_up": [ "Dhaka", "Joydebpur", "Tangail", "B.B. East", "Ishwardi", "Rajshahi" ],
+    "stops_down": [ "Rajshahi", "Ishwardi", "B.B. East", "Tangail", "Joydebpur", "Dhaka" ],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Rajshahi": "+880-721-774480"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 3,
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 13
+    },
+    "passenger_capacity": 950,
+    "onboard_facilities": ["Restrooms", "Charging Ports", "Catering"],
+    "train_status_api": "https://api.railway.gov.bd/train-status/silk-city-express",
+    "historical_info": "Silk City Express began operations in the early 2000s to connect Dhaka with Rajshahi, famous for silk and mangoes."
+  },
+  {
+    "id": 39,
+    "train_name_up": "Padma Express 759",
+    "train_name_down": "Padma Express 760",
+    "From_up": "Dhaka",
+    "To_up": "Rajshahi",
+    "departure_time_Dhaka": "23:10",
+    "arrival_time_Rajshahi": "04:40",
+    "From_down": "Rajshahi",
+    "To_down": "Dhaka",
+    "departure_time_Rajshahi": "16:00",
+    "arrival_time_Dhaka": "21:40",
+    "route_up": "Dhaka → Rajshahi",
+    "route_down": "Rajshahi → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "345 BDT",
+      "Snigdha": "640 BDT",
+      "AC": "950 BDT"
+    },
+    "duration_up": "5h 30m",
+    "duration_down": "5h 40m",
+    "off_day": "Tuesday",
+    "stops_up": ["Dhaka", "Biman Bandar", "Tangail", "Ishwardi", "Rajshahi"],
+    "stops_down": ["Rajshahi", "Ishwardi", "Tangail", "Biman Bandar", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Rajshahi": "+880-721-774480"
+    },
+    "zone": "West Zone",
+    "division": "Rajshahi Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 2,
+      "Snigdha": 3,
+      "Shovon": 6,
+      "General": 2,
+      "total_coach": 13
+    },
+    "passenger_capacity": 950,
+    "onboard_facilities": [
+      "Restrooms",
+      "Charging Ports",
+      "Catering",
+      "Sleeping Berths"
+    ],
+    "train_status_api": "https://api.railway.gov.bd/train-status/padma-express",
+    "historical_info": "Padma Express launched in 2005 as an overnight alternative to Silk City Express on the Dhaka–Rajshahi route."
+  },
+  {
+    "id": 40,
+    "train_name_up": "Sundarban Express 726",
+    "train_name_down": "Sundarban Express 725",
+    "From_up": "Dhaka",
+    "To_up": "Khulna",
+    "departure_time_Dhaka": "06:20",
+    "arrival_time_Khulna": "16:20",
+    "From_down": "Khulna",
+    "To_down": "Dhaka",
+    "departure_time_Khulna": "22:15",
+    "arrival_time_Dhaka": "08:20",
+    "route_up": "Dhaka → Khulna",
+    "route_down": "Khulna → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "420 BDT",
+      "Snigdha": "800 BDT",
+      "AC": "1200 BDT"
+    },
+    "duration_up": "10h 00m",
+    "duration_down": "10h 05m",
+    "off_day": "Tuesday",
+    "stops_up": ["Dhaka", "Jessore", "Khulna"],
+    "stops_down": ["Khulna", "Jessore", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Khulna": "+880-41-720171"
+    },
+    "zone": "West Zone",
+    "division": "Khulna Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 3,
+      "Shovon": 8,
+      "General": 2,
+      "total_coach": 16
+    },
+    "passenger_capacity": 1150,
+    "onboard_facilities": [
+      "Wi-Fi",
+      "Restrooms",
+      "Charging Ports",
+      "Dining Car"
+    ],
+    "train_status_api": "https://api.railway.gov.bd/train-status/sundarban-express",
+    "historical_info": "Sundarban Express began operations in the late 1990s, serving one of the longest Intercity routes between Dhaka and Khulna."
+  },
+  {
+    "id": 41,
+    "train_name_up": "Chitra Express 764",
+    "train_name_down": "Chitra Express 763",
+    "From_up": "Dhaka",
+    "To_up": "Khulna",
+    "departure_time_Dhaka": "19:00",
+    "arrival_time_Khulna": "04:20",
+    "From_down": "Khulna",
+    "To_down": "Dhaka",
+    "departure_time_Khulna": "09:00",
+    "arrival_time_Dhaka": "18:20",
+    "route_up": "Dhaka → Khulna",
+    "route_down": "Khulna → Dhaka",
+    "train_type": "Intercity",
+    "ticket_classes": ["Shovon", "Snigdha", "AC"],
+    "ticket_details": {
+      "Shovon": "420 BDT",
+      "Snigdha": "800 BDT",
+      "AC": "1200 BDT"
+    },
+    "duration_up": "9h 20m",
+    "duration_down": "9h 20m",
+    "off_day": "Monday",
+    "stops_up": ["Dhaka", "Jessore", "Khulna"],
+    "stops_down": ["Khulna", "Jessore", "Dhaka"],
+    "station_contact": {
+      "Dhaka": "+880-2-9331900",
+      "Khulna": "+880-41-720171"
+    },
+    "zone": "West Zone",
+    "division": "Khulna Division",
+    "speed_category": "Fast",
+    "booking_info": "https://eticket.railway.gov.bd",
+    "train_operator": "Bangladesh Railway",
+    "coach_composition": {
+      "AC": 3,
+      "Snigdha": 3,
+      "Shovon": 8,
+      "General": 2,
+      "total_coach": 16
+    },
+    "passenger_capacity": 1150,
+    "onboard_facilities": [
+      "Wi-Fi",
+      "Restrooms",
+      "Charging Ports",
+      "Dining Car"
+    ],
+    "train_status_api": "https://api.railway.gov.bd/train-status/chitra-express",
+    "historical_info": "Chitra Express launched alongside Sundarban Express in the late 1990s, offering overnight service on the Dhaka–Khulna route."
+  }
+]

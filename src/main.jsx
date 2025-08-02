@@ -26,15 +26,77 @@ const router = createBrowserRouter([
     element: <Root />,
     errorElement: <ErrorPage />,
     children: [
-      { index: true, element: <Home /> },
-      { path: "new-arrivals", element: <NewArrivals /> },
-      { path: "women", element: <Women /> },
-      { path: "kids", element: <Kids /> },
-      { path: "dresses", element: <Dresses /> },
-      { path: "tops", element: <Tops /> },
-      { path: "bottoms", element: <Bottoms /> },
-      { path: "accessories", element: <Accessories /> },
-      { path: "sale", element: <Sale /> },
+      { index: true, element: <Home />,
+          loader: async () => {
+          const response = await fetch("/public/new_arrivals.json");
+          if (!response.ok) throw new Error("Failed to load sale products");
+          return response.json();
+        },
+       },
+      {
+        path: "new-arrivals",
+        element: <NewArrivals />,
+        loader: async () => {
+          const response = await fetch("/public/new_arrivals.json");
+          if (!response.ok) throw new Error("Failed to load sale products");
+          return response.json();
+        },
+      },
+      {
+        path: "women",
+        element: <Women />,
+        loader: async () => {
+          const response = await fetch("/public/women.json");
+          if (!response.ok) throw new Error("Failed to load sale products");
+          return response.json();
+        },
+      },
+      {
+        path: "kids",
+        element: <Kids />,
+        loader: async () => {
+          const response = await fetch("/public/kids.json");
+          if (!response.ok) throw new Error("Failed to load sale products");
+          return response.json();
+        },
+      },
+      { path: "dresses", element: <Dresses />,
+          loader: async () => {
+          const response = await fetch("/public/dresses.json");
+          if (!response.ok) throw new Error("Failed to load sale products");
+          return response.json();
+        },
+       },
+      { path: "tops", element: <Tops />,
+           loader: async () => {
+          const response = await fetch("/public/tops.json");
+          if (!response.ok) throw new Error("Failed to load sale products");
+          return response.json();
+        },
+       },
+      { path: "bottoms", element: <Bottoms />,
+           loader: async () => {
+          const response = await fetch("/public/bottoms.json");
+          if (!response.ok) throw new Error("Failed to load sale products");
+          return response.json();
+        },
+       },
+      { path: "accessories", element: <Accessories />,
+           loader: async () => {
+          const response = await fetch("/public/accessories.json");
+          if (!response.ok) throw new Error("Failed to load sale products");
+          return response.json();
+        },
+       },
+      {
+        path: "sale",
+        element: <Sale />,
+        loader: async () => {
+          const response = await fetch("/public/cleaned_products.json");
+          if (!response.ok) throw new Error("Failed to load sale products");
+          return response.json();
+        },
+      },
       { path: "contact", element: <ContactUs /> },
       { path: "view-cart", element: <ViewCard /> },
       { path: "profile", element: <Profile /> },

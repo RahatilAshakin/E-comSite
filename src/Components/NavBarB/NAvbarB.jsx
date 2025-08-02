@@ -6,7 +6,7 @@ const NavBarB = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   const links = [
-    { name: "Home", href: "/home" },
+    { name: "Home", href: "/" },
     { name: "New Arrivals", href: "/new-arrivals" },
     { name: "Women", href: "/women" },
     { name: "Kids", href: "/kids" },

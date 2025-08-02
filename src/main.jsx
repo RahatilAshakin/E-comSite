@@ -20,27 +20,25 @@ import Profile from "./Components/Profile/Profile.jsx";
 import Home from "./Components/Pages/Home/Home.jsx";
 import Setting from "./Components/Setting/Setting.jsx";
 
-// Pages
-
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Root></Root>,
+    element: <Root />,
     errorElement: <ErrorPage />,
     children: [
-      { path: "/new-arrivals", element: <NewArrivals></NewArrivals> },
-      { path: "/Women", element: <Women></Women> },
-      { path: "/kids", element: <Kids></Kids> },
-      { path: "/dresses", element: <Dresses></Dresses> },
-      { path: "/tops", element: <Tops></Tops> },
-      { path: "/bottoms", element: <Bottoms></Bottoms> },
-      { path: "/accessories", element: <Accessories></Accessories> },
-      { path: "/sale", element: <Sale></Sale> },
-      { path: "/contact", element: <ContactUs></ContactUs> },
-      { path: "/view-cart", element: <ViewCard></ViewCard> },
-      { path: "/profile", element: <Profile></Profile> },
-      { path: "/home", element: <Home></Home> },
-      { path: "/settings", element: <Setting></Setting> },
+      { index: true, element: <Home /> },
+      { path: "new-arrivals", element: <NewArrivals /> },
+      { path: "women", element: <Women /> },
+      { path: "kids", element: <Kids /> },
+      { path: "dresses", element: <Dresses /> },
+      { path: "tops", element: <Tops /> },
+      { path: "bottoms", element: <Bottoms /> },
+      { path: "accessories", element: <Accessories /> },
+      { path: "sale", element: <Sale /> },
+      { path: "contact", element: <ContactUs /> },
+      { path: "view-cart", element: <ViewCard /> },
+      { path: "profile", element: <Profile /> },
+      { path: "settings", element: <Setting /> },
     ],
   },
 ]);

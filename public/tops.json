@@ -1,0 +1,39 @@
+[
+  {
+    "id": "66",
+    "sku": "SKU00066",
+    "gtin": "0879394935066",
+    "title": "Casual Women\u2019s Loose Shirt",
+    "description": "Comfortable casual loose shirt for women, perfect for everyday wear.",
+    "brand": "UniversalStyle",
+    "category": "Women > Tops",
+    "tags": [
+      "casual",
+      "loose",
+      "shirt",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 29.99,
+    "currency": "USD",
+    "list_price": 40.0,
+    "sale_price": 29.99,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/casual-womens-loose-shirt-66",
+    "image": "https://i.ibb.co/xTNFycW/imgi-9-default.jpg",
+    "images": [
+      "https://i.ibb.co/xTNFycW/imgi-9-default.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  }
+]

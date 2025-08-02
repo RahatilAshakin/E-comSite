@@ -1,0 +1,2662 @@
+[
+  {
+    "id": "31",
+    "sku": "SKU00031",
+    "gtin": "0879394935031",
+    "title": "Elegant Girl's Party Dress",
+    "description": "Beautiful party dress for girls, perfect for birthdays and special occasions.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "party",
+      "girls",
+      "dress",
+      "elegant"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 39.99,
+    "currency": "USD",
+    "list_price": 49.99,
+    "sale_price": 39.99,
+    "availability": "in_stock",
+    "stock_quantity": 45,
+    "condition": "new",
+    "url": "https://example.com/products/girls-party-dress-31",
+    "image": "https://i.ibb.co/xTNFycW/imgi-9-default.jpg",
+    "images": [
+      "https://i.ibb.co/xTNFycW/imgi-9-default.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "32",
+    "sku": "SKU00032",
+    "gtin": "0879394935032",
+    "title": "Casual Girls Dress",
+    "description": "Comfortable and cute casual dress for everyday wear for young girls.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "casual",
+      "girls",
+      "dress",
+      "comfortable"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 29.99,
+    "currency": "USD",
+    "list_price": 39.99,
+    "sale_price": 29.99,
+    "availability": "in_stock",
+    "stock_quantity": 60,
+    "condition": "new",
+    "url": "https://example.com/products/casual-girls-dress-32",
+    "image": "https://i.ibb.co/MD5Ft7jD/imgi-11-default.jpg",
+    "images": [
+      "https://i.ibb.co/MD5Ft7jD/imgi-11-default.jpg"
+    ],
+    "color": "Light Blue",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "33",
+    "sku": "SKU00033",
+    "gtin": "0879394935033",
+    "title": "Elegant Girls Gown",
+    "description": "Luxurious floor-length gown for girls, ideal for formal events.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "gown",
+      "formal",
+      "girls",
+      "luxury"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 59.99,
+    "currency": "USD",
+    "list_price": 79.99,
+    "sale_price": 59.99,
+    "availability": "in_stock",
+    "stock_quantity": 40,
+    "condition": "new",
+    "url": "https://example.com/products/elegant-girls-gown-33",
+    "image": "https://i.ibb.co/mFqrq4Qw/imgi-149-IMG-20230715-091457.jpg",
+    "images": [
+      "https://i.ibb.co/mFqrq4Qw/imgi-149-IMG-20230715-091457.jpg"
+    ],
+    "color": "Lavender",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "34",
+    "sku": "SKU00034",
+    "gtin": "0879394935034",
+    "title": "Girls Summer Dress",
+    "description": "Lightweight and colorful summer dress for girls, perfect for warm days.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "summer",
+      "girls",
+      "dress",
+      "lightweight"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 34.99,
+    "currency": "USD",
+    "list_price": 44.99,
+    "sale_price": 34.99,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/girls-summer-dress-34",
+    "image": "https://i.ibb.co/wZhnrfyq/imgi-150-img-5557.jpg",
+    "images": [
+      "https://i.ibb.co/wZhnrfyq/imgi-150-img-5557.jpg"
+    ],
+    "color": "Yellow",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "35",
+    "sku": "SKU00035",
+    "gtin": "0879394935035",
+    "title": "Princess Style Dress",
+    "description": "Beautiful princess style dress for girls, perfect for celebrations.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "princess",
+      "girls",
+      "dress",
+      "celebration"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 44.99,
+    "currency": "USD",
+    "list_price": 59.99,
+    "sale_price": 44.99,
+    "availability": "in_stock",
+    "stock_quantity": 42,
+    "condition": "new",
+    "url": "https://example.com/products/princess-style-dress-35",
+    "image": "https://i.ibb.co/gFbH3pxb/imgi-153-kleitas-meitenem-petite-kingdom.jpg",
+    "images": [
+      "https://i.ibb.co/gFbH3pxb/imgi-153-kleitas-meitenem-petite-kingdom.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "36",
+    "sku": "SKU00036",
+    "gtin": "0879394935036",
+    "title": "Casual Girls Dress",
+    "description": "Stylish and comfortable casual dress for girls, suitable for all-day wear.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "casual",
+      "girls",
+      "dress",
+      "comfortable"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 31.99,
+    "currency": "USD",
+    "list_price": 41.99,
+    "sale_price": 31.99,
+    "availability": "in_stock",
+    "stock_quantity": 48,
+    "condition": "new",
+    "url": "https://example.com/products/casual-girls-dress-36",
+    "image": "https://i.ibb.co/rKrDjqdc/imgi-157-1-4c57c998-1a9a-42ea-a937-31a2d9777988.jpg",
+    "images": [
+      "https://i.ibb.co/rKrDjqdc/imgi-157-1-4c57c998-1a9a-42ea-a937-31a2d9777988.jpg"
+    ],
+    "color": "Light Purple",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "37",
+    "sku": "SKU00037",
+    "gtin": "0879394935037",
+    "title": "Floral Girls Dress",
+    "description": "Charming floral print dress for girls, perfect for spring and summer.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "floral",
+      "girls",
+      "dress",
+      "spring"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 38.5,
+    "currency": "USD",
+    "list_price": 49.0,
+    "sale_price": 38.5,
+    "availability": "in_stock",
+    "stock_quantity": 55,
+    "condition": "new",
+    "url": "https://example.com/products/floral-girls-dress-37",
+    "image": "https://i.ibb.co/GvN1y1Mv/imgi-159-GL2076-1.jpg",
+    "images": [
+      "https://i.ibb.co/GvN1y1Mv/imgi-159-GL2076-1.jpg"
+    ],
+    "color": "White with Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "38",
+    "sku": "SKU00038",
+    "gtin": "0879394935038",
+    "title": "Girls Denim Dress",
+    "description": "Classic denim dress for girls with adjustable straps for a perfect fit.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "denim",
+      "girls",
+      "dress",
+      "classic"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 35.0,
+    "currency": "USD",
+    "list_price": 45.0,
+    "sale_price": 35.0,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/girls-denim-dress-38",
+    "image": "https://i.ibb.co/x7gSJKXc/imgi-163-GL2121.jpg",
+    "images": [
+      "https://i.ibb.co/x7gSJKXc/imgi-163-GL2121.jpg"
+    ],
+    "color": "Denim Blue",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "39",
+    "sku": "SKU00039",
+    "gtin": "0879394935039",
+    "title": "Girls Casual Dress",
+    "description": "Soft and colorful casual dress for girls, ideal for everyday comfort.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "casual",
+      "girls",
+      "dress",
+      "soft"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 29.5,
+    "currency": "USD",
+    "list_price": 39.0,
+    "sale_price": 29.5,
+    "availability": "in_stock",
+    "stock_quantity": 65,
+    "condition": "new",
+    "url": "https://example.com/products/girls-casual-dress-39",
+    "image": "https://i.ibb.co/dcYpxzV3/imgi-165-GL2114.jpg",
+    "images": [
+      "https://i.ibb.co/dcYpxzV3/imgi-165-GL2114.jpg"
+    ],
+    "color": "Red",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "40",
+    "sku": "SKU00040",
+    "gtin": "0879394935040",
+    "title": "Girls Fashion Dress",
+    "description": "Trendy and stylish dress for girls, designed for fashion-conscious kids.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "fashion",
+      "girls",
+      "dress",
+      "stylish"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 42.0,
+    "currency": "USD",
+    "list_price": 55.0,
+    "sale_price": 42.0,
+    "availability": "in_stock",
+    "stock_quantity": 43,
+    "condition": "new",
+    "url": "https://example.com/products/girls-fashion-dress-40",
+    "image": "https://i.ibb.co/F3QtF3cS/imgi-170-GL2130.jpg",
+    "images": [
+      "https://i.ibb.co/F3QtF3cS/imgi-170-GL2130.jpg"
+    ],
+    "color": "Blue",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "41",
+    "sku": "SKU00041",
+    "gtin": "0879394935041",
+    "title": "Girls Summer Dress",
+    "description": "Light and comfortable summer dress for girls, ideal for hot days.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "summer",
+      "girls",
+      "dress",
+      "light"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 32.0,
+    "currency": "USD",
+    "list_price": 42.0,
+    "sale_price": 32.0,
+    "availability": "in_stock",
+    "stock_quantity": 52,
+    "condition": "new",
+    "url": "https://example.com/products/girls-summer-dress-41",
+    "image": "https://i.ibb.co/b7D6rFtS/imgi-173-GL2140.jpg",
+    "images": [
+      "https://i.ibb.co/b7D6rFtS/imgi-173-GL2140.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "42",
+    "sku": "SKU00042",
+    "gtin": "0879394935042",
+    "title": "Girls Elegant Dress",
+    "description": "Stylish and elegant dress for girls, perfect for parties and events.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "elegant",
+      "girls",
+      "dress",
+      "party"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 45.0,
+    "currency": "USD",
+    "list_price": 60.0,
+    "sale_price": 45.0,
+    "availability": "in_stock",
+    "stock_quantity": 38,
+    "condition": "new",
+    "url": "https://example.com/products/girls-elegant-dress-42",
+    "image": "https://i.ibb.co/ctHzXcD/imgi-181-IMG-20230715-091457.jpg",
+    "images": [
+      "https://i.ibb.co/ctHzXcD/imgi-181-IMG-20230715-091457.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "43",
+    "sku": "SKU00043",
+    "gtin": "0879394935043",
+    "title": "Girls Party Dress",
+    "description": "Cute and stylish party dress for girls with beautiful design details.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "party",
+      "girls",
+      "dress",
+      "cute"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 40.0,
+    "currency": "USD",
+    "list_price": 50.0,
+    "sale_price": 40.0,
+    "availability": "in_stock",
+    "stock_quantity": 44,
+    "condition": "new",
+    "url": "https://example.com/products/girls-party-dress-43",
+    "image": "https://i.ibb.co/F6RPW2Mw/imgi-184-IMG-20230715-091506.jpg",
+    "images": [
+      "https://i.ibb.co/F6RPW2Mw/imgi-184-IMG-20230715-091506.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "44",
+    "sku": "SKU00044",
+    "gtin": "0879394935044",
+    "title": "Girls Dress with Floral Prints",
+    "description": "Comfortable dress for girls featuring lovely floral prints.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "floral",
+      "girls",
+      "dress",
+      "comfortable"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 33.0,
+    "currency": "USD",
+    "list_price": 42.0,
+    "sale_price": 33.0,
+    "availability": "in_stock",
+    "stock_quantity": 48,
+    "condition": "new",
+    "url": "https://example.com/products/girls-floral-dress-44",
+    "image": "https://i.ibb.co/TkrhZ3jp/imgi-186-IMG-20230715-091527.jpg",
+    "images": [
+      "https://i.ibb.co/TkrhZ3jp/imgi-186-IMG-20230715-091527.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "45",
+    "sku": "SKU00045",
+    "gtin": "0879394935045",
+    "title": "Girls Casual Summer Dress",
+    "description": "Light and breezy summer dress for girls, perfect for casual outings.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "summer",
+      "casual",
+      "girls",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 30.0,
+    "currency": "USD",
+    "list_price": 38.0,
+    "sale_price": 30.0,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/girls-casual-summer-dress-45",
+    "image": "https://i.ibb.co/qn3YN3yk/imgi-187-IMG-20230715-091536.jpg",
+    "images": [
+      "https://i.ibb.co/qn3YN3yk/imgi-187-IMG-20230715-091536.jpg"
+    ],
+    "color": "Light Blue",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "46",
+    "sku": "SKU00046",
+    "gtin": "0879394935046",
+    "title": "Girls Casual Dress",
+    "description": "Comfortable casual dress with cute prints, ideal for daily wear.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "casual",
+      "girls",
+      "dress",
+      "cute"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 28.0,
+    "currency": "USD",
+    "list_price": 35.0,
+    "sale_price": 28.0,
+    "availability": "in_stock",
+    "stock_quantity": 53,
+    "condition": "new",
+    "url": "https://example.com/products/girls-casual-dress-46",
+    "image": "https://i.ibb.co/5x2t6T87/imgi-189-IMG-20230715-091545.jpg",
+    "images": [
+      "https://i.ibb.co/5x2t6T87/imgi-189-IMG-20230715-091545.jpg"
+    ],
+    "color": "Yellow",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "47",
+    "sku": "SKU00047",
+    "gtin": "0879394935047",
+    "title": "Girls Fashion Dress",
+    "description": "Trendy and colorful dress for girls, perfect for fashion-forward kids.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "fashion",
+      "girls",
+      "dress",
+      "colorful"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 40.0,
+    "currency": "USD",
+    "list_price": 52.0,
+    "sale_price": 40.0,
+    "availability": "in_stock",
+    "stock_quantity": 44,
+    "condition": "new",
+    "url": "https://example.com/products/girls-fashion-dress-47",
+    "image": "https://i.ibb.co/4ZPgTQVT/imgi-190-IMG-20230715-091552.jpg",
+    "images": [
+      "https://i.ibb.co/4ZPgTQVT/imgi-190-IMG-20230715-091552.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "48",
+    "sku": "SKU00048",
+    "gtin": "0879394935048",
+    "title": "Girls Party Dress",
+    "description": "Lovely party dress with ruffles and floral design for girls.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "party",
+      "girls",
+      "dress",
+      "ruffles"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 43.0,
+    "currency": "USD",
+    "list_price": 56.0,
+    "sale_price": 43.0,
+    "availability": "in_stock",
+    "stock_quantity": 41,
+    "condition": "new",
+    "url": "https://example.com/products/girls-party-dress-48",
+    "image": "https://i.ibb.co/h2ydZ2Rq/imgi-193-IMG-20230715-091601.jpg",
+    "images": [
+      "https://i.ibb.co/h2ydZ2Rq/imgi-193-IMG-20230715-091601.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "49",
+    "sku": "SKU00049",
+    "gtin": "0879394935049",
+    "title": "Girls Floral Dress",
+    "description": "Charming floral dress with soft fabric, perfect for spring events.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "floral",
+      "girls",
+      "dress",
+      "spring"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 37.0,
+    "currency": "USD",
+    "list_price": 47.0,
+    "sale_price": 37.0,
+    "availability": "in_stock",
+    "stock_quantity": 46,
+    "condition": "new",
+    "url": "https://example.com/products/girls-floral-dress-49",
+    "image": "https://i.ibb.co/jRgkps4X/imgi-198-IMG-20230715-091614.jpg",
+    "images": [
+      "https://i.ibb.co/jRgkps4X/imgi-198-IMG-20230715-091614.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "50",
+    "sku": "SKU00050",
+    "gtin": "0879394935050",
+    "title": "Girls Summer Dress",
+    "description": "Bright and cheerful summer dress for girls, ideal for outdoor activities.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "summer",
+      "girls",
+      "dress",
+      "bright"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 34.0,
+    "currency": "USD",
+    "list_price": 44.0,
+    "sale_price": 34.0,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/girls-summer-dress-50",
+    "image": "https://i.ibb.co/MsJZFLtN/imgi-199-IMG-20230715-091617.jpg",
+    "images": [
+      "https://i.ibb.co/MsJZFLtN/imgi-199-IMG-20230715-091617.jpg"
+    ],
+    "color": "Orange",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "51",
+    "sku": "SKU00051",
+    "gtin": "0879394935051",
+    "title": "Girls Party Dress",
+    "description": "Elegant and stylish party dress for girls, suitable for any occasion.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "party",
+      "girls",
+      "dress",
+      "elegant"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 44.99,
+    "currency": "USD",
+    "list_price": 59.99,
+    "sale_price": 44.99,
+    "availability": "in_stock",
+    "stock_quantity": 42,
+    "condition": "new",
+    "url": "https://example.com/products/girls-party-dress-51",
+    "image": "https://i.ibb.co/xJ7HpFfc/imgi-200-IMG-20230715-091620.jpg",
+    "images": [
+      "https://i.ibb.co/xJ7HpFfc/imgi-200-IMG-20230715-091620.jpg"
+    ],
+    "color": "Light Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "52",
+    "sku": "SKU00052",
+    "gtin": "0879394935052",
+    "title": "Girls Floral Dress",
+    "description": "Beautiful floral printed dress with soft texture, perfect for spring.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "floral",
+      "girls",
+      "dress",
+      "spring"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 38.0,
+    "currency": "USD",
+    "list_price": 49.0,
+    "sale_price": 38.0,
+    "availability": "in_stock",
+    "stock_quantity": 47,
+    "condition": "new",
+    "url": "https://example.com/products/girls-floral-dress-52",
+    "image": "https://i.ibb.co/BVLP2B5p/imgi-204-IMG-20230715-091628.jpg",
+    "images": [
+      "https://i.ibb.co/BVLP2B5p/imgi-204-IMG-20230715-091628.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "53",
+    "sku": "SKU00053",
+    "gtin": "0879394935053",
+    "title": "Girls Summer Floral Dress",
+    "description": "Lightweight floral summer dress for girls, perfect for sunny days.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "summer",
+      "floral",
+      "girls",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 36.0,
+    "currency": "USD",
+    "list_price": 47.0,
+    "sale_price": 36.0,
+    "availability": "in_stock",
+    "stock_quantity": 45,
+    "condition": "new",
+    "url": "https://example.com/products/girls-summer-floral-dress-53",
+    "image": "https://i.ibb.co/abc123xyz/imgi-205-girls-summer-floral.jpg",
+    "images": [
+      "https://i.ibb.co/abc123xyz/imgi-205-girls-summer-floral.jpg"
+    ],
+    "color": "Light Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "54",
+    "sku": "SKU00054",
+    "gtin": "0879394935054",
+    "title": "Girls Casual Striped Dress",
+    "description": "Comfortable casual dress with colorful stripes, great for everyday wear.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "casual",
+      "striped",
+      "girls",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 31.0,
+    "currency": "USD",
+    "list_price": 40.0,
+    "sale_price": 31.0,
+    "availability": "in_stock",
+    "stock_quantity": 55,
+    "condition": "new",
+    "url": "https://example.com/products/girls-casual-striped-dress-54",
+    "image": "https://i.ibb.co/def456uvw/imgi-206-girls-striped.jpg",
+    "images": [
+      "https://i.ibb.co/def456uvw/imgi-206-girls-striped.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "55",
+    "sku": "SKU00055",
+    "gtin": "0879394935055",
+    "title": "Girls Party Tulle Dress",
+    "description": "Elegant tulle dress for girls with a soft lining, perfect for parties.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "party",
+      "tulle",
+      "girls",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 48.0,
+    "currency": "USD",
+    "list_price": 60.0,
+    "sale_price": 48.0,
+    "availability": "in_stock",
+    "stock_quantity": 37,
+    "condition": "new",
+    "url": "https://example.com/products/girls-party-tulle-dress-55",
+    "image": "https://i.ibb.co/ghi789rst/imgi-207-girls-tulle.jpg",
+    "images": [
+      "https://i.ibb.co/ghi789rst/imgi-207-girls-tulle.jpg"
+    ],
+    "color": "Light Purple",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "70",
+    "sku": "SKU00070",
+    "gtin": "0879394935070",
+    "title": "Girls' Petite Kingdom Dress",
+    "description": "Cute and comfortable dress for girls from the Petite Kingdom collection.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "girls",
+      "dress",
+      "petite",
+      "kingdom"
+    ],
+    "gender": "female",
+    "age_group": "child",
+    "price": 35.99,
+    "currency": "USD",
+    "list_price": 45.0,
+    "sale_price": 35.99,
+    "availability": "in_stock",
+    "stock_quantity": 45,
+    "condition": "new",
+    "url": "https://example.com/products/girls-petite-kingdom-dress-70",
+    "image": "https://i.ibb.co/gFbH3pxb/imgi-153-kleitas-meitenem-petite-kingdom.jpg",
+    "images": [
+      "https://i.ibb.co/gFbH3pxb/imgi-153-kleitas-meitenem-petite-kingdom.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "76",
+    "sku": "SKU00076",
+    "gtin": "GTIN0000076",
+    "title": "Elegant White Sleeveless Dress",
+    "description": "Timeless white sleeveless dress with a flared skirt, perfect for casual outings or summer events.",
+    "brand": "LilyBloom",
+    "category": "Girls > Dresses > Casual",
+    "tags": [
+      "white",
+      "sleeveless",
+      "flared",
+      "casual",
+      "girls"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 29.0,
+    "currency": "USD",
+    "list_price": 36.0,
+    "sale_price": 29.0,
+    "availability": "in_stock",
+    "stock_quantity": 40,
+    "condition": "new",
+    "url": "https://example.com/products/76",
+    "image": "https://i.ibb.co/xTNFycW/imgi-9-default.jpg",
+    "images": [
+      "https://i.ibb.co/xTNFycW/imgi-9-default.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "77",
+    "sku": "SKU00077",
+    "gtin": "GTIN0000077",
+    "title": "Girls Party Dress 77",
+    "description": "Elegant girls party dress with embroidery and long tulle skirt.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "girls",
+      "party",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 49.99,
+    "currency": "USD",
+    "list_price": 59.99,
+    "sale_price": 49.99,
+    "availability": "in_stock",
+    "stock_quantity": 20,
+    "condition": "new",
+    "url": "https://example.com/products/77",
+    "image": "https://i.ibb.co/mVQTJxpZ/imgi-167-1.jpg",
+    "images": [
+      "https://i.ibb.co/mVQTJxpZ/imgi-167-1.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "78",
+    "sku": "SKU00078",
+    "gtin": "GTIN0000078",
+    "title": "Flower Girl Lilac Dress 78",
+    "description": "Darling lilac flower girl dress with floor length skirt for special occasions.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Flower Girl",
+    "tags": [
+      "flower girl",
+      "lilac",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 59.99,
+    "currency": "USD",
+    "list_price": 69.99,
+    "sale_price": 59.99,
+    "availability": "in_stock",
+    "stock_quantity": 15,
+    "condition": "new",
+    "url": "https://example.com/products/78",
+    "image": "https://i.ibb.co/tw2rmrDm/imgi-168-Dreamy-Vow-Luxury-Lilac-Flower-Girl-Dress-Arabic-Princess-Kids-Floor-Length-J083.jpg",
+    "images": [
+      "https://i.ibb.co/tw2rmrDm/imgi-168-Dreamy-Vow-Luxury-Lilac-Flower-Girl-Dress-Arabic-Princess-Kids-Floor-Length-J083.jpg"
+    ],
+    "color": "Lilac",
+    "size": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "79",
+    "sku": "SKU00079",
+    "gtin": "GTIN0000079",
+    "title": "Vintage Kids Dress 79",
+    "description": "Vintage inspired kids party dress with soft tones and elegant fit.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Vintage",
+    "tags": [
+      "vintage",
+      "party",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 54.99,
+    "currency": "USD",
+    "list_price": 64.99,
+    "sale_price": 54.99,
+    "availability": "in_stock",
+    "stock_quantity": 18,
+    "condition": "new",
+    "url": "https://example.com/products/79",
+    "image": "https://i.ibb.co/BV3NL427/imgi-170-DSC-8122.jpg",
+    "images": [
+      "https://i.ibb.co/BV3NL427/imgi-170-DSC-8122.jpg"
+    ],
+    "color": "Cream",
+    "size": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "80",
+    "sku": "SKU00080",
+    "gtin": "GTIN0000080",
+    "title": "Gold Party Dress 80",
+    "description": "Luxurious gold kids dress with embroidery and floor length silhouette.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "gold",
+      "party",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 64.99,
+    "currency": "USD",
+    "list_price": 79.99,
+    "sale_price": 64.99,
+    "availability": "in_stock",
+    "stock_quantity": 12,
+    "condition": "new",
+    "url": "https://example.com/products/80",
+    "image": "https://i.ibb.co/wfdHWRF/imgi-171-75338-12-B.jpg",
+    "images": [
+      "https://i.ibb.co/wfdHWRF/imgi-171-75338-12-B.jpg"
+    ],
+    "color": "Gold",
+    "size": [
+      "2",
+      "4",
+      "6"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "81",
+    "sku": "SKU00081",
+    "gtin": "GTIN0000081",
+    "title": "Green Ethnic Gown 81",
+    "description": "Elegant green ethnic gown for girls, perfect for cultural events.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Ethnic Wear",
+    "tags": [
+      "green",
+      "ethnic",
+      "gown"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 49.99,
+    "currency": "USD",
+    "list_price": 59.99,
+    "sale_price": 49.99,
+    "availability": "in_stock",
+    "stock_quantity": 22,
+    "condition": "new",
+    "url": "https://example.com/products/81",
+    "image": "https://i.ibb.co/vvCy1SFj/imgi-172-green-ethnic-gown-for-girls-lagorii-kids-2.jpg",
+    "images": [
+      "https://i.ibb.co/vvCy1SFj/imgi-172-green-ethnic-gown-for-girls-lagorii-kids-2.jpg"
+    ],
+    "color": "Green",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "82",
+    "sku": "SKU00082",
+    "gtin": "GTIN0000082",
+    "title": "Kids Party Dress 82",
+    "description": "Charming party frock with floral details and soft pastel colors.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "party",
+      "kids",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 44.99,
+    "currency": "USD",
+    "list_price": 54.99,
+    "sale_price": 44.99,
+    "availability": "in_stock",
+    "stock_quantity": 25,
+    "condition": "new",
+    "url": "https://example.com/products/82",
+    "image": "https://i.ibb.co/pBFb1KnM/imgi-182-Party-wear-dresses-for-kids-Kids-occasion-dresses-Baby-girl-birthday-frocks-Toddler-party-w.jpg",
+    "images": [
+      "https://i.ibb.co/pBFb1KnM/imgi-182-Party-wear-dresses-for-kids-Kids-occasion-dresses-Baby-girl-birthday-frocks-Toddler-party-w.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "83",
+    "sku": "SKU00083",
+    "gtin": "GTIN0000083",
+    "title": "Princess Gown 83",
+    "description": "Princess-style floor-length dress with glitter details for girls.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Princess Wear",
+    "tags": [
+      "princess",
+      "glitter",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 69.99,
+    "currency": "USD",
+    "list_price": 89.99,
+    "sale_price": 69.99,
+    "availability": "in_stock",
+    "stock_quantity": 10,
+    "condition": "new",
+    "url": "https://example.com/products/83",
+    "image": "https://i.ibb.co/Z6m8tKLt/imgi-185-1-abb8149c-926f-4c0b-ae8f-279f988e20a2.jpg",
+    "images": [
+      "https://i.ibb.co/Z6m8tKLt/imgi-185-1-abb8149c-926f-4c0b-ae8f-279f988e20a2.jpg"
+    ],
+    "color": "Purple",
+    "size": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "84",
+    "sku": "SKU00084",
+    "gtin": "GTIN0000084",
+    "title": "Embroidered Gold Gown 84",
+    "description": "Stunning gold vintage dress with embroidery and long lehenga skirt.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "gold",
+      "embroidery",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 74.99,
+    "currency": "USD",
+    "list_price": 89.99,
+    "sale_price": 74.99,
+    "availability": "in_stock",
+    "stock_quantity": 8,
+    "condition": "new",
+    "url": "https://example.com/products/84",
+    "image": "https://i.ibb.co/rfwKMTvb/imgi-189-Gold-Vintage-Elegant-Girls-Party-Dresses-Wedding-Birthday-Long-Gown-Embroidery-Kids-Graduca.webp",
+    "images": [
+      "https://i.ibb.co/rfwKMTvb/imgi-189-Gold-Vintage-Elegant-Girls-Party-Dresses-Wedding-Birthday-Long-Gown-Embroidery-Kids-Graduca.webp"
+    ],
+    "color": "Gold",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "85",
+    "sku": "SKU00085",
+    "gtin": "GTIN0000085",
+    "title": "Stylish Kids Dress 85",
+    "description": "Fashionable kids dress with bold prints and comfortable fit.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Casual Party",
+    "tags": [
+      "stylish",
+      "casual",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 39.99,
+    "currency": "USD",
+    "list_price": 49.99,
+    "sale_price": 39.99,
+    "availability": "in_stock",
+    "stock_quantity": 30,
+    "condition": "new",
+    "url": "https://example.com/products/85",
+    "image": "https://i.ibb.co/W4N7PxZJ/imgi-190-65d9ee99aef8ff758422a8dd-styles-i-love-little-kid-girls.jpg",
+    "images": [
+      "https://i.ibb.co/W4N7PxZJ/imgi-190-65d9ee99aef8ff758422a8dd-styles-i-love-little-kid-girls.jpg"
+    ],
+    "color": "Blue",
+    "size": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "86",
+    "sku": "SKU00086",
+    "gtin": "GTIN0000086",
+    "title": "Occasion Dress 86",
+    "description": "Occasion wear dress with floral embroidery and soft pastel colors.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Occasion Wear",
+    "tags": [
+      "occasion",
+      "floral",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 46.99,
+    "currency": "USD",
+    "list_price": 56.99,
+    "sale_price": 46.99,
+    "availability": "in_stock",
+    "stock_quantity": 18,
+    "condition": "new",
+    "url": "https://example.com/products/86",
+    "image": "https://i.ibb.co/b5CY8b1X/imgi-193-798f3aac0418000283548ae3918533b252b2a637-original.jpg",
+    "images": [
+      "https://i.ibb.co/b5CY8b1X/imgi-193-798f3aac0418000283548ae3918533b252b2a637-original.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "87",
+    "sku": "SKU00087",
+    "gtin": "GTIN0000087",
+    "title": "Multicolor Gown 87",
+    "description": "Floor-length dress with multicolor floral print and layered skirt.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Ethnic Wear",
+    "tags": [
+      "multicolor",
+      "floral",
+      "gown"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 55.99,
+    "currency": "USD",
+    "list_price": 65.99,
+    "sale_price": 55.99,
+    "availability": "in_stock",
+    "stock_quantity": 16,
+    "condition": "new",
+    "url": "https://example.com/products/87",
+    "image": "https://i.ibb.co/gZndfrrd/imgi-194-SS25-19176-Multi-G-M-1-F3-617e04f0-0e66-4951-81ab-cfd9e6a86db6-2160x.jpg",
+    "images": [
+      "https://i.ibb.co/gZndfrrd/imgi-194-SS25-19176-Multi-G-M-1-F3-617e04f0-0e66-4951-81ab-cfd9e6a86db6-2160x.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "88",
+    "sku": "SKU00088",
+    "gtin": "GTIN0000088",
+    "title": "Party Dress 88",
+    "description": "Elegant little party dress with lace and floral applique.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "elegant",
+      "lace",
+      "applique"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 52.99,
+    "currency": "USD",
+    "list_price": 69.99,
+    "sale_price": 52.99,
+    "availability": "in_stock",
+    "stock_quantity": 14,
+    "condition": "new",
+    "url": "https://example.com/products/88",
+    "image": "https://i.ibb.co/SwjDZK3v/imgi-197-il-fullxfull-6131134996-ehfq.jpg",
+    "images": [
+      "https://i.ibb.co/SwjDZK3v/imgi-197-il-fullxfull-6131134996-ehfq.jpg"
+    ],
+    "color": "Champagne",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "89",
+    "sku": "SKU00089",
+    "gtin": "GTIN0000089",
+    "title": "Classic White Dress 89",
+    "description": "Classic white dress for girls with bow tie and puff sleeves, ideal for formal events.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Formal",
+    "tags": [
+      "classic",
+      "white",
+      "formal"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 39.99,
+    "currency": "USD",
+    "list_price": 49.99,
+    "sale_price": 39.99,
+    "availability": "in_stock",
+    "stock_quantity": 22,
+    "condition": "new",
+    "url": "https://example.com/products/89",
+    "image": "https://i.ibb.co/5Xj3NGSC/imgi-199-il-fullxfull-5354722841-b569.jpg",
+    "images": [
+      "https://i.ibb.co/5Xj3NGSC/imgi-199-il-fullxfull-5354722841-b569.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "90",
+    "sku": "SKU00090",
+    "gtin": "GTIN0000090",
+    "title": "Princess Bow Dress 90",
+    "description": "Princess style dress with bow tie and floral texture for kids.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Princess Wear",
+    "tags": [
+      "princess",
+      "bow",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 57.99,
+    "currency": "USD",
+    "list_price": 69.99,
+    "sale_price": 57.99,
+    "availability": "in_stock",
+    "stock_quantity": 10,
+    "condition": "new",
+    "url": "https://example.com/products/90",
+    "image": "https://i.ibb.co/Kjz3rJB9/imgi-200-Leesechin-Girls-Dresses-Clearance-Kids-Dress-Sleeveless-Princess-Dress-Bow-Tie-Lace-Flowers.jpg",
+    "images": [
+      "https://i.ibb.co/Kjz3rJB9/imgi-200-Leesechin-Girls-Dresses-Clearance-Kids-Dress-Sleeveless-Princess-Dress-Bow-Tie-Lace-Flowers.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "91",
+    "sku": "SKU00091",
+    "gtin": "GTIN0000091",
+    "title": "Tulle Pink Dress 91",
+    "description": "Soft tulle dress in pastel pink with embroidery and bow accents.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "tulle",
+      "pink",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 49.99,
+    "currency": "USD",
+    "list_price": 59.99,
+    "sale_price": 49.99,
+    "availability": "in_stock",
+    "stock_quantity": 17,
+    "condition": "new",
+    "url": "https://example.com/products/91",
+    "image": "https://i.ibb.co/sp8Jm4Jh/imgi-201-tulle-little-girl-dress-AIF0028.jpg",
+    "images": [
+      "https://i.ibb.co/sp8Jm4Jh/imgi-201-tulle-little-girl-dress-AIF0028.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "92",
+    "sku": "SKU00092",
+    "gtin": "GTIN0000092",
+    "title": "Gold Brocade Girl Dress 92",
+    "description": "Luxurious gold brocade dress for girls with royal detailing.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Ethnic Wear",
+    "tags": [
+      "gold",
+      "brocade",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 69.99,
+    "currency": "USD",
+    "list_price": 84.99,
+    "sale_price": 69.99,
+    "availability": "in_stock",
+    "stock_quantity": 11,
+    "condition": "new",
+    "url": "https://example.com/products/92",
+    "image": "https://i.ibb.co/qMFQFXWz/imgi-204-caramelo-kids-girls-gold-brocade-dress-e1691589671593.jpg",
+    "images": [
+      "https://i.ibb.co/qMFQFXWz/imgi-204-caramelo-kids-girls-gold-brocade-dress-e1691589671593.jpg"
+    ],
+    "color": "Gold",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "93",
+    "sku": "SKU00093",
+    "gtin": "GTIN0000093",
+    "title": "UK Flower Girl Dress 93",
+    "description": "Classic UK style flower girl dress with full skirt and bow.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Flower Girl",
+    "tags": [
+      "flower girl",
+      "UK",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 59.99,
+    "currency": "USD",
+    "list_price": 74.99,
+    "sale_price": 59.99,
+    "availability": "in_stock",
+    "stock_quantity": 13,
+    "condition": "new",
+    "url": "https://example.com/products/93",
+    "image": "https://i.ibb.co/BKNbsPNZ/imgi-208-girls-dresses-uk-flower-girl-dresses-uk-kids-clothes-uk-girls-clothes-uk-girls-party-dresse.jpg",
+    "images": [
+      "https://i.ibb.co/BKNbsPNZ/imgi-208-girls-dresses-uk-flower-girl-dresses-uk-kids-clothes-uk-girls-clothes-uk-girls-party-dresse.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "94",
+    "sku": "SKU00094",
+    "gtin": "GTIN0000094",
+    "title": "Spunky Kids Dress 94",
+    "description": "Fun and vibrant dress with playful pattern, ideal for birthdays.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "playful",
+      "party",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 42.99,
+    "currency": "USD",
+    "list_price": 52.99,
+    "sale_price": 42.99,
+    "availability": "in_stock",
+    "stock_quantity": 20,
+    "condition": "new",
+    "url": "https://example.com/products/94",
+    "image": "https://i.ibb.co/7dMRwgTK/imgi-209-Spunkies3933.jpg",
+    "images": [
+      "https://i.ibb.co/7dMRwgTK/imgi-209-Spunkies3933.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "95",
+    "sku": "SKU00095",
+    "gtin": "GTIN0000095",
+    "title": "Elegant Kids Dress 95",
+    "description": "Elegant and stylish dress with full sleeves, perfect for formal settings.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Formal",
+    "tags": [
+      "elegant",
+      "formal",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 58.99,
+    "currency": "USD",
+    "list_price": 72.99,
+    "sale_price": 58.99,
+    "availability": "in_stock",
+    "stock_quantity": 12,
+    "condition": "new",
+    "url": "https://example.com/products/95",
+    "image": "https://i.ibb.co/VW5CQ2JH/imgi-211-il-fullxfull-5527010512-7slv.jpg",
+    "images": [
+      "https://i.ibb.co/VW5CQ2JH/imgi-211-il-fullxfull-5527010512-7slv.jpg"
+    ],
+    "color": "Blue",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "96",
+    "sku": "SKU00096",
+    "gtin": "GTIN0000096",
+    "title": "Lime Green Flower Dress 96",
+    "description": "Lime green flower girl dress with elegant tulle skirt and delicate detailing.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Flower Girl",
+    "tags": [
+      "lime green",
+      "flower girl",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 62.99,
+    "currency": "USD",
+    "list_price": 79.99,
+    "sale_price": 62.99,
+    "availability": "in_stock",
+    "stock_quantity": 9,
+    "condition": "new",
+    "url": "https://example.com/products/96",
+    "image": "https://i.ibb.co/8gb6Ygd1/imgi-214-fabiana-dress-lime-green-745278.jpg",
+    "images": [
+      "https://i.ibb.co/8gb6Ygd1/imgi-214-fabiana-dress-lime-green-745278.jpg"
+    ],
+    "color": "Lime Green",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "97",
+    "sku": "SKU00097",
+    "gtin": "GTIN0000097",
+    "title": "Pastel Blue Dress 97",
+    "description": "Soft pastel blue dress with floral embroidery and mismatch design.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "pastel",
+      "party",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 47.99,
+    "currency": "USD",
+    "list_price": 59.99,
+    "sale_price": 47.99,
+    "availability": "in_stock",
+    "stock_quantity": 19,
+    "condition": "new",
+    "url": "https://example.com/products/97",
+    "image": "https://i.ibb.co/TDQs6xBb/imgi-219-LM-Aug-2335829-84fb25b2-3986-4351-251a9108f077.jpg",
+    "images": [
+      "https://i.ibb.co/TDQs6xBb/imgi-219-LM-Aug-2335829-84fb25b2-3986-4351-251a9108f077.jpg"
+    ],
+    "color": "Pastel Blue",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "98",
+    "sku": "SKU00098",
+    "gtin": "GTIN0000098",
+    "title": "Flower Girl Dress 98",
+    "description": "Charming flower girl dress with floral lace overlay and full skirt.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Flower Girl",
+    "tags": [
+      "flower girl",
+      "lace",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 64.99,
+    "currency": "USD",
+    "list_price": 79.99,
+    "sale_price": 64.99,
+    "availability": "in_stock",
+    "stock_quantity": 11,
+    "condition": "new",
+    "url": "https://example.com/products/98",
+    "image": "https://i.ibb.co/MxTSq81k/imgi-222-Flower-Girl-Dress-CH0106-01.jpg",
+    "images": [
+      "https://i.ibb.co/MxTSq81k/imgi-222-Flower-Girl-Dress-CH0106-01.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "99",
+    "sku": "SKU00099",
+    "gtin": "GTIN0000099",
+    "title": "Classic Girl Dress 99",
+    "description": "Classic design kids dress with elegant silhouette and minimalist details.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Classic",
+    "tags": [
+      "classic",
+      "girls",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 38.99,
+    "currency": "USD",
+    "list_price": 49.99,
+    "sale_price": 38.99,
+    "availability": "in_stock",
+    "stock_quantity": 24,
+    "condition": "new",
+    "url": "https://example.com/products/99",
+    "image": "https://i.ibb.co/mF2Xfk0d/imgi-226-90636.jpg",
+    "images": [
+      "https://i.ibb.co/mF2Xfk0d/imgi-226-90636.jpg"
+    ],
+    "color": "Ivory",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "100",
+    "sku": "SKU00100",
+    "gtin": "GTIN0000100",
+    "title": "Ribbon Bouquet Dress 100",
+    "description": "Charming tulle dress with ribbon bouquet detailing for girls.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "ribbon",
+      "bouquet",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 52.99,
+    "currency": "USD",
+    "list_price": 64.99,
+    "sale_price": 52.99,
+    "availability": "in_stock",
+    "stock_quantity": 15,
+    "condition": "new",
+    "url": "https://example.com/products/100",
+    "image": "https://i.ibb.co/hxrtW5vx/imgi-228-RIBBONBOUQUETKIDSDRESS-KIDSDRESS-PETALPINKPINKMULTI-NEEDLE-THREAD-7.jpg",
+    "images": [
+      "https://i.ibb.co/hxrtW5vx/imgi-228-RIBBONBOUQUETKIDSDRESS-KIDSDRESS-PETALPINKPINKMULTI-NEEDLE-THREAD-7.jpg"
+    ],
+    "color": "Pink Multi",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "101",
+    "sku": "SKU00101",
+    "gtin": "GTIN0000101",
+    "title": "Poster Style Dress 101",
+    "description": "Poster printed kids dress with artistic motif and tulle overlay.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Casual",
+    "tags": [
+      "poster print",
+      "casual",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 44.99,
+    "currency": "USD",
+    "list_price": 54.99,
+    "sale_price": 44.99,
+    "availability": "in_stock",
+    "stock_quantity": 18,
+    "condition": "new",
+    "url": "https://example.com/products/101",
+    "image": "https://i.ibb.co/Dg4WVxPY/imgi-232-23-05-25-hero-girls-mb-poster-data.jpg",
+    "images": [
+      "https://i.ibb.co/Dg4WVxPY/imgi-232-23-05-25-hero-girls-mb-poster-data.jpg"
+    ],
+    "color": "Multi",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "228",
+    "sku": "SKU00228",
+    "gtin": "GTIN0000228",
+    "title": "Green Ethnic Gown for Girls",
+    "description": "Elegant green ethnic gown designed for festive occasions and parties.",
+    "brand": "Lagorii Kids",
+    "category": "Girls > Dresses > Ethnic",
+    "tags": [
+      "green",
+      "ethnic",
+      "gown",
+      "girls",
+      "party"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 34.0,
+    "currency": "USD",
+    "list_price": 42.0,
+    "sale_price": 34.0,
+    "availability": "in_stock",
+    "stock_quantity": 36,
+    "condition": "new",
+    "url": "https://example.com/products/228",
+    "image": "https://i.ibb.co/vvCy1SFj/imgi-172-green-ethnic-gown-for-girls-lagorii-kids-2.jpg",
+    "images": [
+      "https://i.ibb.co/vvCy1SFj/imgi-172-green-ethnic-gown-for-girls-lagorii-kids-2.jpg"
+    ],
+    "color": "Green",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "229",
+    "sku": "SKU00229",
+    "gtin": "GTIN0000229",
+    "title": "Party Wear Dress for Kids",
+    "description": "Charming toddler party frock perfect for birthdays and festive occasions.",
+    "brand": "TZ Kidswear",
+    "category": "Girls > Dresses > Partywear",
+    "tags": [
+      "party",
+      "dress",
+      "kids",
+      "frock",
+      "birthday"
+    ],
+    "gender": "female",
+    "age_group": "toddler",
+    "price": 29.0,
+    "currency": "USD",
+    "list_price": 35.0,
+    "sale_price": 29.0,
+    "availability": "in_stock",
+    "stock_quantity": 41,
+    "condition": "new",
+    "url": "https://example.com/products/229",
+    "image": "https://i.ibb.co/pBFb1KnM/imgi-182-Party-wear-dresses-for-kids-Kids-occasion-dresses-Baby-girl-birthday-frocks-Toddler-party-w.jpg",
+    "images": [
+      "https://i.ibb.co/pBFb1KnM/imgi-182-Party-wear-dresses-for-kids-Kids-occasion-dresses-Baby-girl-birthday-frocks-Toddler-party-w.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "1Y",
+      "2Y",
+      "3Y",
+      "4Y"
+    ],
+    "size_type": "Toddler"
+  },
+  {
+    "id": "230",
+    "sku": "SKU00230",
+    "gtin": "GTIN0000230",
+    "title": "Pastel Peach Tutu Dress",
+    "description": "Delicate pastel peach dress with floral accents and soft tulle skirt.",
+    "brand": "Little Angels",
+    "category": "Girls > Dresses > Tutu",
+    "tags": [
+      "tutu",
+      "pastel",
+      "peach",
+      "floral",
+      "kids"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 32.0,
+    "currency": "USD",
+    "list_price": 38.0,
+    "sale_price": 32.0,
+    "availability": "in_stock",
+    "stock_quantity": 38,
+    "condition": "new",
+    "url": "https://example.com/products/230",
+    "image": "https://i.ibb.co/Z6m8tKLt/imgi-185-1-abb8149c-926f-4c0b-ae8f-279f988e20a2.jpg",
+    "images": [
+      "https://i.ibb.co/Z6m8tKLt/imgi-185-1-abb8149c-926f-4c0b-ae8f-279f988e20a2.jpg"
+    ],
+    "color": "Peach",
+    "size": [
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "231",
+    "sku": "SKU00231",
+    "gtin": "GTIN0000231",
+    "title": "Gold Vintage Girls Party Gown",
+    "description": "Gold embroidered vintage gown perfect for weddings and formal events.",
+    "brand": "TZ Princess",
+    "category": "Girls > Dresses > Gowns",
+    "tags": [
+      "gold",
+      "vintage",
+      "party",
+      "gown",
+      "wedding"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 39.0,
+    "currency": "USD",
+    "list_price": 48.0,
+    "sale_price": 39.0,
+    "availability": "in_stock",
+    "stock_quantity": 29,
+    "condition": "new",
+    "url": "https://example.com/products/231",
+    "image": "https://i.ibb.co/rfwKMTvb/imgi-189-Gold-Vintage-Elegant-Girls-Party-Dresses-Wedding-Birthday-Long-Gown-Embroidery-Kids-Graduca.webp",
+    "images": [
+      "https://i.ibb.co/rfwKMTvb/imgi-189-Gold-Vintage-Elegant-Girls-Party-Dresses-Wedding-Birthday-Long-Gown-Embroidery-Kids-Graduca.webp"
+    ],
+    "color": "Gold",
+    "size": [
+      "4Y",
+      "5Y",
+      "6Y",
+      "7Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "232",
+    "sku": "SKU00232",
+    "gtin": "GTIN0000232",
+    "title": "Classic White Ruffle Dress for Girls",
+    "description": "Beautifully styled white ruffle dress with floral print for casual occasions.",
+    "brand": "Styles I Love",
+    "category": "Girls > Dresses > Casual",
+    "tags": [
+      "white",
+      "ruffle",
+      "dress",
+      "floral",
+      "casual"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 27.0,
+    "currency": "USD",
+    "list_price": 33.0,
+    "sale_price": 27.0,
+    "availability": "in_stock",
+    "stock_quantity": 35,
+    "condition": "new",
+    "url": "https://example.com/products/232",
+    "image": "https://i.ibb.co/W4N7PxZJ/imgi-190-65d9ee99aef8ff758422a8dd-styles-i-love-little-kid-girls.jpg",
+    "images": [
+      "https://i.ibb.co/W4N7PxZJ/imgi-190-65d9ee99aef8ff758422a8dd-styles-i-love-little-kid-girls.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "233",
+    "sku": "SKU00233",
+    "gtin": "GTIN0000233",
+    "title": "Classic Navy Party Dress for Girls",
+    "description": "Navy blue sleeveless party dress featuring satin finish and layered skirt for elegant occasions.",
+    "brand": "TinyTrendz",
+    "category": "Girls > Dresses > Partywear",
+    "tags": [
+      "navy",
+      "party",
+      "dress",
+      "girls",
+      "satin"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 35.0,
+    "currency": "USD",
+    "list_price": 44.0,
+    "sale_price": 35.0,
+    "availability": "in_stock",
+    "stock_quantity": 40,
+    "condition": "new",
+    "url": "https://example.com/products/233",
+    "image": "https://i.ibb.co/PvcgYf0n/imgi-166-DSC0636.jpg",
+    "images": [
+      "https://i.ibb.co/PvcgYf0n/imgi-166-DSC0636.jpg"
+    ],
+    "color": "Navy Blue",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "234",
+    "sku": "SKU00234",
+    "gtin": "GTIN0000234",
+    "title": "Elegant Red Bow Dress for Girls",
+    "description": "Vibrant red occasion dress for girls, designed with a large front bow and flared skirt.",
+    "brand": "Sweet Petals",
+    "category": "Girls > Dresses > Partywear",
+    "tags": [
+      "red",
+      "bow",
+      "girls",
+      "dress",
+      "occasion"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 31.0,
+    "currency": "USD",
+    "list_price": 39.0,
+    "sale_price": 31.0,
+    "availability": "in_stock",
+    "stock_quantity": 44,
+    "condition": "new",
+    "url": "https://example.com/products/234",
+    "image": "https://i.ibb.co/mVQTJxpZ/imgi-167-1.jpg",
+    "images": [
+      "https://i.ibb.co/mVQTJxpZ/imgi-167-1.jpg"
+    ],
+    "color": "Red",
+    "size": [
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "235",
+    "sku": "SKU00235",
+    "gtin": "GTIN0000235",
+    "title": "Lilac Luxury Flower Girl Dress",
+    "description": "Dreamy lilac flower girl gown in princess style, ideal for weddings or formal ceremonies.",
+    "brand": "Dreamy Vow",
+    "category": "Girls > Dresses > Gowns",
+    "tags": [
+      "lilac",
+      "flower girl",
+      "princess",
+      "gown",
+      "wedding"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 42.0,
+    "currency": "USD",
+    "list_price": 52.0,
+    "sale_price": 42.0,
+    "availability": "in_stock",
+    "stock_quantity": 32,
+    "condition": "new",
+    "url": "https://example.com/products/235",
+    "image": "https://i.ibb.co/tw2rmrDm/imgi-168-Dreamy-Vow-Luxury-Lilac-Flower-Girl-Dress-Arabic-Princess-Kids-Floor-Length-J083.jpg",
+    "images": [
+      "https://i.ibb.co/tw2rmrDm/imgi-168-Dreamy-Vow-Luxury-Lilac-Flower-Girl-Dress-Arabic-Princess-Kids-Floor-Length-J083.jpg"
+    ],
+    "color": "Lilac",
+    "size": [
+      "4Y",
+      "5Y",
+      "6Y",
+      "7Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "236",
+    "sku": "SKU00236",
+    "gtin": "GTIN0000236",
+    "title": "Floral Lace Tutu Dress for Kids",
+    "description": "Graceful blush pink dress with floral lace and full tulle skirt, perfect for birthdays or photo shoots.",
+    "brand": "Fairy Belle",
+    "category": "Girls > Dresses > Tutu",
+    "tags": [
+      "blush",
+      "pink",
+      "lace",
+      "tutu",
+      "kids"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 30.0,
+    "currency": "USD",
+    "list_price": 38.0,
+    "sale_price": 30.0,
+    "availability": "in_stock",
+    "stock_quantity": 37,
+    "condition": "new",
+    "url": "https://example.com/products/236",
+    "image": "https://i.ibb.co/BV3NL427/imgi-170-DSC-8122.jpg",
+    "images": [
+      "https://i.ibb.co/BV3NL427/imgi-170-DSC-8122.jpg"
+    ],
+    "color": "Blush Pink",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "237",
+    "sku": "SKU00237",
+    "gtin": "GTIN0000237",
+    "title": "White Satin Puff Sleeve Dress",
+    "description": "Classic white satin dress with puff sleeves and a soft shine for festive gatherings.",
+    "brand": "Royal Bloom",
+    "category": "Girls > Dresses > Classic",
+    "tags": [
+      "white",
+      "satin",
+      "puff sleeve",
+      "classic",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 33.0,
+    "currency": "USD",
+    "list_price": 40.0,
+    "sale_price": 33.0,
+    "availability": "in_stock",
+    "stock_quantity": 39,
+    "condition": "new",
+    "url": "https://example.com/products/237",
+    "image": "https://i.ibb.co/wfdHWRF/imgi-171-75338-12-B.jpg",
+    "images": [
+      "https://i.ibb.co/wfdHWRF/imgi-171-75338-12-B.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "238",
+    "sku": "SKU00238",
+    "gtin": "GTIN0000238",
+    "title": "Rose Gold Pleated Party Dress",
+    "description": "Chic rose gold pleated dress with ruffle sleeves, perfect for birthdays, weddings, or celebrations.",
+    "brand": "GlamMini",
+    "category": "Girls > Dresses > Partywear",
+    "tags": [
+      "rose gold",
+      "party dress",
+      "ruffle",
+      "girls",
+      "pleated"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 36.0,
+    "currency": "USD",
+    "list_price": 45.0,
+    "sale_price": 36.0,
+    "availability": "in_stock",
+    "stock_quantity": 34,
+    "condition": "new",
+    "url": "https://example.com/products/238",
+    "image": "https://i.ibb.co/NnjQbhsX/imgi-164-DSC8875copy.jpg",
+    "images": [
+      "https://i.ibb.co/NnjQbhsX/imgi-164-DSC8875copy.jpg"
+    ],
+    "color": "Rose Gold",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "239",
+    "sku": "SKU00239",
+    "gtin": "GTIN0000239",
+    "title": "White Bow Lace Dress for Girls",
+    "description": "Elegant white dress with lace detailing and a large bow, designed for little girls\u2019 special occasions.",
+    "brand": "PetalWish",
+    "category": "Girls > Dresses > Formal",
+    "tags": [
+      "white",
+      "lace",
+      "bow",
+      "girls",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 34.0,
+    "currency": "USD",
+    "list_price": 42.0,
+    "sale_price": 34.0,
+    "availability": "in_stock",
+    "stock_quantity": 36,
+    "condition": "new",
+    "url": "https://example.com/products/239",
+    "image": "https://i.ibb.co/6qDCnXb/imgi-165-3158-A.jpg",
+    "images": [
+      "https://i.ibb.co/6qDCnXb/imgi-165-3158-A.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "240",
+    "sku": "SKU00240",
+    "gtin": "GTIN0000240",
+    "title": "Sparkly Tulle Party Dress for Girls",
+    "description": "Glittery purple tulle dress with sequin detailing and flared sleeves, ideal for birthday parties and festive occasions.",
+    "brand": "TwinkleTots",
+    "category": "Girls > Dresses > Partywear",
+    "tags": [
+      "tulle",
+      "purple",
+      "sparkly",
+      "party dress",
+      "girls"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 39.0,
+    "currency": "USD",
+    "list_price": 48.0,
+    "sale_price": 39.0,
+    "availability": "in_stock",
+    "stock_quantity": 33,
+    "condition": "new",
+    "url": "https://example.com/products/240",
+    "image": "https://i.ibb.co/GvN1y1Mv/imgi-159-GL2076-1.jpg",
+    "images": [
+      "https://i.ibb.co/GvN1y1Mv/imgi-159-GL2076-1.jpg"
+    ],
+    "color": "Purple",
+    "size": [
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "241",
+    "sku": "SKU00241",
+    "gtin": "GTIN0000241",
+    "title": "Classic White Sleeveless Dress",
+    "description": "Timeless white sleeveless dress for girls, ideal for both casual and semi-formal wear.",
+    "brand": "PetalWish",
+    "category": "Girls > Dresses > Casual",
+    "tags": [
+      "white",
+      "sleeveless",
+      "classic",
+      "girls",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 29.0,
+    "currency": "USD",
+    "list_price": 38.0,
+    "sale_price": 29.0,
+    "availability": "in_stock",
+    "stock_quantity": 32,
+    "condition": "new",
+    "url": "https://example.com/products/241",
+    "image": "https://i.ibb.co/MD5Ft7jD/imgi-11-default.jpg",
+    "images": [
+      "https://i.ibb.co/MD5Ft7jD/imgi-11-default.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "242",
+    "sku": "SKU00242",
+    "gtin": "GTIN0000242",
+    "title": "Yellow Printed Frock with Cap Sleeves",
+    "description": "Bright yellow printed frock with comfortable cap sleeves, perfect for summer outings.",
+    "brand": "SunKidz",
+    "category": "Girls > Dresses > Summer",
+    "tags": [
+      "yellow",
+      "printed",
+      "frock",
+      "summer",
+      "girls"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 26.0,
+    "currency": "USD",
+    "list_price": 33.0,
+    "sale_price": 26.0,
+    "availability": "in_stock",
+    "stock_quantity": 35,
+    "condition": "new",
+    "url": "https://example.com/products/242",
+    "image": "https://i.ibb.co/mFqrq4Qw/imgi-149-IMG-20230715-091457.jpg",
+    "images": [
+      "https://i.ibb.co/mFqrq4Qw/imgi-149-IMG-20230715-091457.jpg"
+    ],
+    "color": "Yellow",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "243",
+    "sku": "SKU00243",
+    "gtin": "GTIN0000243",
+    "title": "Pink Layered Net Dress",
+    "description": "Elegant pink dress with soft net layers and a satin bow, suitable for birthdays and parties.",
+    "brand": "PrettyLittleOne",
+    "category": "Girls > Dresses > Partywear",
+    "tags": [
+      "pink",
+      "net",
+      "layered",
+      "party",
+      "girls"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 35.0,
+    "currency": "USD",
+    "list_price": 44.0,
+    "sale_price": 35.0,
+    "availability": "in_stock",
+    "stock_quantity": 30,
+    "condition": "new",
+    "url": "https://example.com/products/243",
+    "image": "https://i.ibb.co/wZhnrfyq/imgi-150-img-5557.jpg",
+    "images": [
+      "https://i.ibb.co/wZhnrfyq/imgi-150-img-5557.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "244",
+    "sku": "SKU00244",
+    "gtin": "GTIN0000244",
+    "title": "Floral Fantasy Dress for Girls",
+    "description": "Whimsical floral dress with puffed sleeves and colorful prints, great for casual or playtime.",
+    "brand": "BloomBelle",
+    "category": "Girls > Dresses > Casual",
+    "tags": [
+      "floral",
+      "colorful",
+      "playwear",
+      "casual",
+      "girls"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 27.0,
+    "currency": "USD",
+    "list_price": 36.0,
+    "sale_price": 27.0,
+    "availability": "in_stock",
+    "stock_quantity": 38,
+    "condition": "new",
+    "url": "https://example.com/products/244",
+    "image": "https://i.ibb.co/gFbH3pxb/imgi-153-kleitas-meitenem-petite-kingdom.jpg",
+    "images": [
+      "https://i.ibb.co/gFbH3pxb/imgi-153-kleitas-meitenem-petite-kingdom.jpg"
+    ],
+    "color": "Multi",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "245",
+    "sku": "SKU00245",
+    "gtin": "GTIN0000245",
+    "title": "Purple Puff Sleeve Dress with Bow",
+    "description": "Charming purple dress with puff sleeves and front bow detail, suitable for birthdays or festive events.",
+    "brand": "RoyalTots",
+    "category": "Girls > Dresses > Partywear",
+    "tags": [
+      "purple",
+      "puff sleeves",
+      "bow",
+      "girls",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 33.0,
+    "currency": "USD",
+    "list_price": 41.0,
+    "sale_price": 33.0,
+    "availability": "in_stock",
+    "stock_quantity": 34,
+    "condition": "new",
+    "url": "https://example.com/products/245",
+    "image": "https://i.ibb.co/rKrDjqdc/imgi-157-1-4c57c998-1a9a-42ea-a937-31a2d9777988.jpg",
+    "images": [
+      "https://i.ibb.co/rKrDjqdc/imgi-157-1-4c57c998-1a9a-42ea-a937-31a2d9777988.jpg"
+    ],
+    "color": "Purple",
+    "size": [
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "246",
+    "sku": "SKU00246",
+    "gtin": "GTIN0000246",
+    "title": "Ruffled Pink Party Dress for Girls",
+    "description": "Cute pink party dress featuring delicate ruffles and layered net design, ideal for birthdays and festive gatherings.",
+    "brand": "TwinkleTots",
+    "category": "Girls > Dresses > Partywear",
+    "tags": [
+      "pink",
+      "ruffled",
+      "party dress",
+      "layered",
+      "girls"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 34.0,
+    "currency": "USD",
+    "list_price": 42.0,
+    "sale_price": 34.0,
+    "availability": "in_stock",
+    "stock_quantity": 35,
+    "condition": "new",
+    "url": "https://example.com/products/246",
+    "image": "https://i.ibb.co/60fMq1D6/imgi-188-6a6f742678f08e2bbcdcdb2d472f7bde.jpg",
+    "images": [
+      "https://i.ibb.co/60fMq1D6/imgi-188-6a6f742678f08e2bbcdcdb2d472f7bde.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "247",
+    "sku": "SKU00247",
+    "gtin": "GTIN0000247",
+    "title": "Golden Floral Dress for Girls",
+    "description": "Gorgeous golden dress adorned with floral embroidery, perfect for weddings, celebrations, and Eid.",
+    "brand": "RoyalTots",
+    "category": "Girls > Dresses > Formal",
+    "tags": [
+      "golden",
+      "floral",
+      "embroidered",
+      "girls",
+      "formal dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 37.0,
+    "currency": "USD",
+    "list_price": 46.0,
+    "sale_price": 37.0,
+    "availability": "in_stock",
+    "stock_quantity": 30,
+    "condition": "new",
+    "url": "https://example.com/products/247",
+    "image": "https://i.ibb.co/tppyHLtN/imgi-191-ec963d5f8392cc2684ee3f31d5e005c7.jpg",
+    "images": [
+      "https://i.ibb.co/tppyHLtN/imgi-191-ec963d5f8392cc2684ee3f31d5e005c7.jpg"
+    ],
+    "color": "Gold",
+    "size": [
+      "4Y",
+      "5Y",
+      "6Y",
+      "7Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "248",
+    "sku": "SKU00248",
+    "gtin": "GTIN0000248",
+    "title": "White Floral Tiered Maxi Dress",
+    "description": "Elegant white floral maxi dress with tiered ruffles and soft fabric, ideal for summer parties and formal events.",
+    "brand": "BloomBelle",
+    "category": "Girls > Dresses > Maxi",
+    "tags": [
+      "white",
+      "floral",
+      "tiered",
+      "maxi dress",
+      "girls"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 41.0,
+    "currency": "USD",
+    "list_price": 50.0,
+    "sale_price": 41.0,
+    "availability": "in_stock",
+    "stock_quantity": 31,
+    "condition": "new",
+    "url": "https://example.com/products/248",
+    "image": "https://i.ibb.co/QVmx5Xg/imgi-195-AEB5-D554-5856-4-C20-B4-B1-074-CA71-FB318-scaled.jpg",
+    "images": [
+      "https://i.ibb.co/QVmx5Xg/imgi-195-AEB5-D554-5856-4-C20-B4-B1-074-CA71-FB318-scaled.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "5Y",
+      "6Y",
+      "7Y",
+      "8Y"
+    ],
+    "size_type": "Kids"
+  }
+]

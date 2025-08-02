@@ -1,0 +1,5665 @@
+[
+  {
+    "id": "1",
+    "sku": "SKU00001",
+    "gtin": "0879394935001",
+    "title": "Fashion Item 1",
+    "description": "Trendy fashion item number 1, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 25.99,
+    "currency": "USD",
+    "list_price": 40.99,
+    "sale_price": 25.99,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-1",
+    "image": "https://i.ibb.co/BX3p0nm/imgi-92-Wholesale-Stock-Europe-and-America-Fashion-Plain-Colored-Women-s-Clothing-Summer-New-Pleated.webp",
+    "images": [
+      "https://i.ibb.co/BX3p0nm/imgi-92-Wholesale-Stock-Europe-and-America-Fashion-Plain-Colored-Women-s-Clothing-Summer-New-Pleated.webp"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "2",
+    "sku": "SKU00002",
+    "gtin": "0879394935002",
+    "title": "Fashion Item 2",
+    "description": "Trendy fashion item number 2, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 26.99,
+    "currency": "USD",
+    "list_price": 41.99,
+    "sale_price": 26.99,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-2",
+    "image": "https://i.ibb.co/C3rTMrjt/imgi-174-Customized-Summer-High-Quality-100-Cotton-Tie-Dye-Sexy-Short-Skirt-Set-Style-Short-Sleeve-D.webp",
+    "images": [
+      "https://i.ibb.co/C3rTMrjt/imgi-174-Customized-Summer-High-Quality-100-Cotton-Tie-Dye-Sexy-Short-Skirt-Set-Style-Short-Sleeve-D.webp"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "3",
+    "sku": "SKU00003",
+    "gtin": "0879394935003",
+    "title": "Fashion Item 3",
+    "description": "Trendy fashion item number 3, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 27.99,
+    "currency": "USD",
+    "list_price": 42.99,
+    "sale_price": 27.99,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-3",
+    "image": "https://i.ibb.co/fVGd2fFY/imgi-176-Cross-border-Women-s-Hot-Style-Tube-Top-Pleated-Short-Skirt-With-Fish-Bone-INS-Net-Red-Fore.jpg",
+    "images": [
+      "https://i.ibb.co/fVGd2fFY/imgi-176-Cross-border-Women-s-Hot-Style-Tube-Top-Pleated-Short-Skirt-With-Fish-Bone-INS-Net-Red-Fore.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "4",
+    "sku": "SKU00004",
+    "gtin": "0879394935004",
+    "title": "Fashion Item 4",
+    "description": "Trendy fashion item number 4, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 28.99,
+    "currency": "USD",
+    "list_price": 43.99,
+    "sale_price": 28.99,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-4",
+    "image": "https://i.ibb.co/93m75MGZ/imgi-179-e282e92ab4da562d7604450d56abed7f.jpg",
+    "images": [
+      "https://i.ibb.co/93m75MGZ/imgi-179-e282e92ab4da562d7604450d56abed7f.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "5",
+    "sku": "SKU00005",
+    "gtin": "0879394935005",
+    "title": "Fashion Item 5",
+    "description": "Trendy fashion item number 5, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 29.99,
+    "currency": "USD",
+    "list_price": 44.99,
+    "sale_price": 29.99,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-5",
+    "image": "https://i.ibb.co/8DkW5hdS/imgi-182-Sd9374a96149d479586cc8ce394c479e4-V.jpg",
+    "images": [
+      "https://i.ibb.co/8DkW5hdS/imgi-182-Sd9374a96149d479586cc8ce394c479e4-V.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "6",
+    "sku": "SKU00006",
+    "gtin": "0879394935006",
+    "title": "Fashion Item 6",
+    "description": "Trendy fashion item number 6, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 30.99,
+    "currency": "USD",
+    "list_price": 45.99,
+    "sale_price": 30.99,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-6",
+    "image": "https://i.ibb.co/60fMq1D6/imgi-188-6a6f742678f08e2bbcdcdb2d472f7bde.jpg",
+    "images": [
+      "https://i.ibb.co/60fMq1D6/imgi-188-6a6f742678f08e2bbcdcdb2d472f7bde.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "7",
+    "sku": "SKU00007",
+    "gtin": "0879394935007",
+    "title": "Fashion Item 7",
+    "description": "Trendy fashion item number 7, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 31.99,
+    "currency": "USD",
+    "list_price": 46.99,
+    "sale_price": 31.99,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-7",
+    "image": "https://i.ibb.co/tppyHLtN/imgi-191-ec963d5f8392cc2684ee3f31d5e005c7.jpg",
+    "images": [
+      "https://i.ibb.co/tppyHLtN/imgi-191-ec963d5f8392cc2684ee3f31d5e005c7.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "8",
+    "sku": "SKU00008",
+    "gtin": "0879394935008",
+    "title": "Fashion Item 8",
+    "description": "Trendy fashion item number 8, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 32.989999999999995,
+    "currency": "USD",
+    "list_price": 47.99,
+    "sale_price": 32.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-8",
+    "image": "https://i.ibb.co/QVmx5Xg/imgi-195-AEB5-D554-5856-4-C20-B4-B1-074-CA71-FB318-scaled.jpg",
+    "images": [
+      "https://i.ibb.co/QVmx5Xg/imgi-195-AEB5-D554-5856-4-C20-B4-B1-074-CA71-FB318-scaled.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "9",
+    "sku": "SKU00009",
+    "gtin": "0879394935009",
+    "title": "Fashion Item 9",
+    "description": "Trendy fashion item number 9, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 33.989999999999995,
+    "currency": "USD",
+    "list_price": 48.99,
+    "sale_price": 33.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-9",
+    "image": "https://i.ibb.co/VYf947BS/imgi-199-Manufacturer-Sexy-Short-Skirt-Ladies-Dress-Fashion-White-Elegant-New-Design-Dress-for-Women.webp",
+    "images": [
+      "https://i.ibb.co/VYf947BS/imgi-199-Manufacturer-Sexy-Short-Skirt-Ladies-Dress-Fashion-White-Elegant-New-Design-Dress-for-Women.webp"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "10",
+    "sku": "SKU00010",
+    "gtin": "0879394935010",
+    "title": "Fashion Item 10",
+    "description": "Trendy fashion item number 10, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 34.989999999999995,
+    "currency": "USD",
+    "list_price": 49.99,
+    "sale_price": 34.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-10",
+    "image": "https://i.ibb.co/Q3yD6g9d/imgi-201-product-image-100767868.jpg",
+    "images": [
+      "https://i.ibb.co/Q3yD6g9d/imgi-201-product-image-100767868.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "11",
+    "sku": "SKU00011",
+    "gtin": "0879394935011",
+    "title": "Fashion Item 11",
+    "description": "Trendy fashion item number 11, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 35.989999999999995,
+    "currency": "USD",
+    "list_price": 50.99,
+    "sale_price": 35.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-11",
+    "image": "https://i.ibb.co/rG53f8Pc/imgi-202-51c0-Kj0yr-RL-UY1000.jpg",
+    "images": [
+      "https://i.ibb.co/rG53f8Pc/imgi-202-51c0-Kj0yr-RL-UY1000.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "12",
+    "sku": "SKU00012",
+    "gtin": "0879394935012",
+    "title": "Fashion Item 12",
+    "description": "Trendy fashion item number 12, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 36.989999999999995,
+    "currency": "USD",
+    "list_price": 51.99,
+    "sale_price": 36.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-12",
+    "image": "https://i.ibb.co/6R7RfRCW/imgi-204-a3969665a6bad68b4287945392268d8b-jpg-960x960q80-jpg.webp",
+    "images": [
+      "https://i.ibb.co/6R7RfRCW/imgi-204-a3969665a6bad68b4287945392268d8b-jpg-960x960q80-jpg.webp"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "13",
+    "sku": "SKU00013",
+    "gtin": "0879394935013",
+    "title": "Fashion Item 13",
+    "description": "Trendy fashion item number 13, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 37.989999999999995,
+    "currency": "USD",
+    "list_price": 52.99,
+    "sale_price": 37.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-13",
+    "image": "https://i.ibb.co/Kxwhny4H/imgi-207-main-0.jpg",
+    "images": [
+      "https://i.ibb.co/Kxwhny4H/imgi-207-main-0.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "14",
+    "sku": "SKU00014",
+    "gtin": "0879394935014",
+    "title": "Fashion Item 14",
+    "description": "Trendy fashion item number 14, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 38.989999999999995,
+    "currency": "USD",
+    "list_price": 53.99,
+    "sale_price": 38.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-14",
+    "image": "https://i.ibb.co/xSmyt4fp/imgi-212-eb6599f9-magenta-faux-suede-mini-skirt.jpg",
+    "images": [
+      "https://i.ibb.co/xSmyt4fp/imgi-212-eb6599f9-magenta-faux-suede-mini-skirt.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "15",
+    "sku": "SKU00015",
+    "gtin": "0879394935015",
+    "title": "Fashion Item 15",
+    "description": "Trendy fashion item number 15, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 39.989999999999995,
+    "currency": "USD",
+    "list_price": 54.99,
+    "sale_price": 39.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-15",
+    "image": "https://i.ibb.co/nqhZGP87/imgi-214-s-l1200.jpg",
+    "images": [
+      "https://i.ibb.co/nqhZGP87/imgi-214-s-l1200.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "16",
+    "sku": "SKU00016",
+    "gtin": "0879394935016",
+    "title": "Fashion Item 16",
+    "description": "Trendy fashion item number 16, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 40.989999999999995,
+    "currency": "USD",
+    "list_price": 55.99,
+    "sale_price": 40.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-16",
+    "image": "https://i.ibb.co/vvsHkFv2/imgi-217-2-80cfcf54-ab08-4635-9791-51e66d226612-1080x.jpg",
+    "images": [
+      "https://i.ibb.co/vvsHkFv2/imgi-217-2-80cfcf54-ab08-4635-9791-51e66d226612-1080x.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "17",
+    "sku": "SKU00017",
+    "gtin": "0879394935017",
+    "title": "Fashion Item 17",
+    "description": "Trendy fashion item number 17, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 41.989999999999995,
+    "currency": "USD",
+    "list_price": 56.99,
+    "sale_price": 41.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-17",
+    "image": "https://i.ibb.co/yFrXYwd4/imgi-218-5-1a1f2a47-f7d5-4bd1-93df-d96d98c95291.png",
+    "images": [
+      "https://i.ibb.co/yFrXYwd4/imgi-218-5-1a1f2a47-f7d5-4bd1-93df-d96d98c95291.png"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "18",
+    "sku": "SKU00018",
+    "gtin": "0879394935018",
+    "title": "Fashion Item 18",
+    "description": "Trendy fashion item number 18, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 42.989999999999995,
+    "currency": "USD",
+    "list_price": 57.99,
+    "sale_price": 42.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-18",
+    "image": "https://i.ibb.co/DPTL31KK/imgi-220-s-l1200.jpg",
+    "images": [
+      "https://i.ibb.co/DPTL31KK/imgi-220-s-l1200.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "19",
+    "sku": "SKU00019",
+    "gtin": "0879394935019",
+    "title": "Fashion Item 19",
+    "description": "Trendy fashion item number 19, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 43.989999999999995,
+    "currency": "USD",
+    "list_price": 58.99,
+    "sale_price": 43.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-19",
+    "image": "https://i.ibb.co/B2PJp1pp/imgi-222-72f9ffcc36ff173f30489ffc288270b5a446874b-original.jpg",
+    "images": [
+      "https://i.ibb.co/B2PJp1pp/imgi-222-72f9ffcc36ff173f30489ffc288270b5a446874b-original.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "20",
+    "sku": "SKU00020",
+    "gtin": "0879394935020",
+    "title": "Fashion Item 20",
+    "description": "Trendy fashion item number 20, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 44.989999999999995,
+    "currency": "USD",
+    "list_price": 59.99,
+    "sale_price": 44.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-20",
+    "image": "https://i.ibb.co/Y4wtVbPv/imgi-227-6a85b456651651b9f042808c9be3955ed1ba89cc-1024-1024.jpg",
+    "images": [
+      "https://i.ibb.co/Y4wtVbPv/imgi-227-6a85b456651651b9f042808c9be3955ed1ba89cc-1024-1024.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "21",
+    "sku": "SKU00021",
+    "gtin": "0879394935021",
+    "title": "Fashion Item 21",
+    "description": "Trendy fashion item number 21, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 45.989999999999995,
+    "currency": "USD",
+    "list_price": 60.99,
+    "sale_price": 45.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-21",
+    "image": "https://i.ibb.co/RGpSYXtM/imgi-235-61uh-U742-F-L-UY1000.jpg",
+    "images": [
+      "https://i.ibb.co/RGpSYXtM/imgi-235-61uh-U742-F-L-UY1000.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "22",
+    "sku": "SKU00022",
+    "gtin": "0879394935022",
+    "title": "Fashion Item 22",
+    "description": "Trendy fashion item number 22, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 46.989999999999995,
+    "currency": "USD",
+    "list_price": 61.99,
+    "sale_price": 46.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-22",
+    "image": "https://i.ibb.co/8L44c4kN/imgi-236-1673799-large-default.jpg",
+    "images": [
+      "https://i.ibb.co/8L44c4kN/imgi-236-1673799-large-default.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "23",
+    "sku": "SKU00023",
+    "gtin": "0879394935023",
+    "title": "Fashion Item 23",
+    "description": "Trendy fashion item number 23, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 47.989999999999995,
+    "currency": "USD",
+    "list_price": 62.99,
+    "sale_price": 47.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-23",
+    "image": "https://i.ibb.co/4RZgDZS6/imgi-238-Sbbd7f8cfde824526a42001520a260d3b-T.jpg",
+    "images": [
+      "https://i.ibb.co/4RZgDZS6/imgi-238-Sbbd7f8cfde824526a42001520a260d3b-T.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "24",
+    "sku": "SKU00024",
+    "gtin": "0879394935024",
+    "title": "Fashion Item 24",
+    "description": "Trendy fashion item number 24, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 48.989999999999995,
+    "currency": "USD",
+    "list_price": 63.99,
+    "sale_price": 48.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-24",
+    "image": "https://i.ibb.co/KprZVbYF/imgi-244-istock-539473230.jpg",
+    "images": [
+      "https://i.ibb.co/KprZVbYF/imgi-244-istock-539473230.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "25",
+    "sku": "SKU00025",
+    "gtin": "0879394935025",
+    "title": "Fashion Item 25",
+    "description": "Trendy fashion item number 25, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 49.989999999999995,
+    "currency": "USD",
+    "list_price": 64.99000000000001,
+    "sale_price": 49.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-25",
+    "image": "https://i.ibb.co/NdSMnSMm/imgi-246-s-l1200.jpg",
+    "images": [
+      "https://i.ibb.co/NdSMnSMm/imgi-246-s-l1200.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "26",
+    "sku": "SKU00026",
+    "gtin": "0879394935026",
+    "title": "Fashion Item 26",
+    "description": "Trendy fashion item number 26, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 50.989999999999995,
+    "currency": "USD",
+    "list_price": 65.99000000000001,
+    "sale_price": 50.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-26",
+    "image": "https://i.ibb.co/8gkPT72C/imgi-248-6e91bde6d569068f01226f7afa29032a24c4455f-original.jpg",
+    "images": [
+      "https://i.ibb.co/8gkPT72C/imgi-248-6e91bde6d569068f01226f7afa29032a24c4455f-original.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "27",
+    "sku": "SKU00027",
+    "gtin": "0879394935027",
+    "title": "Fashion Item 27",
+    "description": "Trendy fashion item number 27, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 51.989999999999995,
+    "currency": "USD",
+    "list_price": 66.99000000000001,
+    "sale_price": 51.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-27",
+    "image": "https://i.ibb.co/m5HqcFnZ/imgi-249-Mobile-Campaign-OP-1.jpg",
+    "images": [
+      "https://i.ibb.co/m5HqcFnZ/imgi-249-Mobile-Campaign-OP-1.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "28",
+    "sku": "SKU00028",
+    "gtin": "0879394935028",
+    "title": "Fashion Item 28",
+    "description": "Trendy fashion item number 28, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 52.989999999999995,
+    "currency": "USD",
+    "list_price": 67.99000000000001,
+    "sale_price": 52.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-28",
+    "image": "https://i.ibb.co/gZqmWmCw/imgi-255-S352f62a5d00844568babe0544b35fb00z.webp",
+    "images": [
+      "https://i.ibb.co/gZqmWmCw/imgi-255-S352f62a5d00844568babe0544b35fb00z.webp"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "29",
+    "sku": "SKU00029",
+    "gtin": "0879394935029",
+    "title": "Fashion Item 29",
+    "description": "Trendy fashion item number 29, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 53.989999999999995,
+    "currency": "USD",
+    "list_price": 68.99000000000001,
+    "sale_price": 53.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-29",
+    "image": "https://i.ibb.co/qLMHbh0y/imgi-257-full-length-fashion-sexy-model-posing-mini-skirt-full-length-fashion-model-posing-mini-skir.jpg",
+    "images": [
+      "https://i.ibb.co/qLMHbh0y/imgi-257-full-length-fashion-sexy-model-posing-mini-skirt-full-length-fashion-model-posing-mini-skir.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "30",
+    "sku": "SKU00030",
+    "gtin": "0879394935030",
+    "title": "Fashion Item 30",
+    "description": "Trendy fashion item number 30, perfect for summer collections.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "fashion",
+      "summer",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 54.989999999999995,
+    "currency": "USD",
+    "list_price": 69.99000000000001,
+    "sale_price": 54.989999999999995,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/fashion-item-30",
+    "image": "https://i.ibb.co/mCBYMppq/imgi-259-ea328c13-9cde-47c4-8791-5d5f5d431e90-1080x.jpg",
+    "images": [
+      "https://i.ibb.co/mCBYMppq/imgi-259-ea328c13-9cde-47c4-8791-5d5f5d431e90-1080x.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "31",
+    "sku": "SKU00031",
+    "gtin": "0879394935031",
+    "title": "Elegant Girl's Party Dress",
+    "description": "Beautiful party dress for girls, perfect for birthdays and special occasions.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "party",
+      "girls",
+      "dress",
+      "elegant"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 39.99,
+    "currency": "USD",
+    "list_price": 49.99,
+    "sale_price": 39.99,
+    "availability": "in_stock",
+    "stock_quantity": 45,
+    "condition": "new",
+    "url": "https://example.com/products/girls-party-dress-31",
+    "image": "https://i.ibb.co/xTNFycW/imgi-9-default.jpg",
+    "images": [
+      "https://i.ibb.co/xTNFycW/imgi-9-default.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "32",
+    "sku": "SKU00032",
+    "gtin": "0879394935032",
+    "title": "Casual Girls Dress",
+    "description": "Comfortable and cute casual dress for everyday wear for young girls.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "casual",
+      "girls",
+      "dress",
+      "comfortable"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 29.99,
+    "currency": "USD",
+    "list_price": 39.99,
+    "sale_price": 29.99,
+    "availability": "in_stock",
+    "stock_quantity": 60,
+    "condition": "new",
+    "url": "https://example.com/products/casual-girls-dress-32",
+    "image": "https://i.ibb.co/MD5Ft7jD/imgi-11-default.jpg",
+    "images": [
+      "https://i.ibb.co/MD5Ft7jD/imgi-11-default.jpg"
+    ],
+    "color": "Light Blue",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "33",
+    "sku": "SKU00033",
+    "gtin": "0879394935033",
+    "title": "Elegant Girls Gown",
+    "description": "Luxurious floor-length gown for girls, ideal for formal events.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "gown",
+      "formal",
+      "girls",
+      "luxury"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 59.99,
+    "currency": "USD",
+    "list_price": 79.99,
+    "sale_price": 59.99,
+    "availability": "in_stock",
+    "stock_quantity": 40,
+    "condition": "new",
+    "url": "https://example.com/products/elegant-girls-gown-33",
+    "image": "https://i.ibb.co/mFqrq4Qw/imgi-149-IMG-20230715-091457.jpg",
+    "images": [
+      "https://i.ibb.co/mFqrq4Qw/imgi-149-IMG-20230715-091457.jpg"
+    ],
+    "color": "Lavender",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "34",
+    "sku": "SKU00034",
+    "gtin": "0879394935034",
+    "title": "Girls Summer Dress",
+    "description": "Lightweight and colorful summer dress for girls, perfect for warm days.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "summer",
+      "girls",
+      "dress",
+      "lightweight"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 34.99,
+    "currency": "USD",
+    "list_price": 44.99,
+    "sale_price": 34.99,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/girls-summer-dress-34",
+    "image": "https://i.ibb.co/wZhnrfyq/imgi-150-img-5557.jpg",
+    "images": [
+      "https://i.ibb.co/wZhnrfyq/imgi-150-img-5557.jpg"
+    ],
+    "color": "Yellow",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "35",
+    "sku": "SKU00035",
+    "gtin": "0879394935035",
+    "title": "Princess Style Dress",
+    "description": "Beautiful princess style dress for girls, perfect for celebrations.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "princess",
+      "girls",
+      "dress",
+      "celebration"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 44.99,
+    "currency": "USD",
+    "list_price": 59.99,
+    "sale_price": 44.99,
+    "availability": "in_stock",
+    "stock_quantity": 42,
+    "condition": "new",
+    "url": "https://example.com/products/princess-style-dress-35",
+    "image": "https://i.ibb.co/gFbH3pxb/imgi-153-kleitas-meitenem-petite-kingdom.jpg",
+    "images": [
+      "https://i.ibb.co/gFbH3pxb/imgi-153-kleitas-meitenem-petite-kingdom.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "36",
+    "sku": "SKU00036",
+    "gtin": "0879394935036",
+    "title": "Casual Girls Dress",
+    "description": "Stylish and comfortable casual dress for girls, suitable for all-day wear.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "casual",
+      "girls",
+      "dress",
+      "comfortable"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 31.99,
+    "currency": "USD",
+    "list_price": 41.99,
+    "sale_price": 31.99,
+    "availability": "in_stock",
+    "stock_quantity": 48,
+    "condition": "new",
+    "url": "https://example.com/products/casual-girls-dress-36",
+    "image": "https://i.ibb.co/rKrDjqdc/imgi-157-1-4c57c998-1a9a-42ea-a937-31a2d9777988.jpg",
+    "images": [
+      "https://i.ibb.co/rKrDjqdc/imgi-157-1-4c57c998-1a9a-42ea-a937-31a2d9777988.jpg"
+    ],
+    "color": "Light Purple",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "37",
+    "sku": "SKU00037",
+    "gtin": "0879394935037",
+    "title": "Floral Girls Dress",
+    "description": "Charming floral print dress for girls, perfect for spring and summer.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "floral",
+      "girls",
+      "dress",
+      "spring"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 38.5,
+    "currency": "USD",
+    "list_price": 49.0,
+    "sale_price": 38.5,
+    "availability": "in_stock",
+    "stock_quantity": 55,
+    "condition": "new",
+    "url": "https://example.com/products/floral-girls-dress-37",
+    "image": "https://i.ibb.co/GvN1y1Mv/imgi-159-GL2076-1.jpg",
+    "images": [
+      "https://i.ibb.co/GvN1y1Mv/imgi-159-GL2076-1.jpg"
+    ],
+    "color": "White with Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "38",
+    "sku": "SKU00038",
+    "gtin": "0879394935038",
+    "title": "Girls Denim Dress",
+    "description": "Classic denim dress for girls with adjustable straps for a perfect fit.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "denim",
+      "girls",
+      "dress",
+      "classic"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 35.0,
+    "currency": "USD",
+    "list_price": 45.0,
+    "sale_price": 35.0,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/girls-denim-dress-38",
+    "image": "https://i.ibb.co/x7gSJKXc/imgi-163-GL2121.jpg",
+    "images": [
+      "https://i.ibb.co/x7gSJKXc/imgi-163-GL2121.jpg"
+    ],
+    "color": "Denim Blue",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "39",
+    "sku": "SKU00039",
+    "gtin": "0879394935039",
+    "title": "Girls Casual Dress",
+    "description": "Soft and colorful casual dress for girls, ideal for everyday comfort.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "casual",
+      "girls",
+      "dress",
+      "soft"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 29.5,
+    "currency": "USD",
+    "list_price": 39.0,
+    "sale_price": 29.5,
+    "availability": "in_stock",
+    "stock_quantity": 65,
+    "condition": "new",
+    "url": "https://example.com/products/girls-casual-dress-39",
+    "image": "https://i.ibb.co/dcYpxzV3/imgi-165-GL2114.jpg",
+    "images": [
+      "https://i.ibb.co/dcYpxzV3/imgi-165-GL2114.jpg"
+    ],
+    "color": "Red",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "40",
+    "sku": "SKU00040",
+    "gtin": "0879394935040",
+    "title": "Girls Fashion Dress",
+    "description": "Trendy and stylish dress for girls, designed for fashion-conscious kids.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "fashion",
+      "girls",
+      "dress",
+      "stylish"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 42.0,
+    "currency": "USD",
+    "list_price": 55.0,
+    "sale_price": 42.0,
+    "availability": "in_stock",
+    "stock_quantity": 43,
+    "condition": "new",
+    "url": "https://example.com/products/girls-fashion-dress-40",
+    "image": "https://i.ibb.co/F3QtF3cS/imgi-170-GL2130.jpg",
+    "images": [
+      "https://i.ibb.co/F3QtF3cS/imgi-170-GL2130.jpg"
+    ],
+    "color": "Blue",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "41",
+    "sku": "SKU00041",
+    "gtin": "0879394935041",
+    "title": "Girls Summer Dress",
+    "description": "Light and comfortable summer dress for girls, ideal for hot days.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "summer",
+      "girls",
+      "dress",
+      "light"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 32.0,
+    "currency": "USD",
+    "list_price": 42.0,
+    "sale_price": 32.0,
+    "availability": "in_stock",
+    "stock_quantity": 52,
+    "condition": "new",
+    "url": "https://example.com/products/girls-summer-dress-41",
+    "image": "https://i.ibb.co/b7D6rFtS/imgi-173-GL2140.jpg",
+    "images": [
+      "https://i.ibb.co/b7D6rFtS/imgi-173-GL2140.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "42",
+    "sku": "SKU00042",
+    "gtin": "0879394935042",
+    "title": "Girls Elegant Dress",
+    "description": "Stylish and elegant dress for girls, perfect for parties and events.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "elegant",
+      "girls",
+      "dress",
+      "party"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 45.0,
+    "currency": "USD",
+    "list_price": 60.0,
+    "sale_price": 45.0,
+    "availability": "in_stock",
+    "stock_quantity": 38,
+    "condition": "new",
+    "url": "https://example.com/products/girls-elegant-dress-42",
+    "image": "https://i.ibb.co/ctHzXcD/imgi-181-IMG-20230715-091457.jpg",
+    "images": [
+      "https://i.ibb.co/ctHzXcD/imgi-181-IMG-20230715-091457.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "43",
+    "sku": "SKU00043",
+    "gtin": "0879394935043",
+    "title": "Girls Party Dress",
+    "description": "Cute and stylish party dress for girls with beautiful design details.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "party",
+      "girls",
+      "dress",
+      "cute"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 40.0,
+    "currency": "USD",
+    "list_price": 50.0,
+    "sale_price": 40.0,
+    "availability": "in_stock",
+    "stock_quantity": 44,
+    "condition": "new",
+    "url": "https://example.com/products/girls-party-dress-43",
+    "image": "https://i.ibb.co/F6RPW2Mw/imgi-184-IMG-20230715-091506.jpg",
+    "images": [
+      "https://i.ibb.co/F6RPW2Mw/imgi-184-IMG-20230715-091506.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "44",
+    "sku": "SKU00044",
+    "gtin": "0879394935044",
+    "title": "Girls Dress with Floral Prints",
+    "description": "Comfortable dress for girls featuring lovely floral prints.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "floral",
+      "girls",
+      "dress",
+      "comfortable"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 33.0,
+    "currency": "USD",
+    "list_price": 42.0,
+    "sale_price": 33.0,
+    "availability": "in_stock",
+    "stock_quantity": 48,
+    "condition": "new",
+    "url": "https://example.com/products/girls-floral-dress-44",
+    "image": "https://i.ibb.co/TkrhZ3jp/imgi-186-IMG-20230715-091527.jpg",
+    "images": [
+      "https://i.ibb.co/TkrhZ3jp/imgi-186-IMG-20230715-091527.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "45",
+    "sku": "SKU00045",
+    "gtin": "0879394935045",
+    "title": "Girls Casual Summer Dress",
+    "description": "Light and breezy summer dress for girls, perfect for casual outings.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "summer",
+      "casual",
+      "girls",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 30.0,
+    "currency": "USD",
+    "list_price": 38.0,
+    "sale_price": 30.0,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/girls-casual-summer-dress-45",
+    "image": "https://i.ibb.co/qn3YN3yk/imgi-187-IMG-20230715-091536.jpg",
+    "images": [
+      "https://i.ibb.co/qn3YN3yk/imgi-187-IMG-20230715-091536.jpg"
+    ],
+    "color": "Light Blue",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "46",
+    "sku": "SKU00046",
+    "gtin": "0879394935046",
+    "title": "Girls Casual Dress",
+    "description": "Comfortable casual dress with cute prints, ideal for daily wear.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "casual",
+      "girls",
+      "dress",
+      "cute"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 28.0,
+    "currency": "USD",
+    "list_price": 35.0,
+    "sale_price": 28.0,
+    "availability": "in_stock",
+    "stock_quantity": 53,
+    "condition": "new",
+    "url": "https://example.com/products/girls-casual-dress-46",
+    "image": "https://i.ibb.co/5x2t6T87/imgi-189-IMG-20230715-091545.jpg",
+    "images": [
+      "https://i.ibb.co/5x2t6T87/imgi-189-IMG-20230715-091545.jpg"
+    ],
+    "color": "Yellow",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "47",
+    "sku": "SKU00047",
+    "gtin": "0879394935047",
+    "title": "Girls Fashion Dress",
+    "description": "Trendy and colorful dress for girls, perfect for fashion-forward kids.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "fashion",
+      "girls",
+      "dress",
+      "colorful"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 40.0,
+    "currency": "USD",
+    "list_price": 52.0,
+    "sale_price": 40.0,
+    "availability": "in_stock",
+    "stock_quantity": 44,
+    "condition": "new",
+    "url": "https://example.com/products/girls-fashion-dress-47",
+    "image": "https://i.ibb.co/4ZPgTQVT/imgi-190-IMG-20230715-091552.jpg",
+    "images": [
+      "https://i.ibb.co/4ZPgTQVT/imgi-190-IMG-20230715-091552.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "48",
+    "sku": "SKU00048",
+    "gtin": "0879394935048",
+    "title": "Girls Party Dress",
+    "description": "Lovely party dress with ruffles and floral design for girls.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "party",
+      "girls",
+      "dress",
+      "ruffles"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 43.0,
+    "currency": "USD",
+    "list_price": 56.0,
+    "sale_price": 43.0,
+    "availability": "in_stock",
+    "stock_quantity": 41,
+    "condition": "new",
+    "url": "https://example.com/products/girls-party-dress-48",
+    "image": "https://i.ibb.co/h2ydZ2Rq/imgi-193-IMG-20230715-091601.jpg",
+    "images": [
+      "https://i.ibb.co/h2ydZ2Rq/imgi-193-IMG-20230715-091601.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "49",
+    "sku": "SKU00049",
+    "gtin": "0879394935049",
+    "title": "Girls Floral Dress",
+    "description": "Charming floral dress with soft fabric, perfect for spring events.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "floral",
+      "girls",
+      "dress",
+      "spring"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 37.0,
+    "currency": "USD",
+    "list_price": 47.0,
+    "sale_price": 37.0,
+    "availability": "in_stock",
+    "stock_quantity": 46,
+    "condition": "new",
+    "url": "https://example.com/products/girls-floral-dress-49",
+    "image": "https://i.ibb.co/jRgkps4X/imgi-198-IMG-20230715-091614.jpg",
+    "images": [
+      "https://i.ibb.co/jRgkps4X/imgi-198-IMG-20230715-091614.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "50",
+    "sku": "SKU00050",
+    "gtin": "0879394935050",
+    "title": "Girls Summer Dress",
+    "description": "Bright and cheerful summer dress for girls, ideal for outdoor activities.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "summer",
+      "girls",
+      "dress",
+      "bright"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 34.0,
+    "currency": "USD",
+    "list_price": 44.0,
+    "sale_price": 34.0,
+    "availability": "in_stock",
+    "stock_quantity": 50,
+    "condition": "new",
+    "url": "https://example.com/products/girls-summer-dress-50",
+    "image": "https://i.ibb.co/MsJZFLtN/imgi-199-IMG-20230715-091617.jpg",
+    "images": [
+      "https://i.ibb.co/MsJZFLtN/imgi-199-IMG-20230715-091617.jpg"
+    ],
+    "color": "Orange",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "51",
+    "sku": "SKU00051",
+    "gtin": "0879394935051",
+    "title": "Girls Party Dress",
+    "description": "Elegant and stylish party dress for girls, suitable for any occasion.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "party",
+      "girls",
+      "dress",
+      "elegant"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 44.99,
+    "currency": "USD",
+    "list_price": 59.99,
+    "sale_price": 44.99,
+    "availability": "in_stock",
+    "stock_quantity": 42,
+    "condition": "new",
+    "url": "https://example.com/products/girls-party-dress-51",
+    "image": "https://i.ibb.co/xJ7HpFfc/imgi-200-IMG-20230715-091620.jpg",
+    "images": [
+      "https://i.ibb.co/xJ7HpFfc/imgi-200-IMG-20230715-091620.jpg"
+    ],
+    "color": "Light Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "52",
+    "sku": "SKU00052",
+    "gtin": "0879394935052",
+    "title": "Girls Floral Dress",
+    "description": "Beautiful floral printed dress with soft texture, perfect for spring.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "floral",
+      "girls",
+      "dress",
+      "spring"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 38.0,
+    "currency": "USD",
+    "list_price": 49.0,
+    "sale_price": 38.0,
+    "availability": "in_stock",
+    "stock_quantity": 47,
+    "condition": "new",
+    "url": "https://example.com/products/girls-floral-dress-52",
+    "image": "https://i.ibb.co/BVLP2B5p/imgi-204-IMG-20230715-091628.jpg",
+    "images": [
+      "https://i.ibb.co/BVLP2B5p/imgi-204-IMG-20230715-091628.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "53",
+    "sku": "SKU00053",
+    "gtin": "0879394935053",
+    "title": "Girls Summer Floral Dress",
+    "description": "Lightweight floral summer dress for girls, perfect for sunny days.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "summer",
+      "floral",
+      "girls",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 36.0,
+    "currency": "USD",
+    "list_price": 47.0,
+    "sale_price": 36.0,
+    "availability": "in_stock",
+    "stock_quantity": 45,
+    "condition": "new",
+    "url": "https://example.com/products/girls-summer-floral-dress-53",
+    "image": "https://i.ibb.co/abc123xyz/imgi-205-girls-summer-floral.jpg",
+    "images": [
+      "https://i.ibb.co/abc123xyz/imgi-205-girls-summer-floral.jpg"
+    ],
+    "color": "Light Pink",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "54",
+    "sku": "SKU00054",
+    "gtin": "0879394935054",
+    "title": "Girls Casual Striped Dress",
+    "description": "Comfortable casual dress with colorful stripes, great for everyday wear.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "casual",
+      "striped",
+      "girls",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 31.0,
+    "currency": "USD",
+    "list_price": 40.0,
+    "sale_price": 31.0,
+    "availability": "in_stock",
+    "stock_quantity": 55,
+    "condition": "new",
+    "url": "https://example.com/products/girls-casual-striped-dress-54",
+    "image": "https://i.ibb.co/def456uvw/imgi-206-girls-striped.jpg",
+    "images": [
+      "https://i.ibb.co/def456uvw/imgi-206-girls-striped.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "55",
+    "sku": "SKU00055",
+    "gtin": "0879394935055",
+    "title": "Girls Party Tulle Dress",
+    "description": "Elegant tulle dress for girls with a soft lining, perfect for parties.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "party",
+      "tulle",
+      "girls",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 48.0,
+    "currency": "USD",
+    "list_price": 60.0,
+    "sale_price": 48.0,
+    "availability": "in_stock",
+    "stock_quantity": 37,
+    "condition": "new",
+    "url": "https://example.com/products/girls-party-tulle-dress-55",
+    "image": "https://i.ibb.co/ghi789rst/imgi-207-girls-tulle.jpg",
+    "images": [
+      "https://i.ibb.co/ghi789rst/imgi-207-girls-tulle.jpg"
+    ],
+    "color": "Light Purple",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "56",
+    "sku": "SKU00056",
+    "gtin": "0879394935056",
+    "title": "Plain Colored Women\u2019s Summer Dress",
+    "description": "Lightweight and plain colored summer dress, perfect for warm weather.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "summer",
+      "dress",
+      "plain",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 59.99,
+    "currency": "USD",
+    "list_price": 75.0,
+    "sale_price": 59.99,
+    "availability": "in_stock",
+    "stock_quantity": 30,
+    "condition": "new",
+    "url": "https://example.com/products/plain-colored-women-summer-dress-56",
+    "image": "https://i.ibb.co/BX3p0nm/imgi-92-Wholesale-Stock-Europe-and-America-Fashion-Plain-Colored-Women-s-Clothing-Summer-New-Pleated.webp",
+    "images": [
+      "https://i.ibb.co/BX3p0nm/imgi-92-Wholesale-Stock-Europe-and-America-Fashion-Plain-Colored-Women-s-Clothing-Summer-New-Pleated.webp"
+    ],
+    "color": "Beige",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "59",
+    "sku": "SKU00059",
+    "gtin": "0879394935059",
+    "title": "Women\u2019s Elegant Sleeveless Dress",
+    "description": "Elegant sleeveless dress suitable for summer outings and parties.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "summer",
+      "elegant",
+      "dress",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 64.99,
+    "currency": "USD",
+    "list_price": 80.0,
+    "sale_price": 64.99,
+    "availability": "in_stock",
+    "stock_quantity": 35,
+    "condition": "new",
+    "url": "https://example.com/products/womens-elegant-sleeveless-dress-59",
+    "image": "https://i.ibb.co/93m75MGZ/imgi-179-e282e92ab4da562d7604450d56abed7f.jpg",
+    "images": [
+      "https://i.ibb.co/93m75MGZ/imgi-179-e282e92ab4da562d7604450d56abed7f.jpg"
+    ],
+    "color": "Black",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "60",
+    "sku": "SKU00060",
+    "gtin": "0879394935060",
+    "title": "Women\u2019s Floral Printed Dress",
+    "description": "Floral printed dress made with lightweight fabric, ideal for summer wear.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "floral",
+      "printed",
+      "summer",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 57.99,
+    "currency": "USD",
+    "list_price": 72.0,
+    "sale_price": 57.99,
+    "availability": "in_stock",
+    "stock_quantity": 40,
+    "condition": "new",
+    "url": "https://example.com/products/womens-floral-printed-dress-60",
+    "image": "https://i.ibb.co/8DkW5hdS/imgi-182-Sd9374a96149d479586cc8ce394c479e4-V.jpg",
+    "images": [
+      "https://i.ibb.co/8DkW5hdS/imgi-182-Sd9374a96149d479586cc8ce394c479e4-V.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "61",
+    "sku": "SKU00061",
+    "gtin": "0879394935061",
+    "title": "Summer Casual Women\u2019s Dress",
+    "description": "Casual summer dress for women, breathable and comfortable for everyday wear.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "summer",
+      "casual",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 48.99,
+    "currency": "USD",
+    "list_price": 60.0,
+    "sale_price": 48.99,
+    "availability": "in_stock",
+    "stock_quantity": 55,
+    "condition": "new",
+    "url": "https://example.com/products/summer-casual-womens-dress-61",
+    "image": "https://i.ibb.co/60fMq1D6/imgi-188-6a6f742678f08e2bbcdcdb2d472f7bde.jpg",
+    "images": [
+      "https://i.ibb.co/60fMq1D6/imgi-188-6a6f742678f08e2bbcdcdb2d472f7bde.jpg"
+    ],
+    "color": "Yellow",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "62",
+    "sku": "SKU00062",
+    "gtin": "0879394935062",
+    "title": "Women\u2019s Summer Midi Dress",
+    "description": "Fashionable summer midi dress with lightweight fabric, suitable for casual and formal events.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "summer",
+      "midi",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 69.99,
+    "currency": "USD",
+    "list_price": 85.0,
+    "sale_price": 69.99,
+    "availability": "in_stock",
+    "stock_quantity": 28,
+    "condition": "new",
+    "url": "https://example.com/products/womens-summer-midi-dress-62",
+    "image": "https://i.ibb.co/tppyHLtN/imgi-191-ec963d5f8392cc2684ee3f31d5e005c7.jpg",
+    "images": [
+      "https://i.ibb.co/tppyHLtN/imgi-191-ec963d5f8392cc2684ee3f31d5e005c7.jpg"
+    ],
+    "color": "Green",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "63",
+    "sku": "SKU00063",
+    "gtin": "0879394935063",
+    "title": "Elegant Women\u2019s Evening Dress",
+    "description": "Elegant evening dress designed for special occasions with a modern fit.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "elegant",
+      "evening",
+      "dress",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 89.99,
+    "currency": "USD",
+    "list_price": 110.0,
+    "sale_price": 89.99,
+    "availability": "in_stock",
+    "stock_quantity": 20,
+    "condition": "new",
+    "url": "https://example.com/products/elegant-womens-evening-dress-63",
+    "image": "https://i.ibb.co/QVmx5Xg/imgi-195-AEB5-D554-5856-4-C20-B4-B1-074-CA71-FB318-scaled.jpg",
+    "images": [
+      "https://i.ibb.co/QVmx5Xg/imgi-195-AEB5-D554-5856-4-C20-B4-B1-074-CA71-FB318-scaled.jpg"
+    ],
+    "color": "Purple",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "64",
+    "sku": "SKU00064",
+    "gtin": "0879394935064",
+    "title": "Sexy Short Skirt Ladies Dress",
+    "description": "Manufacturer designed sexy short skirt and ladies dress for elegant occasions.",
+    "brand": "UniversalStyle",
+    "category": "Women > Skirts & Dresses",
+    "tags": [
+      "sexy",
+      "short skirt",
+      "dress",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 54.99,
+    "currency": "USD",
+    "list_price": 68.0,
+    "sale_price": 54.99,
+    "availability": "in_stock",
+    "stock_quantity": 33,
+    "condition": "new",
+    "url": "https://example.com/products/sexy-short-skirt-ladies-dress-64",
+    "image": "https://i.ibb.co/VYf947BS/imgi-199-Manufacturer-Sexy-Short-Skirt-Ladies-Dress-Fashion-White-Elegant-New-Design-Dress-for-Women.webp",
+    "images": [
+      "https://i.ibb.co/VYf947BS/imgi-199-Manufacturer-Sexy-Short-Skirt-Ladies-Dress-Fashion-White-Elegant-New-Design-Dress-for-Women.webp"
+    ],
+    "color": "White",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "65",
+    "sku": "SKU00065",
+    "gtin": "0879394935065",
+    "title": "Women\u2019s Summer Casual Dress",
+    "description": "Casual summer dress for women made with breathable fabric for comfort.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "summer",
+      "casual",
+      "dress",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 44.99,
+    "currency": "USD",
+    "list_price": 58.0,
+    "sale_price": 44.99,
+    "availability": "in_stock",
+    "stock_quantity": 40,
+    "condition": "new",
+    "url": "https://example.com/products/womens-summer-casual-dress-65",
+    "image": "https://i.ibb.co/Q3yD6g9d/imgi-201-product-image-100767868.jpg",
+    "images": [
+      "https://i.ibb.co/Q3yD6g9d/imgi-201-product-image-100767868.jpg"
+    ],
+    "color": "Light Pink",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "67",
+    "sku": "SKU00067",
+    "gtin": "0879394935067",
+    "title": "Stylish Black Women's Dress",
+    "description": "Elegant and stylish black dress for women, suitable for formal occasions.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "stylish",
+      "black",
+      "dress",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 69.99,
+    "currency": "USD",
+    "list_price": 85.0,
+    "sale_price": 69.99,
+    "availability": "in_stock",
+    "stock_quantity": 30,
+    "condition": "new",
+    "url": "https://example.com/products/stylish-black-womens-dress-67",
+    "image": "https://i.ibb.co/MD5Ft7jD/imgi-11-default.jpg",
+    "images": [
+      "https://i.ibb.co/MD5Ft7jD/imgi-11-default.jpg"
+    ],
+    "color": "Black",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "69",
+    "sku": "SKU00069",
+    "gtin": "0879394935069",
+    "title": "Elegant Formal Dress",
+    "description": "Elegant formal dress designed for women, perfect for parties and events.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "formal",
+      "elegant",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 79.99,
+    "currency": "USD",
+    "list_price": 95.0,
+    "sale_price": 79.99,
+    "availability": "in_stock",
+    "stock_quantity": 15,
+    "condition": "new",
+    "url": "https://example.com/products/elegant-formal-dress-69",
+    "image": "https://i.ibb.co/wZhnrfyq/imgi-150-img-5557.jpg",
+    "images": [
+      "https://i.ibb.co/wZhnrfyq/imgi-150-img-5557.jpg"
+    ],
+    "color": "Dark Blue",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "70",
+    "sku": "SKU00070",
+    "gtin": "0879394935070",
+    "title": "Girls' Petite Kingdom Dress",
+    "description": "Cute and comfortable dress for girls from the Petite Kingdom collection.",
+    "brand": "UniversalStyle",
+    "category": "Girls > Dresses",
+    "tags": [
+      "girls",
+      "dress",
+      "petite",
+      "kingdom"
+    ],
+    "gender": "female",
+    "age_group": "child",
+    "price": 35.99,
+    "currency": "USD",
+    "list_price": 45.0,
+    "sale_price": 35.99,
+    "availability": "in_stock",
+    "stock_quantity": 45,
+    "condition": "new",
+    "url": "https://example.com/products/girls-petite-kingdom-dress-70",
+    "image": "https://i.ibb.co/gFbH3pxb/imgi-153-kleitas-meitenem-petite-kingdom.jpg",
+    "images": [
+      "https://i.ibb.co/gFbH3pxb/imgi-153-kleitas-meitenem-petite-kingdom.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "71",
+    "sku": "SKU00071",
+    "gtin": "0879394935071",
+    "title": "Women\u2019s Summer Casual Dress",
+    "description": "Light and airy summer casual dress designed for daily comfort.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "summer",
+      "casual",
+      "dress",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 49.99,
+    "currency": "USD",
+    "list_price": 60.0,
+    "sale_price": 49.99,
+    "availability": "in_stock",
+    "stock_quantity": 38,
+    "condition": "new",
+    "url": "https://example.com/products/womens-summer-casual-dress-71",
+    "image": "https://i.ibb.co/rKrDjqdc/imgi-157-1-4c57c998-1a9a-42ea-a937-31a2d9777988.jpg",
+    "images": [
+      "https://i.ibb.co/rKrDjqdc/imgi-157-1-4c57c998-1a9a-42ea-a937-31a2d9777988.jpg"
+    ],
+    "color": "Light Blue",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "72",
+    "sku": "SKU00072",
+    "gtin": "0879394935072",
+    "title": "Women\u2019s Trendy Casual Dress",
+    "description": "Trendy casual dress for women, ideal for summer and spring seasons.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "trendy",
+      "casual",
+      "dress",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 59.99,
+    "currency": "USD",
+    "list_price": 72.0,
+    "sale_price": 59.99,
+    "availability": "in_stock",
+    "stock_quantity": 30,
+    "condition": "new",
+    "url": "https://example.com/products/womens-trendy-casual-dress-72",
+    "image": "https://i.ibb.co/GvN1y1Mv/imgi-159-GL2076-1.jpg",
+    "images": [
+      "https://i.ibb.co/GvN1y1Mv/imgi-159-GL2076-1.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "73",
+    "sku": "SKU00073",
+    "gtin": "0879394935073",
+    "title": "Women\u2019s Summer Floral Dress",
+    "description": "Bright floral dress perfect for summer outings and casual events.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "summer",
+      "floral",
+      "dress",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 54.99,
+    "currency": "USD",
+    "list_price": 65.0,
+    "sale_price": 54.99,
+    "availability": "in_stock",
+    "stock_quantity": 35,
+    "condition": "new",
+    "url": "https://example.com/products/womens-summer-floral-dress-73",
+    "image": "https://i.ibb.co/NnjQbhsX/imgi-164-DSC8875copy.jpg",
+    "images": [
+      "https://i.ibb.co/NnjQbhsX/imgi-164-DSC8875copy.jpg"
+    ],
+    "color": "Floral Multi",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "74",
+    "sku": "SKU00074",
+    "gtin": "0879394935074",
+    "title": "Casual Sleeveless Dress",
+    "description": "Comfortable casual sleeveless dress for warm weather.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "casual",
+      "sleeveless",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 44.99,
+    "currency": "USD",
+    "list_price": 55.0,
+    "sale_price": 44.99,
+    "availability": "in_stock",
+    "stock_quantity": 42,
+    "condition": "new",
+    "url": "https://example.com/products/casual-sleeveless-dress-74",
+    "image": "https://i.ibb.co/6qDCnXb/imgi-165-3158-A.jpg",
+    "images": [
+      "https://i.ibb.co/6qDCnXb/imgi-165-3158-A.jpg"
+    ],
+    "color": "Light Green",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "75",
+    "sku": "SKU00075",
+    "gtin": "0879394935075",
+    "title": "Women\u2019s Casual Summer Dress",
+    "description": "Simple and comfortable casual summer dress for everyday wear.",
+    "brand": "UniversalStyle",
+    "category": "Women > Dresses",
+    "tags": [
+      "casual",
+      "summer",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 39.99,
+    "currency": "USD",
+    "list_price": 50.0,
+    "sale_price": 39.99,
+    "availability": "in_stock",
+    "stock_quantity": 60,
+    "condition": "new",
+    "url": "https://example.com/products/womens-casual-summer-dress-75",
+    "image": "https://i.ibb.co/PvcgYf0n/imgi-166-DSC0636.jpg",
+    "images": [
+      "https://i.ibb.co/PvcgYf0n/imgi-166-DSC0636.jpg"
+    ],
+    "color": "Yellow",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "76",
+    "sku": "SKU00076",
+    "gtin": "GTIN0000076",
+    "title": "Elegant White Sleeveless Dress",
+    "description": "Timeless white sleeveless dress with a flared skirt, perfect for casual outings or summer events.",
+    "brand": "LilyBloom",
+    "category": "Girls > Dresses > Casual",
+    "tags": [
+      "white",
+      "sleeveless",
+      "flared",
+      "casual",
+      "girls"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 29.0,
+    "currency": "USD",
+    "list_price": 36.0,
+    "sale_price": 29.0,
+    "availability": "in_stock",
+    "stock_quantity": 40,
+    "condition": "new",
+    "url": "https://example.com/products/76",
+    "image": "https://i.ibb.co/xTNFycW/imgi-9-default.jpg",
+    "images": [
+      "https://i.ibb.co/xTNFycW/imgi-9-default.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "77",
+    "sku": "SKU00077",
+    "gtin": "GTIN0000077",
+    "title": "Girls Party Dress 77",
+    "description": "Elegant girls party dress with embroidery and long tulle skirt.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "girls",
+      "party",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 49.99,
+    "currency": "USD",
+    "list_price": 59.99,
+    "sale_price": 49.99,
+    "availability": "in_stock",
+    "stock_quantity": 20,
+    "condition": "new",
+    "url": "https://example.com/products/77",
+    "image": "https://i.ibb.co/mVQTJxpZ/imgi-167-1.jpg",
+    "images": [
+      "https://i.ibb.co/mVQTJxpZ/imgi-167-1.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "78",
+    "sku": "SKU00078",
+    "gtin": "GTIN0000078",
+    "title": "Flower Girl Lilac Dress 78",
+    "description": "Darling lilac flower girl dress with floor length skirt for special occasions.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Flower Girl",
+    "tags": [
+      "flower girl",
+      "lilac",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 59.99,
+    "currency": "USD",
+    "list_price": 69.99,
+    "sale_price": 59.99,
+    "availability": "in_stock",
+    "stock_quantity": 15,
+    "condition": "new",
+    "url": "https://example.com/products/78",
+    "image": "https://i.ibb.co/tw2rmrDm/imgi-168-Dreamy-Vow-Luxury-Lilac-Flower-Girl-Dress-Arabic-Princess-Kids-Floor-Length-J083.jpg",
+    "images": [
+      "https://i.ibb.co/tw2rmrDm/imgi-168-Dreamy-Vow-Luxury-Lilac-Flower-Girl-Dress-Arabic-Princess-Kids-Floor-Length-J083.jpg"
+    ],
+    "color": "Lilac",
+    "size": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "79",
+    "sku": "SKU00079",
+    "gtin": "GTIN0000079",
+    "title": "Vintage Kids Dress 79",
+    "description": "Vintage inspired kids party dress with soft tones and elegant fit.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Vintage",
+    "tags": [
+      "vintage",
+      "party",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 54.99,
+    "currency": "USD",
+    "list_price": 64.99,
+    "sale_price": 54.99,
+    "availability": "in_stock",
+    "stock_quantity": 18,
+    "condition": "new",
+    "url": "https://example.com/products/79",
+    "image": "https://i.ibb.co/BV3NL427/imgi-170-DSC-8122.jpg",
+    "images": [
+      "https://i.ibb.co/BV3NL427/imgi-170-DSC-8122.jpg"
+    ],
+    "color": "Cream",
+    "size": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "80",
+    "sku": "SKU00080",
+    "gtin": "GTIN0000080",
+    "title": "Gold Party Dress 80",
+    "description": "Luxurious gold kids dress with embroidery and floor length silhouette.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "gold",
+      "party",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 64.99,
+    "currency": "USD",
+    "list_price": 79.99,
+    "sale_price": 64.99,
+    "availability": "in_stock",
+    "stock_quantity": 12,
+    "condition": "new",
+    "url": "https://example.com/products/80",
+    "image": "https://i.ibb.co/wfdHWRF/imgi-171-75338-12-B.jpg",
+    "images": [
+      "https://i.ibb.co/wfdHWRF/imgi-171-75338-12-B.jpg"
+    ],
+    "color": "Gold",
+    "size": [
+      "2",
+      "4",
+      "6"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "81",
+    "sku": "SKU00081",
+    "gtin": "GTIN0000081",
+    "title": "Green Ethnic Gown 81",
+    "description": "Elegant green ethnic gown for girls, perfect for cultural events.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Ethnic Wear",
+    "tags": [
+      "green",
+      "ethnic",
+      "gown"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 49.99,
+    "currency": "USD",
+    "list_price": 59.99,
+    "sale_price": 49.99,
+    "availability": "in_stock",
+    "stock_quantity": 22,
+    "condition": "new",
+    "url": "https://example.com/products/81",
+    "image": "https://i.ibb.co/vvCy1SFj/imgi-172-green-ethnic-gown-for-girls-lagorii-kids-2.jpg",
+    "images": [
+      "https://i.ibb.co/vvCy1SFj/imgi-172-green-ethnic-gown-for-girls-lagorii-kids-2.jpg"
+    ],
+    "color": "Green",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "82",
+    "sku": "SKU00082",
+    "gtin": "GTIN0000082",
+    "title": "Kids Party Dress 82",
+    "description": "Charming party frock with floral details and soft pastel colors.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "party",
+      "kids",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 44.99,
+    "currency": "USD",
+    "list_price": 54.99,
+    "sale_price": 44.99,
+    "availability": "in_stock",
+    "stock_quantity": 25,
+    "condition": "new",
+    "url": "https://example.com/products/82",
+    "image": "https://i.ibb.co/pBFb1KnM/imgi-182-Party-wear-dresses-for-kids-Kids-occasion-dresses-Baby-girl-birthday-frocks-Toddler-party-w.jpg",
+    "images": [
+      "https://i.ibb.co/pBFb1KnM/imgi-182-Party-wear-dresses-for-kids-Kids-occasion-dresses-Baby-girl-birthday-frocks-Toddler-party-w.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "83",
+    "sku": "SKU00083",
+    "gtin": "GTIN0000083",
+    "title": "Princess Gown 83",
+    "description": "Princess-style floor-length dress with glitter details for girls.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Princess Wear",
+    "tags": [
+      "princess",
+      "glitter",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 69.99,
+    "currency": "USD",
+    "list_price": 89.99,
+    "sale_price": 69.99,
+    "availability": "in_stock",
+    "stock_quantity": 10,
+    "condition": "new",
+    "url": "https://example.com/products/83",
+    "image": "https://i.ibb.co/Z6m8tKLt/imgi-185-1-abb8149c-926f-4c0b-ae8f-279f988e20a2.jpg",
+    "images": [
+      "https://i.ibb.co/Z6m8tKLt/imgi-185-1-abb8149c-926f-4c0b-ae8f-279f988e20a2.jpg"
+    ],
+    "color": "Purple",
+    "size": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "84",
+    "sku": "SKU00084",
+    "gtin": "GTIN0000084",
+    "title": "Embroidered Gold Gown 84",
+    "description": "Stunning gold vintage dress with embroidery and long lehenga skirt.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "gold",
+      "embroidery",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 74.99,
+    "currency": "USD",
+    "list_price": 89.99,
+    "sale_price": 74.99,
+    "availability": "in_stock",
+    "stock_quantity": 8,
+    "condition": "new",
+    "url": "https://example.com/products/84",
+    "image": "https://i.ibb.co/rfwKMTvb/imgi-189-Gold-Vintage-Elegant-Girls-Party-Dresses-Wedding-Birthday-Long-Gown-Embroidery-Kids-Graduca.webp",
+    "images": [
+      "https://i.ibb.co/rfwKMTvb/imgi-189-Gold-Vintage-Elegant-Girls-Party-Dresses-Wedding-Birthday-Long-Gown-Embroidery-Kids-Graduca.webp"
+    ],
+    "color": "Gold",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "85",
+    "sku": "SKU00085",
+    "gtin": "GTIN0000085",
+    "title": "Stylish Kids Dress 85",
+    "description": "Fashionable kids dress with bold prints and comfortable fit.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Casual Party",
+    "tags": [
+      "stylish",
+      "casual",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 39.99,
+    "currency": "USD",
+    "list_price": 49.99,
+    "sale_price": 39.99,
+    "availability": "in_stock",
+    "stock_quantity": 30,
+    "condition": "new",
+    "url": "https://example.com/products/85",
+    "image": "https://i.ibb.co/W4N7PxZJ/imgi-190-65d9ee99aef8ff758422a8dd-styles-i-love-little-kid-girls.jpg",
+    "images": [
+      "https://i.ibb.co/W4N7PxZJ/imgi-190-65d9ee99aef8ff758422a8dd-styles-i-love-little-kid-girls.jpg"
+    ],
+    "color": "Blue",
+    "size": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "86",
+    "sku": "SKU00086",
+    "gtin": "GTIN0000086",
+    "title": "Occasion Dress 86",
+    "description": "Occasion wear dress with floral embroidery and soft pastel colors.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Occasion Wear",
+    "tags": [
+      "occasion",
+      "floral",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 46.99,
+    "currency": "USD",
+    "list_price": 56.99,
+    "sale_price": 46.99,
+    "availability": "in_stock",
+    "stock_quantity": 18,
+    "condition": "new",
+    "url": "https://example.com/products/86",
+    "image": "https://i.ibb.co/b5CY8b1X/imgi-193-798f3aac0418000283548ae3918533b252b2a637-original.jpg",
+    "images": [
+      "https://i.ibb.co/b5CY8b1X/imgi-193-798f3aac0418000283548ae3918533b252b2a637-original.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "87",
+    "sku": "SKU00087",
+    "gtin": "GTIN0000087",
+    "title": "Multicolor Gown 87",
+    "description": "Floor-length dress with multicolor floral print and layered skirt.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Ethnic Wear",
+    "tags": [
+      "multicolor",
+      "floral",
+      "gown"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 55.99,
+    "currency": "USD",
+    "list_price": 65.99,
+    "sale_price": 55.99,
+    "availability": "in_stock",
+    "stock_quantity": 16,
+    "condition": "new",
+    "url": "https://example.com/products/87",
+    "image": "https://i.ibb.co/gZndfrrd/imgi-194-SS25-19176-Multi-G-M-1-F3-617e04f0-0e66-4951-81ab-cfd9e6a86db6-2160x.jpg",
+    "images": [
+      "https://i.ibb.co/gZndfrrd/imgi-194-SS25-19176-Multi-G-M-1-F3-617e04f0-0e66-4951-81ab-cfd9e6a86db6-2160x.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "88",
+    "sku": "SKU00088",
+    "gtin": "GTIN0000088",
+    "title": "Party Dress 88",
+    "description": "Elegant little party dress with lace and floral applique.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "elegant",
+      "lace",
+      "applique"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 52.99,
+    "currency": "USD",
+    "list_price": 69.99,
+    "sale_price": 52.99,
+    "availability": "in_stock",
+    "stock_quantity": 14,
+    "condition": "new",
+    "url": "https://example.com/products/88",
+    "image": "https://i.ibb.co/SwjDZK3v/imgi-197-il-fullxfull-6131134996-ehfq.jpg",
+    "images": [
+      "https://i.ibb.co/SwjDZK3v/imgi-197-il-fullxfull-6131134996-ehfq.jpg"
+    ],
+    "color": "Champagne",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "89",
+    "sku": "SKU00089",
+    "gtin": "GTIN0000089",
+    "title": "Classic White Dress 89",
+    "description": "Classic white dress for girls with bow tie and puff sleeves, ideal for formal events.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Formal",
+    "tags": [
+      "classic",
+      "white",
+      "formal"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 39.99,
+    "currency": "USD",
+    "list_price": 49.99,
+    "sale_price": 39.99,
+    "availability": "in_stock",
+    "stock_quantity": 22,
+    "condition": "new",
+    "url": "https://example.com/products/89",
+    "image": "https://i.ibb.co/5Xj3NGSC/imgi-199-il-fullxfull-5354722841-b569.jpg",
+    "images": [
+      "https://i.ibb.co/5Xj3NGSC/imgi-199-il-fullxfull-5354722841-b569.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "90",
+    "sku": "SKU00090",
+    "gtin": "GTIN0000090",
+    "title": "Princess Bow Dress 90",
+    "description": "Princess style dress with bow tie and floral texture for kids.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Princess Wear",
+    "tags": [
+      "princess",
+      "bow",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 57.99,
+    "currency": "USD",
+    "list_price": 69.99,
+    "sale_price": 57.99,
+    "availability": "in_stock",
+    "stock_quantity": 10,
+    "condition": "new",
+    "url": "https://example.com/products/90",
+    "image": "https://i.ibb.co/Kjz3rJB9/imgi-200-Leesechin-Girls-Dresses-Clearance-Kids-Dress-Sleeveless-Princess-Dress-Bow-Tie-Lace-Flowers.jpg",
+    "images": [
+      "https://i.ibb.co/Kjz3rJB9/imgi-200-Leesechin-Girls-Dresses-Clearance-Kids-Dress-Sleeveless-Princess-Dress-Bow-Tie-Lace-Flowers.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "91",
+    "sku": "SKU00091",
+    "gtin": "GTIN0000091",
+    "title": "Tulle Pink Dress 91",
+    "description": "Soft tulle dress in pastel pink with embroidery and bow accents.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "tulle",
+      "pink",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 49.99,
+    "currency": "USD",
+    "list_price": 59.99,
+    "sale_price": 49.99,
+    "availability": "in_stock",
+    "stock_quantity": 17,
+    "condition": "new",
+    "url": "https://example.com/products/91",
+    "image": "https://i.ibb.co/sp8Jm4Jh/imgi-201-tulle-little-girl-dress-AIF0028.jpg",
+    "images": [
+      "https://i.ibb.co/sp8Jm4Jh/imgi-201-tulle-little-girl-dress-AIF0028.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "92",
+    "sku": "SKU00092",
+    "gtin": "GTIN0000092",
+    "title": "Gold Brocade Girl Dress 92",
+    "description": "Luxurious gold brocade dress for girls with royal detailing.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Ethnic Wear",
+    "tags": [
+      "gold",
+      "brocade",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 69.99,
+    "currency": "USD",
+    "list_price": 84.99,
+    "sale_price": 69.99,
+    "availability": "in_stock",
+    "stock_quantity": 11,
+    "condition": "new",
+    "url": "https://example.com/products/92",
+    "image": "https://i.ibb.co/qMFQFXWz/imgi-204-caramelo-kids-girls-gold-brocade-dress-e1691589671593.jpg",
+    "images": [
+      "https://i.ibb.co/qMFQFXWz/imgi-204-caramelo-kids-girls-gold-brocade-dress-e1691589671593.jpg"
+    ],
+    "color": "Gold",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "93",
+    "sku": "SKU00093",
+    "gtin": "GTIN0000093",
+    "title": "UK Flower Girl Dress 93",
+    "description": "Classic UK style flower girl dress with full skirt and bow.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Flower Girl",
+    "tags": [
+      "flower girl",
+      "UK",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 59.99,
+    "currency": "USD",
+    "list_price": 74.99,
+    "sale_price": 59.99,
+    "availability": "in_stock",
+    "stock_quantity": 13,
+    "condition": "new",
+    "url": "https://example.com/products/93",
+    "image": "https://i.ibb.co/BKNbsPNZ/imgi-208-girls-dresses-uk-flower-girl-dresses-uk-kids-clothes-uk-girls-clothes-uk-girls-party-dresse.jpg",
+    "images": [
+      "https://i.ibb.co/BKNbsPNZ/imgi-208-girls-dresses-uk-flower-girl-dresses-uk-kids-clothes-uk-girls-clothes-uk-girls-party-dresse.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "94",
+    "sku": "SKU00094",
+    "gtin": "GTIN0000094",
+    "title": "Spunky Kids Dress 94",
+    "description": "Fun and vibrant dress with playful pattern, ideal for birthdays.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "playful",
+      "party",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 42.99,
+    "currency": "USD",
+    "list_price": 52.99,
+    "sale_price": 42.99,
+    "availability": "in_stock",
+    "stock_quantity": 20,
+    "condition": "new",
+    "url": "https://example.com/products/94",
+    "image": "https://i.ibb.co/7dMRwgTK/imgi-209-Spunkies3933.jpg",
+    "images": [
+      "https://i.ibb.co/7dMRwgTK/imgi-209-Spunkies3933.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "95",
+    "sku": "SKU00095",
+    "gtin": "GTIN0000095",
+    "title": "Elegant Kids Dress 95",
+    "description": "Elegant and stylish dress with full sleeves, perfect for formal settings.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Formal",
+    "tags": [
+      "elegant",
+      "formal",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 58.99,
+    "currency": "USD",
+    "list_price": 72.99,
+    "sale_price": 58.99,
+    "availability": "in_stock",
+    "stock_quantity": 12,
+    "condition": "new",
+    "url": "https://example.com/products/95",
+    "image": "https://i.ibb.co/VW5CQ2JH/imgi-211-il-fullxfull-5527010512-7slv.jpg",
+    "images": [
+      "https://i.ibb.co/VW5CQ2JH/imgi-211-il-fullxfull-5527010512-7slv.jpg"
+    ],
+    "color": "Blue",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "96",
+    "sku": "SKU00096",
+    "gtin": "GTIN0000096",
+    "title": "Lime Green Flower Dress 96",
+    "description": "Lime green flower girl dress with elegant tulle skirt and delicate detailing.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Flower Girl",
+    "tags": [
+      "lime green",
+      "flower girl",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 62.99,
+    "currency": "USD",
+    "list_price": 79.99,
+    "sale_price": 62.99,
+    "availability": "in_stock",
+    "stock_quantity": 9,
+    "condition": "new",
+    "url": "https://example.com/products/96",
+    "image": "https://i.ibb.co/8gb6Ygd1/imgi-214-fabiana-dress-lime-green-745278.jpg",
+    "images": [
+      "https://i.ibb.co/8gb6Ygd1/imgi-214-fabiana-dress-lime-green-745278.jpg"
+    ],
+    "color": "Lime Green",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "97",
+    "sku": "SKU00097",
+    "gtin": "GTIN0000097",
+    "title": "Pastel Blue Dress 97",
+    "description": "Soft pastel blue dress with floral embroidery and mismatch design.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "pastel",
+      "party",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 47.99,
+    "currency": "USD",
+    "list_price": 59.99,
+    "sale_price": 47.99,
+    "availability": "in_stock",
+    "stock_quantity": 19,
+    "condition": "new",
+    "url": "https://example.com/products/97",
+    "image": "https://i.ibb.co/TDQs6xBb/imgi-219-LM-Aug-2335829-84fb25b2-3986-4351-251a9108f077.jpg",
+    "images": [
+      "https://i.ibb.co/TDQs6xBb/imgi-219-LM-Aug-2335829-84fb25b2-3986-4351-251a9108f077.jpg"
+    ],
+    "color": "Pastel Blue",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "98",
+    "sku": "SKU00098",
+    "gtin": "GTIN0000098",
+    "title": "Flower Girl Dress 98",
+    "description": "Charming flower girl dress with floral lace overlay and full skirt.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Flower Girl",
+    "tags": [
+      "flower girl",
+      "lace",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 64.99,
+    "currency": "USD",
+    "list_price": 79.99,
+    "sale_price": 64.99,
+    "availability": "in_stock",
+    "stock_quantity": 11,
+    "condition": "new",
+    "url": "https://example.com/products/98",
+    "image": "https://i.ibb.co/MxTSq81k/imgi-222-Flower-Girl-Dress-CH0106-01.jpg",
+    "images": [
+      "https://i.ibb.co/MxTSq81k/imgi-222-Flower-Girl-Dress-CH0106-01.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "99",
+    "sku": "SKU00099",
+    "gtin": "GTIN0000099",
+    "title": "Classic Girl Dress 99",
+    "description": "Classic design kids dress with elegant silhouette and minimalist details.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Classic",
+    "tags": [
+      "classic",
+      "girls",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 38.99,
+    "currency": "USD",
+    "list_price": 49.99,
+    "sale_price": 38.99,
+    "availability": "in_stock",
+    "stock_quantity": 24,
+    "condition": "new",
+    "url": "https://example.com/products/99",
+    "image": "https://i.ibb.co/mF2Xfk0d/imgi-226-90636.jpg",
+    "images": [
+      "https://i.ibb.co/mF2Xfk0d/imgi-226-90636.jpg"
+    ],
+    "color": "Ivory",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "100",
+    "sku": "SKU00100",
+    "gtin": "GTIN0000100",
+    "title": "Ribbon Bouquet Dress 100",
+    "description": "Charming tulle dress with ribbon bouquet detailing for girls.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Partywear",
+    "tags": [
+      "ribbon",
+      "bouquet",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 52.99,
+    "currency": "USD",
+    "list_price": 64.99,
+    "sale_price": 52.99,
+    "availability": "in_stock",
+    "stock_quantity": 15,
+    "condition": "new",
+    "url": "https://example.com/products/100",
+    "image": "https://i.ibb.co/hxrtW5vx/imgi-228-RIBBONBOUQUETKIDSDRESS-KIDSDRESS-PETALPINKPINKMULTI-NEEDLE-THREAD-7.jpg",
+    "images": [
+      "https://i.ibb.co/hxrtW5vx/imgi-228-RIBBONBOUQUETKIDSDRESS-KIDSDRESS-PETALPINKPINKMULTI-NEEDLE-THREAD-7.jpg"
+    ],
+    "color": "Pink Multi",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "101",
+    "sku": "SKU00101",
+    "gtin": "GTIN0000101",
+    "title": "Poster Style Dress 101",
+    "description": "Poster printed kids dress with artistic motif and tulle overlay.",
+    "brand": "TZ Kids",
+    "category": "Kids > Girls Dresses > Casual",
+    "tags": [
+      "poster print",
+      "casual",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 44.99,
+    "currency": "USD",
+    "list_price": 54.99,
+    "sale_price": 44.99,
+    "availability": "in_stock",
+    "stock_quantity": 18,
+    "condition": "new",
+    "url": "https://example.com/products/101",
+    "image": "https://i.ibb.co/Dg4WVxPY/imgi-232-23-05-25-hero-girls-mb-poster-data.jpg",
+    "images": [
+      "https://i.ibb.co/Dg4WVxPY/imgi-232-23-05-25-hero-girls-mb-poster-data.jpg"
+    ],
+    "color": "Multi",
+    "size": [
+      "4",
+      "6",
+      "8"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "178",
+    "sku": "SKU00178",
+    "gtin": "GTIN0000178",
+    "title": "Pink Satin Mini Dress",
+    "description": "Flattering pink satin mini dress with a stylish neckline and fitted silhouette.",
+    "brand": "LuxeGlam",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "pink",
+      "satin",
+      "mini dress",
+      "evening wear"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 42.0,
+    "currency": "USD",
+    "list_price": 55.0,
+    "sale_price": 42.0,
+    "availability": "in_stock",
+    "stock_quantity": 24,
+    "condition": "new",
+    "url": "https://example.com/products/178",
+    "image": "https://i.ibb.co/RkjWn7nm/imgi-133-tori-pink-2-04796-1687799516-1280-1280.jpg",
+    "images": [
+      "https://i.ibb.co/RkjWn7nm/imgi-133-tori-pink-2-04796-1687799516-1280-1280.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "179",
+    "sku": "SKU00179",
+    "gtin": "GTIN0000179",
+    "title": "Black Sleeveless Party Dress",
+    "description": "Sexy sleeveless black dress perfect for parties and evening occasions.",
+    "brand": "Midnight Curve",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "black",
+      "party",
+      "sleeveless",
+      "evening wear"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 38.0,
+    "currency": "USD",
+    "list_price": 49.0,
+    "sale_price": 38.0,
+    "availability": "in_stock",
+    "stock_quantity": 30,
+    "condition": "new",
+    "url": "https://example.com/products/179",
+    "image": "https://i.ibb.co/wrg1YdJH/imgi-137-51984916-sexy-beautiful-girl-in-black-dress.jpg",
+    "images": [
+      "https://i.ibb.co/wrg1YdJH/imgi-137-51984916-sexy-beautiful-girl-in-black-dress.jpg"
+    ],
+    "color": "Black",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "180",
+    "sku": "SKU00180",
+    "gtin": "GTIN0000180",
+    "title": "Red Strapless Club Dress",
+    "description": "Bold red strapless mini dress with a body-hugging design for party nights.",
+    "brand": "ClubMode",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "red",
+      "strapless",
+      "party",
+      "mini dress"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 45.0,
+    "currency": "USD",
+    "list_price": 60.0,
+    "sale_price": 45.0,
+    "availability": "in_stock",
+    "stock_quantity": 18,
+    "condition": "new",
+    "url": "https://example.com/products/180",
+    "image": "https://i.ibb.co/qYRTvtR2/imgi-150-238676617.jpg",
+    "images": [
+      "https://i.ibb.co/qYRTvtR2/imgi-150-238676617.jpg"
+    ],
+    "color": "Red",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "181",
+    "sku": "SKU00181",
+    "gtin": "GTIN0000181",
+    "title": "Red Mini Dress with Plunging Neckline",
+    "description": "Red hot dress featuring a plunging neckline and sleek design, perfect for evenings.",
+    "brand": "BoldBelle",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "red",
+      "mini",
+      "plunge",
+      "sexy"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 47.0,
+    "currency": "USD",
+    "list_price": 59.0,
+    "sale_price": 47.0,
+    "availability": "in_stock",
+    "stock_quantity": 22,
+    "condition": "new",
+    "url": "https://example.com/products/181",
+    "image": "https://i.ibb.co/gLJP08mZ/imgi-152-HD-wallpaper-red-dress-hot-girl-model-blonde-red-dress-mini-dresses-dresses.jpg",
+    "images": [
+      "https://i.ibb.co/gLJP08mZ/imgi-152-HD-wallpaper-red-dress-hot-girl-model-blonde-red-dress-mini-dresses-dresses.jpg"
+    ],
+    "color": "Red",
+    "size": [
+      "S",
+      "M"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "182",
+    "sku": "SKU00182",
+    "gtin": "GTIN0000182",
+    "title": "Burgundy Sleeveless Dress",
+    "description": "Sleek burgundy dress with a sleeveless cut and curve-hugging fit.",
+    "brand": "Urban Femme",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "burgundy",
+      "sleeveless",
+      "sexy",
+      "slim fit"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 39.0,
+    "currency": "USD",
+    "list_price": 52.0,
+    "sale_price": 39.0,
+    "availability": "in_stock",
+    "stock_quantity": 28,
+    "condition": "new",
+    "url": "https://example.com/products/182",
+    "image": "https://i.ibb.co/n9xTc0J/imgi-153-11328-RD-5-1000x.jpg",
+    "images": [
+      "https://i.ibb.co/n9xTc0J/imgi-153-11328-RD-5-1000x.jpg"
+    ],
+    "color": "Burgundy",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "183",
+    "sku": "SKU00183",
+    "gtin": "GTIN0000183",
+    "title": "French Style Waist Dress",
+    "description": "Elegant Korean-style mini dress with waist definition and soft fabric.",
+    "brand": "SeoulCharm",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "korean",
+      "french",
+      "waist",
+      "elegant"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 44.0,
+    "currency": "USD",
+    "list_price": 58.0,
+    "sale_price": 44.0,
+    "availability": "in_stock",
+    "stock_quantity": 26,
+    "condition": "new",
+    "url": "https://example.com/products/183",
+    "image": "https://i.ibb.co/Kz7KjSt7/imgi-154-66e6f49d4fedb72c723003cf-sexy-korean-dress-french-style-waist.jpg",
+    "images": [
+      "https://i.ibb.co/Kz7KjSt7/imgi-154-66e6f49d4fedb72c723003cf-sexy-korean-dress-french-style-waist.jpg"
+    ],
+    "color": "Cream",
+    "size": [
+      "S",
+      "M"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "184",
+    "sku": "SKU00184",
+    "gtin": "GTIN0000184",
+    "title": "Slim Fit U-Collar Dress",
+    "description": "Sexy U-neck slim-fit dress in a short Korean style, ideal for nights out.",
+    "brand": "SeoulCharm",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "slim fit",
+      "u-collar",
+      "short",
+      "korean"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 40.0,
+    "currency": "USD",
+    "list_price": 53.0,
+    "sale_price": 40.0,
+    "availability": "in_stock",
+    "stock_quantity": 20,
+    "condition": "new",
+    "url": "https://example.com/products/184",
+    "image": "https://i.ibb.co/MdjJNnn/imgi-156-ins-sexy-hot-girl-u-collar-slim-fit-bottoming-dress-short-skirt-korean-version-negative-app.jpg",
+    "images": [
+      "https://i.ibb.co/MdjJNnn/imgi-156-ins-sexy-hot-girl-u-collar-slim-fit-bottoming-dress-short-skirt-korean-version-negative-app.jpg"
+    ],
+    "color": "Black",
+    "size": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "185",
+    "sku": "SKU00185",
+    "gtin": "GTIN0000185",
+    "title": "One Shoulder Green Bodycon Dress",
+    "description": "Trendy green bodycon dress featuring a one-shoulder design for a bold look.",
+    "brand": "Runway Curve",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "green",
+      "one shoulder",
+      "bodycon",
+      "night out"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 46.0,
+    "currency": "USD",
+    "list_price": 60.0,
+    "sale_price": 46.0,
+    "availability": "in_stock",
+    "stock_quantity": 17,
+    "condition": "new",
+    "url": "https://example.com/products/185",
+    "image": "https://i.ibb.co/VYxm2jYd/imgi-163-13366962903858604.jpg",
+    "images": [
+      "https://i.ibb.co/VYxm2jYd/imgi-163-13366962903858604.jpg"
+    ],
+    "color": "Green",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "186",
+    "sku": "SKU00186",
+    "gtin": "GTIN0000186",
+    "title": "Red Draped Bodycon Dress",
+    "description": "Bold red draped dress designed for standout moments on any occasion.",
+    "brand": "RedMuse",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "red",
+      "draped",
+      "bodycon",
+      "evening"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 49.0,
+    "currency": "USD",
+    "list_price": 65.0,
+    "sale_price": 49.0,
+    "availability": "in_stock",
+    "stock_quantity": 21,
+    "condition": "new",
+    "url": "https://example.com/products/186",
+    "image": "https://i.ibb.co/ch3jVhrs/imgi-166-Getty-Images-2155162037.jpg",
+    "images": [
+      "https://i.ibb.co/ch3jVhrs/imgi-166-Getty-Images-2155162037.jpg"
+    ],
+    "color": "Red",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "187",
+    "sku": "SKU00187",
+    "gtin": "GTIN0000187",
+    "title": "Beach Style Floral Dress",
+    "description": "Beautiful floral dress perfect for beach days with soft pastel tones.",
+    "brand": "SunKissed",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "floral",
+      "beach",
+      "sunlight",
+      "summer"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 37.0,
+    "currency": "USD",
+    "list_price": 50.0,
+    "sale_price": 37.0,
+    "availability": "in_stock",
+    "stock_quantity": 25,
+    "condition": "new",
+    "url": "https://example.com/products/187",
+    "image": "https://i.ibb.co/vCPNdRsH/imgi-172-pretty-indian-girl-wearing-dress-beach-sunlight-high-key-image-portrait-beautiful-indian-te.jpg",
+    "images": [
+      "https://i.ibb.co/vCPNdRsH/imgi-172-pretty-indian-girl-wearing-dress-beach-sunlight-high-key-image-portrait-beautiful-indian-te.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "188",
+    "sku": "SKU00188",
+    "gtin": "GTIN0000188",
+    "title": "Pink Short Party Dress",
+    "description": "Sexy pink mini dress with a snug fit, perfect for clubbing or photoshoots.",
+    "brand": "GlowVibe",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "pink",
+      "short",
+      "party",
+      "mini"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 43.0,
+    "currency": "USD",
+    "list_price": 56.0,
+    "sale_price": 43.0,
+    "availability": "in_stock",
+    "stock_quantity": 19,
+    "condition": "new",
+    "url": "https://example.com/products/188",
+    "image": "https://i.ibb.co/60SXMbVV/imgi-173-stock-photo-sexy-women-in-short-dress-on-pink-background-33866347.jpg",
+    "images": [
+      "https://i.ibb.co/60SXMbVV/imgi-173-stock-photo-sexy-women-in-short-dress-on-pink-background-33866347.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "S",
+      "M"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "189",
+    "sku": "SKU00189",
+    "gtin": "GTIN0000189",
+    "title": "White Summer Dress",
+    "description": "Lightweight white summer dress for daytime outings and casual city looks.",
+    "brand": "City Chic",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "white",
+      "summer",
+      "casual",
+      "light"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 36.0,
+    "currency": "USD",
+    "list_price": 48.0,
+    "sale_price": 36.0,
+    "availability": "in_stock",
+    "stock_quantity": 30,
+    "condition": "new",
+    "url": "https://example.com/products/189",
+    "image": "https://i.ibb.co/TBJnc1T3/imgi-177-a-hot-summer-in-the-city-portrait-of-a-girl-in-a-light-white-dress-K0-RCNF.jpg",
+    "images": [
+      "https://i.ibb.co/TBJnc1T3/imgi-177-a-hot-summer-in-the-city-portrait-of-a-girl-in-a-light-white-dress-K0-RCNF.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "190",
+    "sku": "SKU00190",
+    "gtin": "GTIN0000190",
+    "title": "Hot Pink Ruffled Dress",
+    "description": "Eye-catching hot pink dress with layered ruffles for dramatic flair.",
+    "brand": "PopBlush",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "hot pink",
+      "ruffled",
+      "party",
+      "layered"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 48.0,
+    "currency": "USD",
+    "list_price": 63.0,
+    "sale_price": 48.0,
+    "availability": "in_stock",
+    "stock_quantity": 15,
+    "condition": "new",
+    "url": "https://example.com/products/190",
+    "image": "https://i.ibb.co/7dfKRxZQ/imgi-180-K39141-HOTPINK-205-scaled.jpg",
+    "images": [
+      "https://i.ibb.co/7dfKRxZQ/imgi-180-K39141-HOTPINK-205-scaled.jpg"
+    ],
+    "color": "Hot Pink",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "191",
+    "sku": "SKU00191",
+    "gtin": "GTIN0000191",
+    "title": "Red Halter Summer Dress",
+    "description": "Stylish red halter summer dress with cross-straps and breezy cut.",
+    "brand": "SunGlam",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "halter",
+      "summer",
+      "cross-strap",
+      "hot"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 41.0,
+    "currency": "USD",
+    "list_price": 54.0,
+    "sale_price": 41.0,
+    "availability": "in_stock",
+    "stock_quantity": 22,
+    "condition": "new",
+    "url": "https://example.com/products/191",
+    "image": "https://i.ibb.co/fdDwYqZc/imgi-208-Summer-Dresses-Women-2022-Europe-United-States-Hot-Girl-Halter-Cross-Dress-Temperament-Nigh.jpg",
+    "images": [
+      "https://i.ibb.co/fdDwYqZc/imgi-208-Summer-Dresses-Women-2022-Europe-United-States-Hot-Girl-Halter-Cross-Dress-Temperament-Nigh.jpg"
+    ],
+    "color": "Red",
+    "size": [
+      "S",
+      "M"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "192",
+    "sku": "SKU00192",
+    "gtin": "GTIN0000192",
+    "title": "Bold Red Sleeveless Dress",
+    "description": "High-slit sleeveless red dress designed for dramatic nights and red carpets.",
+    "brand": "RedMuse",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "red",
+      "sleeveless",
+      "bold",
+      "glamorous"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 50.0,
+    "currency": "USD",
+    "list_price": 66.0,
+    "sale_price": 50.0,
+    "availability": "in_stock",
+    "stock_quantity": 16,
+    "condition": "new",
+    "url": "https://example.com/products/192",
+    "image": "https://i.ibb.co/GQTsPKwf/imgi-206-HD-wallpaper-asain-girl-in-hot-red-dress-ultra-mobile-hot-red-dress-red-dress-womens-fashio.jpg",
+    "images": [
+      "https://i.ibb.co/GQTsPKwf/imgi-206-HD-wallpaper-asain-girl-in-hot-red-dress-ultra-mobile-hot-red-dress-red-dress-womens-fashio.jpg"
+    ],
+    "color": "Red",
+    "size": [
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "193",
+    "sku": "SKU00193",
+    "gtin": "GTIN0000193",
+    "title": "Hot Pink Backless Mini Dress",
+    "description": "Vibrant hot pink backless dress with a curve-flattering fit.",
+    "brand": "BoldBelle",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "hot pink",
+      "backless",
+      "mini",
+      "night out"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 44.0,
+    "currency": "USD",
+    "list_price": 57.0,
+    "sale_price": 44.0,
+    "availability": "in_stock",
+    "stock_quantity": 23,
+    "condition": "new",
+    "url": "https://example.com/products/193",
+    "image": "https://i.ibb.co/ZzNGpKrs/imgi-214-BA-F-216-HOTPINK-2.jpg",
+    "images": [
+      "https://i.ibb.co/ZzNGpKrs/imgi-214-BA-F-216-HOTPINK-2.jpg"
+    ],
+    "color": "Hot Pink",
+    "size": [
+      "S",
+      "M"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "195",
+    "sku": "SKU00195",
+    "gtin": "GTIN0000195",
+    "title": "Hot Pink Glam Party Dress",
+    "description": "Dazzling hot pink dress for nights out, featuring a fitted silhouette and shine-perfect fabric.",
+    "brand": "GlamRise",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "hot pink",
+      "party",
+      "glam",
+      "evening"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 45.0,
+    "currency": "USD",
+    "list_price": 58.0,
+    "sale_price": 45.0,
+    "availability": "in_stock",
+    "stock_quantity": 25,
+    "condition": "new",
+    "url": "https://example.com/products/195",
+    "image": "https://i.ibb.co/844k7vMv/imgi-192-13366962902650783.jpg",
+    "images": [
+      "https://i.ibb.co/844k7vMv/imgi-192-13366962902650783.jpg"
+    ],
+    "color": "Hot Pink",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "195",
+    "sku": "SKU00195",
+    "gtin": "GTIN0000195",
+    "title": "Hot Pink Glam Party Dress",
+    "description": "Dazzling hot pink dress for nights out, featuring a fitted silhouette and shine-perfect fabric.",
+    "brand": "GlamRise",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "hot pink",
+      "party",
+      "glam",
+      "evening"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 45.0,
+    "currency": "USD",
+    "list_price": 58.0,
+    "sale_price": 45.0,
+    "availability": "in_stock",
+    "stock_quantity": 25,
+    "condition": "new",
+    "url": "https://example.com/products/195",
+    "image": "https://i.ibb.co/844k7vMv/imgi-192-13366962902650783.jpg",
+    "images": [
+      "https://i.ibb.co/844k7vMv/imgi-192-13366962902650783.jpg"
+    ],
+    "color": "Hot Pink",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "196",
+    "sku": "SKU00196",
+    "gtin": "GTIN0000196",
+    "title": "Floral Print Casual Dress",
+    "description": "Chic casual dress with floral print \u2014 perfect for daywear and relaxed outdoor outings.",
+    "brand": "BloomLine",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "floral",
+      "casual",
+      "daywear",
+      "comfortable"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 32.0,
+    "currency": "USD",
+    "list_price": 45.0,
+    "sale_price": 32.0,
+    "availability": "in_stock",
+    "stock_quantity": 27,
+    "condition": "new",
+    "url": "https://example.com/products/196",
+    "image": "https://i.ibb.co/tP1wkr7G/imgi-201-Dakshi-Guttikonda-8.jpg",
+    "images": [
+      "https://i.ibb.co/tP1wkr7G/imgi-201-Dakshi-Guttikonda-8.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "196",
+    "sku": "SKU00196",
+    "gtin": "GTIN0000196",
+    "title": "Floral Print Casual Dress",
+    "description": "Chic casual dress with floral print \u2014 perfect for daywear and relaxed outdoor outings.",
+    "brand": "BloomLine",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "floral",
+      "casual",
+      "daywear",
+      "comfortable"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 32.0,
+    "currency": "USD",
+    "list_price": 45.0,
+    "sale_price": 32.0,
+    "availability": "in_stock",
+    "stock_quantity": 27,
+    "condition": "new",
+    "url": "https://example.com/products/196",
+    "image": "https://i.ibb.co/tP1wkr7G/imgi-201-Dakshi-Guttikonda-8.jpg",
+    "images": [
+      "https://i.ibb.co/tP1wkr7G/imgi-201-Dakshi-Guttikonda-8.jpg"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "197",
+    "sku": "SKU00197",
+    "gtin": "GTIN0000197",
+    "title": "Sleeveless Summer Dress in Red",
+    "description": "Lightweight sleeveless red dress perfect for summer vibes, vacations, and all-day wear.",
+    "brand": "SunChic",
+    "category": "Women > Clothing > Dresses",
+    "tags": [
+      "red",
+      "summer",
+      "sleeveless",
+      "vacation",
+      "casual"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 34.0,
+    "currency": "USD",
+    "list_price": 48.0,
+    "sale_price": 34.0,
+    "availability": "in_stock",
+    "stock_quantity": 29,
+    "condition": "new",
+    "url": "https://example.com/products/197",
+    "image": "https://i.ibb.co/N68M5DQK/imgi-182-hotgirlsummer.jpg",
+    "images": [
+      "https://i.ibb.co/N68M5DQK/imgi-182-hotgirlsummer.jpg"
+    ],
+    "color": "Red",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "205",
+    "sku": "SKU00205",
+    "gtin": "GTIN0000205",
+    "title": "Black Mesh Lace Dress",
+    "description": "Seductive black mesh lace mini dress with slim fit silhouette.",
+    "brand": "TZ Wear",
+    "category": "Women > Dresses > Bodycon",
+    "tags": [
+      "mesh",
+      "lace",
+      "black",
+      "slim fit",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 32.0,
+    "currency": "USD",
+    "list_price": 40.0,
+    "sale_price": 32.0,
+    "availability": "in_stock",
+    "stock_quantity": 35,
+    "condition": "new",
+    "url": "https://example.com/products/205",
+    "image": "https://i.ibb.co/gbZM8CJn/imgi-127-SI-Q-DRS022-black-front.jpg",
+    "images": [
+      "https://i.ibb.co/gbZM8CJn/imgi-127-SI-Q-DRS022-black-front.jpg"
+    ],
+    "color": "Black",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Slim"
+  },
+  {
+    "id": "208",
+    "sku": "SKU00208",
+    "gtin": "GTIN0000208",
+    "title": "Stylish Black Short Dress",
+    "description": "Sexy short black dress for evenings and party wear.",
+    "brand": "TZ Wear",
+    "category": "Women > Dresses > Party",
+    "tags": [
+      "black",
+      "short",
+      "party",
+      "dress",
+      "stylish"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 33.0,
+    "currency": "USD",
+    "list_price": 42.0,
+    "sale_price": 33.0,
+    "availability": "in_stock",
+    "stock_quantity": 44,
+    "condition": "new",
+    "url": "https://example.com/products/208",
+    "image": "https://i.ibb.co/zVXtr4nT/imgi-131-black-3.jpg",
+    "images": [
+      "https://i.ibb.co/zVXtr4nT/imgi-131-black-3.jpg"
+    ],
+    "color": "Black",
+    "size": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "209",
+    "sku": "SKU00209",
+    "gtin": "GTIN0000209",
+    "title": "Elegant Purple Lace Dress",
+    "description": "Elegant purple mini dress with floral lace accents for a luxurious look.",
+    "brand": "TZ Fashion",
+    "category": "Women > Dresses > Mini",
+    "tags": [
+      "purple",
+      "lace",
+      "mini",
+      "elegant",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 35.0,
+    "currency": "USD",
+    "list_price": 45.0,
+    "sale_price": 35.0,
+    "availability": "in_stock",
+    "stock_quantity": 32,
+    "condition": "new",
+    "url": "https://example.com/products/209",
+    "image": "https://i.ibb.co/JRNCxDdb/imgi-135-4913fd7e-a3ce-488d-a840-4487af2020e5-20590523-originnm80prcnt.webp",
+    "images": [
+      "https://i.ibb.co/JRNCxDdb/imgi-135-4913fd7e-a3ce-488d-a840-4487af2020e5-20590523-originnm80prcnt.webp"
+    ],
+    "color": "Purple",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "210",
+    "sku": "SKU00210",
+    "gtin": "GTIN0000210",
+    "title": "Luxury Black Satin Dress",
+    "description": "Luxurious black satin slip dress with deep neckline, perfect for evenings.",
+    "brand": "TZ Luxe",
+    "category": "Women > Dresses > Evening",
+    "tags": [
+      "satin",
+      "black",
+      "luxury",
+      "evening",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 38.0,
+    "currency": "USD",
+    "list_price": 48.0,
+    "sale_price": 38.0,
+    "availability": "in_stock",
+    "stock_quantity": 29,
+    "condition": "new",
+    "url": "https://example.com/products/210",
+    "image": "https://i.ibb.co/kgDXfNPC/imgi-136-s-l1200.png",
+    "images": [
+      "https://i.ibb.co/kgDXfNPC/imgi-136-s-l1200.png"
+    ],
+    "color": "Black",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "212",
+    "sku": "SKU00212",
+    "gtin": "GTIN0000212",
+    "title": "Floral Mesh Summer Dress",
+    "description": "Lightweight floral mesh dress perfect for summer outings or layering.",
+    "brand": "TZ Apparel",
+    "category": "Women > Dresses > Summer",
+    "tags": [
+      "summer",
+      "mesh",
+      "floral",
+      "lightweight"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 28.0,
+    "currency": "USD",
+    "list_price": 35.0,
+    "sale_price": 28.0,
+    "availability": "in_stock",
+    "stock_quantity": 40,
+    "condition": "new",
+    "url": "https://example.com/products/212",
+    "image": "https://i.ibb.co/tpshrVBH/imgi-139-DAMrpq-AS9-RHy-Kc-EZlvvphxp-Msv-LZXOdfv-Mi.jpg",
+    "images": [
+      "https://i.ibb.co/tpshrVBH/imgi-139-DAMrpq-AS9-RHy-Kc-EZlvvphxp-Msv-LZXOdfv-Mi.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "213",
+    "sku": "SKU00213",
+    "gtin": "GTIN0000213",
+    "title": "Elegant Pink Mini Dress",
+    "description": "Chic and flirty pink mini dress ideal for parties or date nights.",
+    "brand": "TZ Style",
+    "category": "Women > Dresses > Party",
+    "tags": [
+      "pink",
+      "mini",
+      "party",
+      "elegant"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 30.0,
+    "currency": "USD",
+    "list_price": 38.0,
+    "sale_price": 30.0,
+    "availability": "in_stock",
+    "stock_quantity": 27,
+    "condition": "new",
+    "url": "https://example.com/products/213",
+    "image": "https://i.ibb.co/ZzNGpKrs/imgi-214-BA-F-216-HOTPINK-2.jpg",
+    "images": [
+      "https://i.ibb.co/ZzNGpKrs/imgi-214-BA-F-216-HOTPINK-2.jpg"
+    ],
+    "color": "Hot Pink",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "214",
+    "sku": "SKU00214",
+    "gtin": "GTIN0000214",
+    "title": "Cross Halter Night Dress",
+    "description": "Bold cross halter dress designed for summer evenings and beach walks.",
+    "brand": "TZ Fashion",
+    "category": "Women > Dresses > Nightwear",
+    "tags": [
+      "halter",
+      "cross",
+      "nightwear",
+      "summer"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 27.0,
+    "currency": "USD",
+    "list_price": 34.0,
+    "sale_price": 27.0,
+    "availability": "in_stock",
+    "stock_quantity": 35,
+    "condition": "new",
+    "url": "https://example.com/products/214",
+    "image": "https://i.ibb.co/fdDwYqZc/imgi-208-Summer-Dresses-Women-2022-Europe-United-States-Hot-Girl-Halter-Cross-Dress-Temperament-Nigh.jpg",
+    "images": [
+      "https://i.ibb.co/fdDwYqZc/imgi-208-Summer-Dresses-Women-2022-Europe-United-States-Hot-Girl-Halter-Cross-Dress-Temperament-Nigh.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "215",
+    "sku": "SKU00215",
+    "gtin": "GTIN0000215",
+    "title": "Hot Red Sleeveless Dress",
+    "description": "Sizzling sleeveless red dress for stunning party appearances.",
+    "brand": "TZ Eveningwear",
+    "category": "Women > Dresses > Evening",
+    "tags": [
+      "red",
+      "sleeveless",
+      "hot",
+      "evening"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 33.0,
+    "currency": "USD",
+    "list_price": 40.0,
+    "sale_price": 33.0,
+    "availability": "in_stock",
+    "stock_quantity": 30,
+    "condition": "new",
+    "url": "https://example.com/products/215",
+    "image": "https://i.ibb.co/GQTsPKwf/imgi-206-HD-wallpaper-asain-girl-in-hot-red-dress-ultra-mobile-hot-red-dress-red-dress-womens-fashio.jpg",
+    "images": [
+      "https://i.ibb.co/GQTsPKwf/imgi-206-HD-wallpaper-asain-girl-in-hot-red-dress-ultra-mobile-hot-red-dress-red-dress-womens-fashio.jpg"
+    ],
+    "color": "Red",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "216",
+    "sku": "SKU00216",
+    "gtin": "GTIN0000216",
+    "title": "Boho Chic White Dress",
+    "description": "Stylish boho white dress for beach getaways and casual days.",
+    "brand": "TZ Boho",
+    "category": "Women > Dresses > Casual",
+    "tags": [
+      "boho",
+      "white",
+      "beach",
+      "casual"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 26.0,
+    "currency": "USD",
+    "list_price": 32.0,
+    "sale_price": 26.0,
+    "availability": "in_stock",
+    "stock_quantity": 44,
+    "condition": "new",
+    "url": "https://example.com/products/216",
+    "image": "https://i.ibb.co/tP1wkr7G/imgi-201-Dakshi-Guttikonda-8.jpg",
+    "images": [
+      "https://i.ibb.co/tP1wkr7G/imgi-201-Dakshi-Guttikonda-8.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "217",
+    "sku": "SKU00217",
+    "gtin": "GTIN0000217",
+    "title": "Hot Pink Summer Dress",
+    "description": "Vibrant and lightweight hot pink summer dress for everyday wear.",
+    "brand": "TZ Casual",
+    "category": "Women > Dresses > Summer",
+    "tags": [
+      "hot pink",
+      "summer",
+      "lightweight",
+      "vibrant"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 29.0,
+    "currency": "USD",
+    "list_price": 36.0,
+    "sale_price": 29.0,
+    "availability": "in_stock",
+    "stock_quantity": 36,
+    "condition": "new",
+    "url": "https://example.com/products/217",
+    "image": "https://i.ibb.co/7dfKRxZQ/imgi-180-K39141-HOTPINK-205-scaled.jpg",
+    "images": [
+      "https://i.ibb.co/7dfKRxZQ/imgi-180-K39141-HOTPINK-205-scaled.jpg"
+    ],
+    "color": "Hot Pink",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "228",
+    "sku": "SKU00228",
+    "gtin": "GTIN0000228",
+    "title": "Green Ethnic Gown for Girls",
+    "description": "Elegant green ethnic gown designed for festive occasions and parties.",
+    "brand": "Lagorii Kids",
+    "category": "Girls > Dresses > Ethnic",
+    "tags": [
+      "green",
+      "ethnic",
+      "gown",
+      "girls",
+      "party"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 34.0,
+    "currency": "USD",
+    "list_price": 42.0,
+    "sale_price": 34.0,
+    "availability": "in_stock",
+    "stock_quantity": 36,
+    "condition": "new",
+    "url": "https://example.com/products/228",
+    "image": "https://i.ibb.co/vvCy1SFj/imgi-172-green-ethnic-gown-for-girls-lagorii-kids-2.jpg",
+    "images": [
+      "https://i.ibb.co/vvCy1SFj/imgi-172-green-ethnic-gown-for-girls-lagorii-kids-2.jpg"
+    ],
+    "color": "Green",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "229",
+    "sku": "SKU00229",
+    "gtin": "GTIN0000229",
+    "title": "Party Wear Dress for Kids",
+    "description": "Charming toddler party frock perfect for birthdays and festive occasions.",
+    "brand": "TZ Kidswear",
+    "category": "Girls > Dresses > Partywear",
+    "tags": [
+      "party",
+      "dress",
+      "kids",
+      "frock",
+      "birthday"
+    ],
+    "gender": "female",
+    "age_group": "toddler",
+    "price": 29.0,
+    "currency": "USD",
+    "list_price": 35.0,
+    "sale_price": 29.0,
+    "availability": "in_stock",
+    "stock_quantity": 41,
+    "condition": "new",
+    "url": "https://example.com/products/229",
+    "image": "https://i.ibb.co/pBFb1KnM/imgi-182-Party-wear-dresses-for-kids-Kids-occasion-dresses-Baby-girl-birthday-frocks-Toddler-party-w.jpg",
+    "images": [
+      "https://i.ibb.co/pBFb1KnM/imgi-182-Party-wear-dresses-for-kids-Kids-occasion-dresses-Baby-girl-birthday-frocks-Toddler-party-w.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "1Y",
+      "2Y",
+      "3Y",
+      "4Y"
+    ],
+    "size_type": "Toddler"
+  },
+  {
+    "id": "230",
+    "sku": "SKU00230",
+    "gtin": "GTIN0000230",
+    "title": "Pastel Peach Tutu Dress",
+    "description": "Delicate pastel peach dress with floral accents and soft tulle skirt.",
+    "brand": "Little Angels",
+    "category": "Girls > Dresses > Tutu",
+    "tags": [
+      "tutu",
+      "pastel",
+      "peach",
+      "floral",
+      "kids"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 32.0,
+    "currency": "USD",
+    "list_price": 38.0,
+    "sale_price": 32.0,
+    "availability": "in_stock",
+    "stock_quantity": 38,
+    "condition": "new",
+    "url": "https://example.com/products/230",
+    "image": "https://i.ibb.co/Z6m8tKLt/imgi-185-1-abb8149c-926f-4c0b-ae8f-279f988e20a2.jpg",
+    "images": [
+      "https://i.ibb.co/Z6m8tKLt/imgi-185-1-abb8149c-926f-4c0b-ae8f-279f988e20a2.jpg"
+    ],
+    "color": "Peach",
+    "size": [
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "231",
+    "sku": "SKU00231",
+    "gtin": "GTIN0000231",
+    "title": "Gold Vintage Girls Party Gown",
+    "description": "Gold embroidered vintage gown perfect for weddings and formal events.",
+    "brand": "TZ Princess",
+    "category": "Girls > Dresses > Gowns",
+    "tags": [
+      "gold",
+      "vintage",
+      "party",
+      "gown",
+      "wedding"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 39.0,
+    "currency": "USD",
+    "list_price": 48.0,
+    "sale_price": 39.0,
+    "availability": "in_stock",
+    "stock_quantity": 29,
+    "condition": "new",
+    "url": "https://example.com/products/231",
+    "image": "https://i.ibb.co/rfwKMTvb/imgi-189-Gold-Vintage-Elegant-Girls-Party-Dresses-Wedding-Birthday-Long-Gown-Embroidery-Kids-Graduca.webp",
+    "images": [
+      "https://i.ibb.co/rfwKMTvb/imgi-189-Gold-Vintage-Elegant-Girls-Party-Dresses-Wedding-Birthday-Long-Gown-Embroidery-Kids-Graduca.webp"
+    ],
+    "color": "Gold",
+    "size": [
+      "4Y",
+      "5Y",
+      "6Y",
+      "7Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "232",
+    "sku": "SKU00232",
+    "gtin": "GTIN0000232",
+    "title": "Classic White Ruffle Dress for Girls",
+    "description": "Beautifully styled white ruffle dress with floral print for casual occasions.",
+    "brand": "Styles I Love",
+    "category": "Girls > Dresses > Casual",
+    "tags": [
+      "white",
+      "ruffle",
+      "dress",
+      "floral",
+      "casual"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 27.0,
+    "currency": "USD",
+    "list_price": 33.0,
+    "sale_price": 27.0,
+    "availability": "in_stock",
+    "stock_quantity": 35,
+    "condition": "new",
+    "url": "https://example.com/products/232",
+    "image": "https://i.ibb.co/W4N7PxZJ/imgi-190-65d9ee99aef8ff758422a8dd-styles-i-love-little-kid-girls.jpg",
+    "images": [
+      "https://i.ibb.co/W4N7PxZJ/imgi-190-65d9ee99aef8ff758422a8dd-styles-i-love-little-kid-girls.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "233",
+    "sku": "SKU00233",
+    "gtin": "GTIN0000233",
+    "title": "Classic Navy Party Dress for Girls",
+    "description": "Navy blue sleeveless party dress featuring satin finish and layered skirt for elegant occasions.",
+    "brand": "TinyTrendz",
+    "category": "Girls > Dresses > Partywear",
+    "tags": [
+      "navy",
+      "party",
+      "dress",
+      "girls",
+      "satin"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 35.0,
+    "currency": "USD",
+    "list_price": 44.0,
+    "sale_price": 35.0,
+    "availability": "in_stock",
+    "stock_quantity": 40,
+    "condition": "new",
+    "url": "https://example.com/products/233",
+    "image": "https://i.ibb.co/PvcgYf0n/imgi-166-DSC0636.jpg",
+    "images": [
+      "https://i.ibb.co/PvcgYf0n/imgi-166-DSC0636.jpg"
+    ],
+    "color": "Navy Blue",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "234",
+    "sku": "SKU00234",
+    "gtin": "GTIN0000234",
+    "title": "Elegant Red Bow Dress for Girls",
+    "description": "Vibrant red occasion dress for girls, designed with a large front bow and flared skirt.",
+    "brand": "Sweet Petals",
+    "category": "Girls > Dresses > Partywear",
+    "tags": [
+      "red",
+      "bow",
+      "girls",
+      "dress",
+      "occasion"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 31.0,
+    "currency": "USD",
+    "list_price": 39.0,
+    "sale_price": 31.0,
+    "availability": "in_stock",
+    "stock_quantity": 44,
+    "condition": "new",
+    "url": "https://example.com/products/234",
+    "image": "https://i.ibb.co/mVQTJxpZ/imgi-167-1.jpg",
+    "images": [
+      "https://i.ibb.co/mVQTJxpZ/imgi-167-1.jpg"
+    ],
+    "color": "Red",
+    "size": [
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "235",
+    "sku": "SKU00235",
+    "gtin": "GTIN0000235",
+    "title": "Lilac Luxury Flower Girl Dress",
+    "description": "Dreamy lilac flower girl gown in princess style, ideal for weddings or formal ceremonies.",
+    "brand": "Dreamy Vow",
+    "category": "Girls > Dresses > Gowns",
+    "tags": [
+      "lilac",
+      "flower girl",
+      "princess",
+      "gown",
+      "wedding"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 42.0,
+    "currency": "USD",
+    "list_price": 52.0,
+    "sale_price": 42.0,
+    "availability": "in_stock",
+    "stock_quantity": 32,
+    "condition": "new",
+    "url": "https://example.com/products/235",
+    "image": "https://i.ibb.co/tw2rmrDm/imgi-168-Dreamy-Vow-Luxury-Lilac-Flower-Girl-Dress-Arabic-Princess-Kids-Floor-Length-J083.jpg",
+    "images": [
+      "https://i.ibb.co/tw2rmrDm/imgi-168-Dreamy-Vow-Luxury-Lilac-Flower-Girl-Dress-Arabic-Princess-Kids-Floor-Length-J083.jpg"
+    ],
+    "color": "Lilac",
+    "size": [
+      "4Y",
+      "5Y",
+      "6Y",
+      "7Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "236",
+    "sku": "SKU00236",
+    "gtin": "GTIN0000236",
+    "title": "Floral Lace Tutu Dress for Kids",
+    "description": "Graceful blush pink dress with floral lace and full tulle skirt, perfect for birthdays or photo shoots.",
+    "brand": "Fairy Belle",
+    "category": "Girls > Dresses > Tutu",
+    "tags": [
+      "blush",
+      "pink",
+      "lace",
+      "tutu",
+      "kids"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 30.0,
+    "currency": "USD",
+    "list_price": 38.0,
+    "sale_price": 30.0,
+    "availability": "in_stock",
+    "stock_quantity": 37,
+    "condition": "new",
+    "url": "https://example.com/products/236",
+    "image": "https://i.ibb.co/BV3NL427/imgi-170-DSC-8122.jpg",
+    "images": [
+      "https://i.ibb.co/BV3NL427/imgi-170-DSC-8122.jpg"
+    ],
+    "color": "Blush Pink",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "237",
+    "sku": "SKU00237",
+    "gtin": "GTIN0000237",
+    "title": "White Satin Puff Sleeve Dress",
+    "description": "Classic white satin dress with puff sleeves and a soft shine for festive gatherings.",
+    "brand": "Royal Bloom",
+    "category": "Girls > Dresses > Classic",
+    "tags": [
+      "white",
+      "satin",
+      "puff sleeve",
+      "classic",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 33.0,
+    "currency": "USD",
+    "list_price": 40.0,
+    "sale_price": 33.0,
+    "availability": "in_stock",
+    "stock_quantity": 39,
+    "condition": "new",
+    "url": "https://example.com/products/237",
+    "image": "https://i.ibb.co/wfdHWRF/imgi-171-75338-12-B.jpg",
+    "images": [
+      "https://i.ibb.co/wfdHWRF/imgi-171-75338-12-B.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "238",
+    "sku": "SKU00238",
+    "gtin": "GTIN0000238",
+    "title": "Rose Gold Pleated Party Dress",
+    "description": "Chic rose gold pleated dress with ruffle sleeves, perfect for birthdays, weddings, or celebrations.",
+    "brand": "GlamMini",
+    "category": "Girls > Dresses > Partywear",
+    "tags": [
+      "rose gold",
+      "party dress",
+      "ruffle",
+      "girls",
+      "pleated"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 36.0,
+    "currency": "USD",
+    "list_price": 45.0,
+    "sale_price": 36.0,
+    "availability": "in_stock",
+    "stock_quantity": 34,
+    "condition": "new",
+    "url": "https://example.com/products/238",
+    "image": "https://i.ibb.co/NnjQbhsX/imgi-164-DSC8875copy.jpg",
+    "images": [
+      "https://i.ibb.co/NnjQbhsX/imgi-164-DSC8875copy.jpg"
+    ],
+    "color": "Rose Gold",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "239",
+    "sku": "SKU00239",
+    "gtin": "GTIN0000239",
+    "title": "White Bow Lace Dress for Girls",
+    "description": "Elegant white dress with lace detailing and a large bow, designed for little girls\u2019 special occasions.",
+    "brand": "PetalWish",
+    "category": "Girls > Dresses > Formal",
+    "tags": [
+      "white",
+      "lace",
+      "bow",
+      "girls",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 34.0,
+    "currency": "USD",
+    "list_price": 42.0,
+    "sale_price": 34.0,
+    "availability": "in_stock",
+    "stock_quantity": 36,
+    "condition": "new",
+    "url": "https://example.com/products/239",
+    "image": "https://i.ibb.co/6qDCnXb/imgi-165-3158-A.jpg",
+    "images": [
+      "https://i.ibb.co/6qDCnXb/imgi-165-3158-A.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "240",
+    "sku": "SKU00240",
+    "gtin": "GTIN0000240",
+    "title": "Sparkly Tulle Party Dress for Girls",
+    "description": "Glittery purple tulle dress with sequin detailing and flared sleeves, ideal for birthday parties and festive occasions.",
+    "brand": "TwinkleTots",
+    "category": "Girls > Dresses > Partywear",
+    "tags": [
+      "tulle",
+      "purple",
+      "sparkly",
+      "party dress",
+      "girls"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 39.0,
+    "currency": "USD",
+    "list_price": 48.0,
+    "sale_price": 39.0,
+    "availability": "in_stock",
+    "stock_quantity": 33,
+    "condition": "new",
+    "url": "https://example.com/products/240",
+    "image": "https://i.ibb.co/GvN1y1Mv/imgi-159-GL2076-1.jpg",
+    "images": [
+      "https://i.ibb.co/GvN1y1Mv/imgi-159-GL2076-1.jpg"
+    ],
+    "color": "Purple",
+    "size": [
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "241",
+    "sku": "SKU00241",
+    "gtin": "GTIN0000241",
+    "title": "Classic White Sleeveless Dress",
+    "description": "Timeless white sleeveless dress for girls, ideal for both casual and semi-formal wear.",
+    "brand": "PetalWish",
+    "category": "Girls > Dresses > Casual",
+    "tags": [
+      "white",
+      "sleeveless",
+      "classic",
+      "girls",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 29.0,
+    "currency": "USD",
+    "list_price": 38.0,
+    "sale_price": 29.0,
+    "availability": "in_stock",
+    "stock_quantity": 32,
+    "condition": "new",
+    "url": "https://example.com/products/241",
+    "image": "https://i.ibb.co/MD5Ft7jD/imgi-11-default.jpg",
+    "images": [
+      "https://i.ibb.co/MD5Ft7jD/imgi-11-default.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "242",
+    "sku": "SKU00242",
+    "gtin": "GTIN0000242",
+    "title": "Yellow Printed Frock with Cap Sleeves",
+    "description": "Bright yellow printed frock with comfortable cap sleeves, perfect for summer outings.",
+    "brand": "SunKidz",
+    "category": "Girls > Dresses > Summer",
+    "tags": [
+      "yellow",
+      "printed",
+      "frock",
+      "summer",
+      "girls"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 26.0,
+    "currency": "USD",
+    "list_price": 33.0,
+    "sale_price": 26.0,
+    "availability": "in_stock",
+    "stock_quantity": 35,
+    "condition": "new",
+    "url": "https://example.com/products/242",
+    "image": "https://i.ibb.co/mFqrq4Qw/imgi-149-IMG-20230715-091457.jpg",
+    "images": [
+      "https://i.ibb.co/mFqrq4Qw/imgi-149-IMG-20230715-091457.jpg"
+    ],
+    "color": "Yellow",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "243",
+    "sku": "SKU00243",
+    "gtin": "GTIN0000243",
+    "title": "Pink Layered Net Dress",
+    "description": "Elegant pink dress with soft net layers and a satin bow, suitable for birthdays and parties.",
+    "brand": "PrettyLittleOne",
+    "category": "Girls > Dresses > Partywear",
+    "tags": [
+      "pink",
+      "net",
+      "layered",
+      "party",
+      "girls"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 35.0,
+    "currency": "USD",
+    "list_price": 44.0,
+    "sale_price": 35.0,
+    "availability": "in_stock",
+    "stock_quantity": 30,
+    "condition": "new",
+    "url": "https://example.com/products/243",
+    "image": "https://i.ibb.co/wZhnrfyq/imgi-150-img-5557.jpg",
+    "images": [
+      "https://i.ibb.co/wZhnrfyq/imgi-150-img-5557.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "244",
+    "sku": "SKU00244",
+    "gtin": "GTIN0000244",
+    "title": "Floral Fantasy Dress for Girls",
+    "description": "Whimsical floral dress with puffed sleeves and colorful prints, great for casual or playtime.",
+    "brand": "BloomBelle",
+    "category": "Girls > Dresses > Casual",
+    "tags": [
+      "floral",
+      "colorful",
+      "playwear",
+      "casual",
+      "girls"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 27.0,
+    "currency": "USD",
+    "list_price": 36.0,
+    "sale_price": 27.0,
+    "availability": "in_stock",
+    "stock_quantity": 38,
+    "condition": "new",
+    "url": "https://example.com/products/244",
+    "image": "https://i.ibb.co/gFbH3pxb/imgi-153-kleitas-meitenem-petite-kingdom.jpg",
+    "images": [
+      "https://i.ibb.co/gFbH3pxb/imgi-153-kleitas-meitenem-petite-kingdom.jpg"
+    ],
+    "color": "Multi",
+    "size": [
+      "2Y",
+      "3Y",
+      "4Y",
+      "5Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "245",
+    "sku": "SKU00245",
+    "gtin": "GTIN0000245",
+    "title": "Purple Puff Sleeve Dress with Bow",
+    "description": "Charming purple dress with puff sleeves and front bow detail, suitable for birthdays or festive events.",
+    "brand": "RoyalTots",
+    "category": "Girls > Dresses > Partywear",
+    "tags": [
+      "purple",
+      "puff sleeves",
+      "bow",
+      "girls",
+      "dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 33.0,
+    "currency": "USD",
+    "list_price": 41.0,
+    "sale_price": 33.0,
+    "availability": "in_stock",
+    "stock_quantity": 34,
+    "condition": "new",
+    "url": "https://example.com/products/245",
+    "image": "https://i.ibb.co/rKrDjqdc/imgi-157-1-4c57c998-1a9a-42ea-a937-31a2d9777988.jpg",
+    "images": [
+      "https://i.ibb.co/rKrDjqdc/imgi-157-1-4c57c998-1a9a-42ea-a937-31a2d9777988.jpg"
+    ],
+    "color": "Purple",
+    "size": [
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "246",
+    "sku": "SKU00246",
+    "gtin": "GTIN0000246",
+    "title": "Ruffled Pink Party Dress for Girls",
+    "description": "Cute pink party dress featuring delicate ruffles and layered net design, ideal for birthdays and festive gatherings.",
+    "brand": "TwinkleTots",
+    "category": "Girls > Dresses > Partywear",
+    "tags": [
+      "pink",
+      "ruffled",
+      "party dress",
+      "layered",
+      "girls"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 34.0,
+    "currency": "USD",
+    "list_price": 42.0,
+    "sale_price": 34.0,
+    "availability": "in_stock",
+    "stock_quantity": 35,
+    "condition": "new",
+    "url": "https://example.com/products/246",
+    "image": "https://i.ibb.co/60fMq1D6/imgi-188-6a6f742678f08e2bbcdcdb2d472f7bde.jpg",
+    "images": [
+      "https://i.ibb.co/60fMq1D6/imgi-188-6a6f742678f08e2bbcdcdb2d472f7bde.jpg"
+    ],
+    "color": "Pink",
+    "size": [
+      "3Y",
+      "4Y",
+      "5Y",
+      "6Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "247",
+    "sku": "SKU00247",
+    "gtin": "GTIN0000247",
+    "title": "Golden Floral Dress for Girls",
+    "description": "Gorgeous golden dress adorned with floral embroidery, perfect for weddings, celebrations, and Eid.",
+    "brand": "RoyalTots",
+    "category": "Girls > Dresses > Formal",
+    "tags": [
+      "golden",
+      "floral",
+      "embroidered",
+      "girls",
+      "formal dress"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 37.0,
+    "currency": "USD",
+    "list_price": 46.0,
+    "sale_price": 37.0,
+    "availability": "in_stock",
+    "stock_quantity": 30,
+    "condition": "new",
+    "url": "https://example.com/products/247",
+    "image": "https://i.ibb.co/tppyHLtN/imgi-191-ec963d5f8392cc2684ee3f31d5e005c7.jpg",
+    "images": [
+      "https://i.ibb.co/tppyHLtN/imgi-191-ec963d5f8392cc2684ee3f31d5e005c7.jpg"
+    ],
+    "color": "Gold",
+    "size": [
+      "4Y",
+      "5Y",
+      "6Y",
+      "7Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "248",
+    "sku": "SKU00248",
+    "gtin": "GTIN0000248",
+    "title": "White Floral Tiered Maxi Dress",
+    "description": "Elegant white floral maxi dress with tiered ruffles and soft fabric, ideal for summer parties and formal events.",
+    "brand": "BloomBelle",
+    "category": "Girls > Dresses > Maxi",
+    "tags": [
+      "white",
+      "floral",
+      "tiered",
+      "maxi dress",
+      "girls"
+    ],
+    "gender": "female",
+    "age_group": "kids",
+    "price": 41.0,
+    "currency": "USD",
+    "list_price": 50.0,
+    "sale_price": 41.0,
+    "availability": "in_stock",
+    "stock_quantity": 31,
+    "condition": "new",
+    "url": "https://example.com/products/248",
+    "image": "https://i.ibb.co/QVmx5Xg/imgi-195-AEB5-D554-5856-4-C20-B4-B1-074-CA71-FB318-scaled.jpg",
+    "images": [
+      "https://i.ibb.co/QVmx5Xg/imgi-195-AEB5-D554-5856-4-C20-B4-B1-074-CA71-FB318-scaled.jpg"
+    ],
+    "color": "White",
+    "size": [
+      "5Y",
+      "6Y",
+      "7Y",
+      "8Y"
+    ],
+    "size_type": "Kids"
+  },
+  {
+    "id": "249",
+    "sku": "SKU00249",
+    "gtin": "GTIN0000249",
+    "title": "Ladies White Cocktail Dress",
+    "description": "Stylish white short cocktail dress for women, featuring a sleek silhouette and elegant neckline.",
+    "brand": "UrbanMuse",
+    "category": "Women > Dresses > Cocktail",
+    "tags": [
+      "white",
+      "cocktail",
+      "short dress",
+      "ladies",
+      "elegant"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 52.0,
+    "currency": "USD",
+    "list_price": 64.0,
+    "sale_price": 52.0,
+    "availability": "in_stock",
+    "stock_quantity": 28,
+    "condition": "new",
+    "url": "https://example.com/products/249",
+    "image": "https://i.ibb.co/VYf947BS/imgi-199-Manufacturer-Sexy-Short-Skirt-Ladies-Dress-Fashion-White-Elegant-New-Design-Dress-for-Women.webp",
+    "images": [
+      "https://i.ibb.co/VYf947BS/imgi-199-Manufacturer-Sexy-Short-Skirt-Ladies-Dress-Fashion-White-Elegant-New-Design-Dress-for-Women.webp"
+    ],
+    "color": "White",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "250",
+    "sku": "SKU00250",
+    "gtin": "GTIN0000250",
+    "title": "Women's Blue Fit & Flare Midi Dress",
+    "description": "Chic blue midi dress with a flattering fit & flare silhouette, perfect for everyday elegance or brunch dates.",
+    "brand": "EleganceEra",
+    "category": "Women > Dresses > Casual",
+    "tags": [
+      "blue",
+      "midi",
+      "fit and flare",
+      "casual",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 47.0,
+    "currency": "USD",
+    "list_price": 58.0,
+    "sale_price": 47.0,
+    "availability": "in_stock",
+    "stock_quantity": 26,
+    "condition": "new",
+    "url": "https://example.com/products/250",
+    "image": "https://i.ibb.co/Q3yD6g9d/imgi-201-product-image-100767868.jpg",
+    "images": [
+      "https://i.ibb.co/Q3yD6g9d/imgi-201-product-image-100767868.jpg"
+    ],
+    "color": "Blue",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "251",
+    "sku": "SKU00251",
+    "gtin": "GTIN0000251",
+    "title": "Pleated Sleeveless Summer Dress",
+    "description": "Elegant plain-colored pleated sleeveless dress, perfect for casual summer outings or beach holidays.",
+    "brand": "UrbanMuse",
+    "category": "Women > Dresses > Casual",
+    "tags": [
+      "pleated",
+      "summer",
+      "sleeveless",
+      "plain",
+      "women"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 38.0,
+    "currency": "USD",
+    "list_price": 47.0,
+    "sale_price": 38.0,
+    "availability": "in_stock",
+    "stock_quantity": 27,
+    "condition": "new",
+    "url": "https://example.com/products/251",
+    "image": "https://i.ibb.co/BX3p0nm/imgi-92-Wholesale-Stock-Europe-and-America-Fashion-Plain-Colored-Women-s-Clothing-Summer-New-Pleated.webp",
+    "images": [
+      "https://i.ibb.co/BX3p0nm/imgi-92-Wholesale-Stock-Europe-and-America-Fashion-Plain-Colored-Women-s-Clothing-Summer-New-Pleated.webp"
+    ],
+    "color": "Beige",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "252",
+    "sku": "SKU00252",
+    "gtin": "GTIN0000252",
+    "title": "Tie-Dye Cotton Short Skirt Set",
+    "description": "Trendy two-piece tie-dye set with short skirt and short-sleeve top, made from high-quality 100% cotton.",
+    "brand": "StreetBelle",
+    "category": "Women > Dresses > Sets",
+    "tags": [
+      "tie-dye",
+      "cotton",
+      "set",
+      "short skirt",
+      "two-piece"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 44.0,
+    "currency": "USD",
+    "list_price": 53.0,
+    "sale_price": 44.0,
+    "availability": "in_stock",
+    "stock_quantity": 25,
+    "condition": "new",
+    "url": "https://example.com/products/252",
+    "image": "https://i.ibb.co/C3rTMrjt/imgi-174-Customized-Summer-High-Quality-100-Cotton-Tie-Dye-Sexy-Short-Skirt-Set-Style-Short-Sleeve-D.webp",
+    "images": [
+      "https://i.ibb.co/C3rTMrjt/imgi-174-Customized-Summer-High-Quality-100-Cotton-Tie-Dye-Sexy-Short-Skirt-Set-Style-Short-Sleeve-D.webp"
+    ],
+    "color": "Multicolor",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "253",
+    "sku": "SKU00253",
+    "gtin": "GTIN0000253",
+    "title": "Tube Top Pleated Skirt Dress",
+    "description": "Bold and stylish tube top mini dress with fishbone pleating, great for clubwear and party nights.",
+    "brand": "ChicLine",
+    "category": "Women > Dresses > Clubwear",
+    "tags": [
+      "tube top",
+      "pleated",
+      "mini dress",
+      "fishbone",
+      "party"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 43.0,
+    "currency": "USD",
+    "list_price": 52.0,
+    "sale_price": 43.0,
+    "availability": "in_stock",
+    "stock_quantity": 22,
+    "condition": "new",
+    "url": "https://example.com/products/253",
+    "image": "https://i.ibb.co/fVGd2fFY/imgi-176-Cross-border-Women-s-Hot-Style-Tube-Top-Pleated-Short-Skirt-With-Fish-Bone-INS-Net-Red-Fore.jpg",
+    "images": [
+      "https://i.ibb.co/fVGd2fFY/imgi-176-Cross-border-Women-s-Hot-Style-Tube-Top-Pleated-Short-Skirt-With-Fish-Bone-INS-Net-Red-Fore.jpg"
+    ],
+    "color": "Black",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "254",
+    "sku": "SKU00254",
+    "gtin": "GTIN0000254",
+    "title": "One Shoulder Bodycon Dress",
+    "description": "Fashion-forward one-shoulder bodycon mini dress with ruched design, great for nights out or events.",
+    "brand": "GlowEdge",
+    "category": "Women > Dresses > Partywear",
+    "tags": [
+      "one shoulder",
+      "bodycon",
+      "mini dress",
+      "ruched",
+      "party"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 46.0,
+    "currency": "USD",
+    "list_price": 56.0,
+    "sale_price": 46.0,
+    "availability": "in_stock",
+    "stock_quantity": 24,
+    "condition": "new",
+    "url": "https://example.com/products/254",
+    "image": "https://i.ibb.co/93m75MGZ/imgi-179-e282e92ab4da562d7604450d56abed7f.jpg",
+    "images": [
+      "https://i.ibb.co/93m75MGZ/imgi-179-e282e92ab4da562d7604450d56abed7f.jpg"
+    ],
+    "color": "Lavender",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "size_type": "Regular"
+  },
+  {
+    "id": "255",
+    "sku": "SKU00255",
+    "gtin": "GTIN0000255",
+    "title": "Red Ruched Bodycon Mini Dress",
+    "description": "Chic red ruched bodycon mini dress with cap sleeves, a bold pick for evening wear and parties.",
+    "brand": "FemmeMode",
+    "category": "Women > Dresses > Clubwear",
+    "tags": [
+      "red",
+      "ruched",
+      "bodycon",
+      "mini dress",
+      "evening"
+    ],
+    "gender": "female",
+    "age_group": "adult",
+    "price": 42.0,
+    "currency": "USD",
+    "list_price": 50.0,
+    "sale_price": 42.0,
+    "availability": "in_stock",
+    "stock_quantity": 29,
+    "condition": "new",
+    "url": "https://example.com/products/255",
+    "image": "https://i.ibb.co/8DkW5hdS/imgi-182-Sd9374a96149d479586cc8ce394c479e4-V.jpg",
+    "images": [
+      "https://i.ibb.co/8DkW5hdS/imgi-182-Sd9374a96149d479586cc8ce394c479e4-V.jpg"
+    ],
+    "color": "Red",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "size_type": "Regular"
+  }
+]
